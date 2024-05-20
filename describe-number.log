@@ -1,0 +1,18 @@
+Package: describe-number
+Fetcher: github
+Source:  https://github.com/netromdk/describe-number.git
+
+Updating /mnt/store/melpa/working/describe-number/
+Checking out 40618345a37831804b29589849a785ef5aa5ac24
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/describe-number/
+  to /tmp/describe-numberrZE5hu/describe-number-20151101.55
+    describe-number.el -> describe-number.el
+Created describe-number-20151101.55.tar containing:
+  describe-number-20151101.55/
+  describe-number-20151101.55/describe-number-pkg.el
+  describe-number-20151101.55/describe-number.el
+ ✓ Success:
+  2024-04-21T22:21:02+0000  describe-number-20151101.55.entry
+  2024-04-21T22:21:02+0000  describe-number-20151101.55.tar
+Built describe-number in 4.200s, finished at 2024-04-21T22:21:04+0000

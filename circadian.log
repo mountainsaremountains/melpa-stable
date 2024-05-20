@@ -1,0 +1,18 @@
+Package: circadian
+Fetcher: github
+Source:  https://github.com/guidoschmidt/circadian.el.git
+
+Updating /mnt/store/melpa/working/circadian/
+Checking out 323039363588028c629604fae17b73a3d3c821cc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/circadian/
+  to /tmp/circadianqpBYpf/circadian-20240421.1521
+    circadian.el -> circadian.el
+Created circadian-20240421.1521.tar containing:
+  circadian-20240421.1521/
+  circadian-20240421.1521/circadian-pkg.el
+  circadian-20240421.1521/circadian.el
+ ✓ Success:
+  2024-04-21T22:15:36+0000  circadian-20240421.1521.entry
+  2024-04-21T22:15:36+0000  circadian-20240421.1521.tar
+Built circadian in 3.512s, finished at 2024-04-21T22:15:37+0000

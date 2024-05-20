@@ -1,0 +1,30 @@
+Package: corfu
+Fetcher: github
+Source:  https://github.com/minad/corfu.git
+
+Updating /mnt/store/melpa/working/corfu/
+Checking out b779552341354d59365a981fd208ae07b7a2950a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/corfu/
+  to /tmp/corfuRw4WO4/corfu-20240413.927
+    corfu.el -> corfu.el
+  ! extensions/corfu-echo.el -> corfu-echo.el
+  ! extensions/corfu-history.el -> corfu-history.el
+  ! extensions/corfu-indexed.el -> corfu-indexed.el
+  ! extensions/corfu-info.el -> corfu-info.el
+  ! extensions/corfu-popupinfo.el -> corfu-popupinfo.el
+  ! extensions/corfu-quick.el -> corfu-quick.el
+Created corfu-20240413.927.tar containing:
+  corfu-20240413.927/
+  corfu-20240413.927/corfu-echo.el
+  corfu-20240413.927/corfu-history.el
+  corfu-20240413.927/corfu-indexed.el
+  corfu-20240413.927/corfu-info.el
+  corfu-20240413.927/corfu-pkg.el
+  corfu-20240413.927/corfu-popupinfo.el
+  corfu-20240413.927/corfu-quick.el
+  corfu-20240413.927/corfu.el
+ ✓ Success:
+  2024-04-21T22:18:50+0000  corfu-20240413.927.entry
+  2024-04-21T22:18:50+0000  corfu-20240413.927.tar
+Built corfu in 3.391s, finished at 2024-04-21T22:18:52+0000

@@ -1,0 +1,20 @@
+Package: peek-mode
+Fetcher: github
+Source:  https://github.com/erikriverson/peek-mode.git
+
+Updating /mnt/store/melpa/working/peek-mode/
+Checking out 55a7dd011375330c7d57322257a5167516702c71
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/peek-mode/
+  to /tmp/peek-modeUlkFoV/peek-mode-20130620.1946
+    index.html -> index.html
+    peek-mode.el -> peek-mode.el
+Created peek-mode-20130620.1946.tar containing:
+  peek-mode-20130620.1946/
+  peek-mode-20130620.1946/index.html
+  peek-mode-20130620.1946/peek-mode-pkg.el
+  peek-mode-20130620.1946/peek-mode.el
+ ✓ Success:
+  2024-04-21T23:03:18+0000  peek-mode-20130620.1946.entry
+  2024-04-21T23:03:18+0000  peek-mode-20130620.1946.tar
+Built peek-mode in 3.180s, finished at 2024-04-21T23:03:20+0000

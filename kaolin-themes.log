@@ -1,0 +1,52 @@
+Package: kaolin-themes
+Fetcher: github
+Source:  https://github.com/ogdenwebb/emacs-kaolin-themes.git
+
+Updating /mnt/store/melpa/working/kaolin-themes/
+Checking out b03749c914b1319caccce4cf96630e3fba5335f5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kaolin-themes/
+  to /tmp/kaolin-themeshQukyd/kaolin-themes-20240217.2054
+    kaolin-themes-lib.el -> kaolin-themes-lib.el
+    kaolin-themes-treemacs.el -> kaolin-themes-treemacs.el
+    kaolin-themes.el -> kaolin-themes.el
+  ! themes/kaolin-aurora-theme.el -> kaolin-aurora-theme.el
+  ! themes/kaolin-blossom-theme.el -> kaolin-blossom-theme.el
+  ! themes/kaolin-breeze-theme.el -> kaolin-breeze-theme.el
+  ! themes/kaolin-bubblegum-theme.el -> kaolin-bubblegum-theme.el
+  ! themes/kaolin-dark-theme.el -> kaolin-dark-theme.el
+  ! themes/kaolin-eclipse-theme.el -> kaolin-eclipse-theme.el
+  ! themes/kaolin-galaxy-theme.el -> kaolin-galaxy-theme.el
+  ! themes/kaolin-light-theme.el -> kaolin-light-theme.el
+  ! themes/kaolin-mono-dark-theme.el -> kaolin-mono-dark-theme.el
+  ! themes/kaolin-mono-light-theme.el -> kaolin-mono-light-theme.el
+  ! themes/kaolin-ocean-theme.el -> kaolin-ocean-theme.el
+  ! themes/kaolin-shiva-theme.el -> kaolin-shiva-theme.el
+  ! themes/kaolin-temple-theme.el -> kaolin-temple-theme.el
+  ! themes/kaolin-valley-dark-theme.el -> kaolin-valley-dark-theme.el
+  ! themes/kaolin-valley-light-theme.el -> kaolin-valley-light-theme.el
+Created kaolin-themes-20240217.2054.tar containing:
+  kaolin-themes-20240217.2054/
+  kaolin-themes-20240217.2054/kaolin-aurora-theme.el
+  kaolin-themes-20240217.2054/kaolin-blossom-theme.el
+  kaolin-themes-20240217.2054/kaolin-breeze-theme.el
+  kaolin-themes-20240217.2054/kaolin-bubblegum-theme.el
+  kaolin-themes-20240217.2054/kaolin-dark-theme.el
+  kaolin-themes-20240217.2054/kaolin-eclipse-theme.el
+  kaolin-themes-20240217.2054/kaolin-galaxy-theme.el
+  kaolin-themes-20240217.2054/kaolin-light-theme.el
+  kaolin-themes-20240217.2054/kaolin-mono-dark-theme.el
+  kaolin-themes-20240217.2054/kaolin-mono-light-theme.el
+  kaolin-themes-20240217.2054/kaolin-ocean-theme.el
+  kaolin-themes-20240217.2054/kaolin-shiva-theme.el
+  kaolin-themes-20240217.2054/kaolin-temple-theme.el
+  kaolin-themes-20240217.2054/kaolin-themes-lib.el
+  kaolin-themes-20240217.2054/kaolin-themes-pkg.el
+  kaolin-themes-20240217.2054/kaolin-themes-treemacs.el
+  kaolin-themes-20240217.2054/kaolin-themes.el
+  kaolin-themes-20240217.2054/kaolin-valley-dark-theme.el
+  kaolin-themes-20240217.2054/kaolin-valley-light-theme.el
+ ✓ Success:
+  2024-04-21T22:46:31+0000  kaolin-themes-20240217.2054.entry
+  2024-04-21T22:46:31+0000  kaolin-themes-20240217.2054.tar
+Built kaolin-themes in 5.513s, finished at 2024-04-21T22:46:33+0000

@@ -1,0 +1,18 @@
+Package: leaf-keywords
+Fetcher: github
+Source:  https://github.com/conao3/leaf-keywords.el.git
+
+Updating /mnt/store/melpa/working/leaf-keywords/
+Checking out 849b579f87c263e2f1d7fb7eda93b6ce441f217e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/leaf-keywords/
+  to /tmp/leaf-keywordsB9uWIR/leaf-keywords-20210816.1107
+    leaf-keywords.el -> leaf-keywords.el
+Created leaf-keywords-20210816.1107.tar containing:
+  leaf-keywords-20210816.1107/
+  leaf-keywords-20210816.1107/leaf-keywords-pkg.el
+  leaf-keywords-20210816.1107/leaf-keywords.el
+ ✓ Success:
+  2024-04-21T22:48:23+0000  leaf-keywords-20210816.1107.entry
+  2024-04-21T22:48:23+0000  leaf-keywords-20210816.1107.tar
+Built leaf-keywords in 3.909s, finished at 2024-04-21T22:48:25+0000

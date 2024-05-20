@@ -1,0 +1,18 @@
+Package: repeater
+Fetcher: github
+Source:  https://github.com/xuchunyang/repeater.git
+
+Updating /mnt/store/melpa/working/repeater/
+Checking out 854b874542b186b2408cbc58ad0591fe8eb70b6c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/repeater/
+  to /tmp/repeaterPftJj2/repeater-20180418.1212
+    repeater.el -> repeater.el
+Created repeater-20180418.1212.tar containing:
+  repeater-20180418.1212/
+  repeater-20180418.1212/repeater-pkg.el
+  repeater-20180418.1212/repeater.el
+ ✓ Success:
+  2024-04-21T23:09:23+0000  repeater-20180418.1212.entry
+  2024-04-21T23:09:23+0000  repeater-20180418.1212.tar
+Built repeater in 3.745s, finished at 2024-04-21T23:09:25+0000

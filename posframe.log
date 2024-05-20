@@ -1,0 +1,20 @@
+Package: posframe
+Fetcher: github
+Source:  https://github.com/tumashu/posframe.git
+
+Updating /mnt/store/melpa/working/posframe/
+Checking out c06b30a0924fbc674f7d088b1ea216a59579fe63
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/posframe/
+  to /tmp/posframeRYtKWO/posframe-20240415.606
+    posframe-benchmark.el -> posframe-benchmark.el
+    posframe.el -> posframe.el
+Created posframe-20240415.606.tar containing:
+  posframe-20240415.606/
+  posframe-20240415.606/posframe-benchmark.el
+  posframe-20240415.606/posframe-pkg.el
+  posframe-20240415.606/posframe.el
+ ✓ Success:
+  2024-04-21T23:05:10+0000  posframe-20240415.606.entry
+  2024-04-21T23:05:10+0000  posframe-20240415.606.tar
+Built posframe in 5.622s, finished at 2024-04-21T23:05:13+0000

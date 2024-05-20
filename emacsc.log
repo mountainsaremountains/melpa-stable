@@ -1,0 +1,26 @@
+Package: emacsc
+Fetcher: github
+Source:  https://github.com/knu/emacsc.git
+
+Updating /mnt/store/melpa/working/emacsc/
+Checking out 9bec453a4170dbcb409b884e3e8d30f388de7b8d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsc/
+  to /tmp/emacscYLLssN/emacsc-20240104.634
+  ! lisp/emacsc.el -> emacsc.el
+    bin => bin
+Created emacsc-20240104.634.tar containing:
+  emacsc-20240104.634/
+  emacsc-20240104.634/bin/
+  emacsc-20240104.634/bin/dired
+  emacsc-20240104.634/bin/ediff
+  emacsc-20240104.634/bin/ediff-merge
+  emacsc-20240104.634/bin/emacsc
+  emacsc-20240104.634/bin/evil
+  emacsc-20240104.634/bin/magit
+  emacsc-20240104.634/emacsc-pkg.el
+  emacsc-20240104.634/emacsc.el
+ ✓ Success:
+  2024-04-21T22:26:15+0000  emacsc-20240104.634.entry
+  2024-04-21T22:26:15+0000  emacsc-20240104.634.tar
+Built emacsc in 3.409s, finished at 2024-04-21T22:26:16+0000

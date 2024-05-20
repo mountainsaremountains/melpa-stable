@@ -1,0 +1,5 @@
+Package: alchemist
+Fetcher: github
+Source:  https://github.com/tonini/alchemist.el.git
+
+Updating /mnt/store/melpa/working/alchemist/
