@@ -1,0 +1,42 @@
+Package: vertico
+Fetcher: github
+Source:  https://github.com/minad/vertico.git
+
+Updating /mnt/store/melpa/working/vertico/
+Checking out 0f12d85a5a38353471d7657572e69f00fa1b9639
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vertico/
+  to /tmp/verticorwuYHL/vertico-20240409.436
+    vertico.el -> vertico.el
+  ! extensions/vertico-buffer.el -> vertico-buffer.el
+  ! extensions/vertico-directory.el -> vertico-directory.el
+  ! extensions/vertico-flat.el -> vertico-flat.el
+  ! extensions/vertico-grid.el -> vertico-grid.el
+  ! extensions/vertico-indexed.el -> vertico-indexed.el
+  ! extensions/vertico-mouse.el -> vertico-mouse.el
+  ! extensions/vertico-multiform.el -> vertico-multiform.el
+  ! extensions/vertico-quick.el -> vertico-quick.el
+  ! extensions/vertico-repeat.el -> vertico-repeat.el
+  ! extensions/vertico-reverse.el -> vertico-reverse.el
+  ! extensions/vertico-suspend.el -> vertico-suspend.el
+  ! extensions/vertico-unobtrusive.el -> vertico-unobtrusive.el
+Created vertico-20240409.436.tar containing:
+  vertico-20240409.436/
+  vertico-20240409.436/vertico-buffer.el
+  vertico-20240409.436/vertico-directory.el
+  vertico-20240409.436/vertico-flat.el
+  vertico-20240409.436/vertico-grid.el
+  vertico-20240409.436/vertico-indexed.el
+  vertico-20240409.436/vertico-mouse.el
+  vertico-20240409.436/vertico-multiform.el
+  vertico-20240409.436/vertico-pkg.el
+  vertico-20240409.436/vertico-quick.el
+  vertico-20240409.436/vertico-repeat.el
+  vertico-20240409.436/vertico-reverse.el
+  vertico-20240409.436/vertico-suspend.el
+  vertico-20240409.436/vertico-unobtrusive.el
+  vertico-20240409.436/vertico.el
+ ✓ Success:
+  2024-04-21T23:21:00+0000  vertico-20240409.436.entry
+  2024-04-21T23:21:00+0000  vertico-20240409.436.tar
+Built vertico in 3.605s, finished at 2024-04-21T23:21:01+0000

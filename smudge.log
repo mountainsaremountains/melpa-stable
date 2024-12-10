@@ -1,0 +1,36 @@
+Package: smudge
+Fetcher: github
+Source:  https://github.com/danielfm/smudge.git
+
+Updating /mnt/store/melpa/working/smudge/
+Checking out 4a9c5b34e9bc0a694d0faf8c2f83dc244b8b6a2f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/smudge/
+  to /tmp/smudgeaFtyDY/smudge-20240413.2104
+    smudge-api.el -> smudge-api.el
+    smudge-apple.el -> smudge-apple.el
+    smudge-connect.el -> smudge-connect.el
+    smudge-controller.el -> smudge-controller.el
+    smudge-dbus.el -> smudge-dbus.el
+    smudge-device-select.el -> smudge-device-select.el
+    smudge-playlist.el -> smudge-playlist.el
+    smudge-remote.el -> smudge-remote.el
+    smudge-track.el -> smudge-track.el
+    smudge.el -> smudge.el
+Created smudge-20240413.2104.tar containing:
+  smudge-20240413.2104/
+  smudge-20240413.2104/smudge-api.el
+  smudge-20240413.2104/smudge-apple.el
+  smudge-20240413.2104/smudge-connect.el
+  smudge-20240413.2104/smudge-controller.el
+  smudge-20240413.2104/smudge-dbus.el
+  smudge-20240413.2104/smudge-device-select.el
+  smudge-20240413.2104/smudge-pkg.el
+  smudge-20240413.2104/smudge-playlist.el
+  smudge-20240413.2104/smudge-remote.el
+  smudge-20240413.2104/smudge-track.el
+  smudge-20240413.2104/smudge.el
+ ✓ Success:
+  2024-04-21T23:13:57+0000  smudge-20240413.2104.entry
+  2024-04-21T23:13:57+0000  smudge-20240413.2104.tar
+Built smudge in 3.250s, finished at 2024-04-21T23:13:59+0000

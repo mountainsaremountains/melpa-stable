@@ -1,0 +1,20 @@
+Package: macrostep
+Fetcher: github
+Source:  https://github.com/emacsorphanage/macrostep.git
+
+Updating /mnt/store/melpa/working/macrostep/
+Checking out e28d0a028f702d2dbf9a33ab691c3459268ed35e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/macrostep/
+  to /tmp/macrostepsT7LvO/macrostep-20240328.2134
+    macrostep-c.el -> macrostep-c.el
+    macrostep.el -> macrostep.el
+Created macrostep-20240328.2134.tar containing:
+  macrostep-20240328.2134/
+  macrostep-20240328.2134/macrostep-c.el
+  macrostep-20240328.2134/macrostep-pkg.el
+  macrostep-20240328.2134/macrostep.el
+ ✓ Success:
+  2024-04-21T22:50:30+0000  macrostep-20240328.2134.entry
+  2024-04-21T22:50:30+0000  macrostep-20240328.2134.tar
+Built macrostep in 3.998s, finished at 2024-04-21T22:50:32+0000

@@ -1,0 +1,18 @@
+Package: dw
+Fetcher: github
+Source:  https://github.com/integral-dw/dw-passphrase-generator.git
+
+Updating /mnt/store/melpa/working/dw/
+Checking out 61c5718ba64ace4c9e29de18aa2690ecc3f0f258
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dw/
+  to /tmp/dwQrfxjl/dw-20210331.2311
+    dw.el -> dw.el
+Created dw-20210331.2311.tar containing:
+  dw-20210331.2311/
+  dw-20210331.2311/dw-pkg.el
+  dw-20210331.2311/dw.el
+ ✓ Success:
+  2024-04-21T22:23:42+0000  dw-20210331.2311.entry
+  2024-04-21T22:23:42+0000  dw-20210331.2311.tar
+Built dw in 6.822s, finished at 2024-04-21T22:23:45+0000

@@ -1,0 +1,18 @@
+Package: addressbook-bookmark
+Fetcher: github
+Source:  https://github.com/thierryvolpiatto/addressbook-bookmark.git
+
+Updating /mnt/store/melpa/working/addressbook-bookmark/
+Checking out 2e76708a3dc73953c1e0f66e26918690b79424d0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/addressbook-bookmark/
+  to /tmp/addressbook-bookmarkkUvYuc/addressbook-bookmark-20240304.602
+    addressbook-bookmark.el -> addressbook-bookmark.el
+Created addressbook-bookmark-20240304.602.tar containing:
+  addressbook-bookmark-20240304.602/
+  addressbook-bookmark-20240304.602/addressbook-bookmark-pkg.el
+  addressbook-bookmark-20240304.602/addressbook-bookmark.el
+ ✓ Success:
+  2024-04-22T00:10:24+0000  addressbook-bookmark-20240304.602.entry
+  2024-04-22T00:10:24+0000  addressbook-bookmark-20240304.602.tar
+Built addressbook-bookmark in 3.224s, finished at 2024-04-22T00:10:25+0000

@@ -1,0 +1,10 @@
+Package: ox-impress-js
+Fetcher: github
+Source:  https://github.com/emacsattic/org-impress-js.git
+
+Cloning https://github.com/emacsattic/org-impress-js.git to /mnt/store/melpa/working/ox-impress-js/
+Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128
+Cloning into '/mnt/store/melpa/working/ox-impress-js'...
+fatal: could not read Username for 'https://github.com': No such device or address
+
+Command `git clone https\://github.com/emacsattic/org-impress-js.git /mnt/store/melpa/working/ox-impress-js/' exited with non-zero exit-code: 128

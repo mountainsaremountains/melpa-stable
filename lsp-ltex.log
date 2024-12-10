@@ -1,0 +1,18 @@
+Package: lsp-ltex
+Fetcher: github
+Source:  https://github.com/emacs-languagetool/lsp-ltex.git
+
+Updating /mnt/store/melpa/working/lsp-ltex/
+Checking out c4bc1515be815b58d76bed2dbc5e7c400c37d6be
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-ltex/
+  to /tmp/lsp-ltex68Oydc/lsp-ltex-20240318.224
+    lsp-ltex.el -> lsp-ltex.el
+Created lsp-ltex-20240318.224.tar containing:
+  lsp-ltex-20240318.224/
+  lsp-ltex-20240318.224/lsp-ltex-pkg.el
+  lsp-ltex-20240318.224/lsp-ltex.el
+ ✓ Success:
+  2024-04-21T22:50:04+0000  lsp-ltex-20240318.224.entry
+  2024-04-21T22:50:03+0000  lsp-ltex-20240318.224.tar
+Built lsp-ltex in 4.677s, finished at 2024-04-21T22:50:05+0000

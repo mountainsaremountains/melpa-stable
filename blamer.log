@@ -1,0 +1,18 @@
+Package: blamer
+Fetcher: github
+Source:  https://github.com/Artawower/blamer.el.git
+
+Updating /mnt/store/melpa/working/blamer/
+Checking out ab7d19c2ee54424d3ffc853982fe875ad47b6e7f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/blamer/
+  to /tmp/blamer62ltz1/blamer-20240320.2028
+    blamer.el -> blamer.el
+Created blamer-20240320.2028.tar containing:
+  blamer-20240320.2028/
+  blamer-20240320.2028/blamer-pkg.el
+  blamer-20240320.2028/blamer.el
+ ✓ Success:
+  2024-04-21T22:12:57+0000  blamer-20240320.2028.entry
+  2024-04-21T22:12:57+0000  blamer-20240320.2028.tar
+Built blamer in 3.465s, finished at 2024-04-21T22:12:59+0000

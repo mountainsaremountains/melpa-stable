@@ -1,0 +1,32 @@
+Package: lambdapi-mode
+Fetcher: github
+Source:  https://github.com/Deducteam/lambdapi.git
+
+Updating /mnt/store/melpa/working/lambdapi-mode/
+Checking out e30b9790784ee97dec66ac5a4420084700107b27
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lambdapi-mode/
+  to /tmp/lambdapi-mode31Pi6R/lambdapi-mode-20240329.1056
+  ! editors/emacs/lambdapi-abbrev.el -> lambdapi-abbrev.el
+  ! editors/emacs/lambdapi-capf.el -> lambdapi-capf.el
+  ! editors/emacs/lambdapi-input.el -> lambdapi-input.el
+  ! editors/emacs/lambdapi-layout.el -> lambdapi-layout.el
+  ! editors/emacs/lambdapi-mode.el -> lambdapi-mode.el
+  ! editors/emacs/lambdapi-proofs.el -> lambdapi-proofs.el
+  ! editors/emacs/lambdapi-smie.el -> lambdapi-smie.el
+  ! editors/emacs/lambdapi-vars.el -> lambdapi-vars.el
+Created lambdapi-mode-20240329.1056.tar containing:
+  lambdapi-mode-20240329.1056/
+  lambdapi-mode-20240329.1056/lambdapi-abbrev.el
+  lambdapi-mode-20240329.1056/lambdapi-capf.el
+  lambdapi-mode-20240329.1056/lambdapi-input.el
+  lambdapi-mode-20240329.1056/lambdapi-layout.el
+  lambdapi-mode-20240329.1056/lambdapi-mode-pkg.el
+  lambdapi-mode-20240329.1056/lambdapi-mode.el
+  lambdapi-mode-20240329.1056/lambdapi-proofs.el
+  lambdapi-mode-20240329.1056/lambdapi-smie.el
+  lambdapi-mode-20240329.1056/lambdapi-vars.el
+ ✓ Success:
+  2024-04-21T22:47:53+0000  lambdapi-mode-20240329.1056.entry
+  2024-04-21T22:47:53+0000  lambdapi-mode-20240329.1056.tar
+Built lambdapi-mode in 6.574s, finished at 2024-04-21T22:47:56+0000

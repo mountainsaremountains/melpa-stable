@@ -1,0 +1,20 @@
+Package: brec-mode
+Fetcher: github
+Source:  https://github.com/Michael-Allan/Breccia.Emacs.git
+
+Updating /mnt/store/melpa/working/brec-mode/
+Checking out 7620ec27aaff60ead4e2afcb6714484eead75e1f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/brec-mode/
+  to /tmp/brec-modeBoD6Rm/brec-mode-20240421.2126
+    brec-mode.el -> brec-mode.el
+Created brec-mode-20240421.2126.tar containing:
+  brec-mode-20240421.2126/
+  brec-mode-20240421.2126/brec-mode-pkg.el
+  brec-mode-20240421.2126/brec-mode.el
+ ✓ Success:
+  2024-04-21T20:13:44+0000  brec-mode-20240420.1523.entry
+  2024-04-21T20:13:44+0000  brec-mode-20240420.1523.tar
+  2024-04-21T22:13:29+0000  brec-mode-20240421.2126.entry
+  2024-04-21T22:13:29+0000  brec-mode-20240421.2126.tar
+Built brec-mode in 5.620s, finished at 2024-04-21T22:13:31+0000
