@@ -1,0 +1,18 @@
+Package: yaml
+Fetcher: github
+Source:  https://github.com/zkry/yaml.el
+
+Updating /mnt/store/melpa/working/yaml/
+Checking out 09e46d563f1f3ff948852e08360c7d3c76e2acba
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/yaml/
+  to /tmp/yamlhdE1SZ/yaml-20250208.1534
+    yaml.el -> yaml.el
+Created yaml-20250208.1534.tar containing:
+  yaml-20250208.1534/
+  yaml-20250208.1534/yaml-pkg.el
+  yaml-20250208.1534/yaml.el
+ ✓ Success:
+  2025-02-24T17:18:48+0000  yaml-20250208.1534.entry
+  2025-02-24T17:18:48+0000  yaml-20250208.1534.tar
+Built yaml in 3.873s, finished at 2025-02-24T17:18:49+0000

@@ -1,0 +1,5 @@
+Package: org-jami-bot
+Fetcher: gitlab
+Source:  https://gitlab.com/hperrey/org-jami-bot
+
+Updating /mnt/store/melpa/working/org-jami-bot/

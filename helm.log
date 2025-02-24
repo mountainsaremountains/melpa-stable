@@ -1,0 +1,98 @@
+Package: helm
+Fetcher: github
+Source:  https://github.com/emacs-helm/helm
+
+Updating /mnt/store/melpa/working/helm/
+Checking out b61117ed41879953030b2f320f02e6c52354929c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/helm/
+  to /tmp/helmrXB9lq/helm-20250224.857
+    helm-adaptive.el -> helm-adaptive.el
+    helm-bookmark.el -> helm-bookmark.el
+    helm-buffers.el -> helm-buffers.el
+    helm-color.el -> helm-color.el
+    helm-command.el -> helm-command.el
+    helm-dabbrev.el -> helm-dabbrev.el
+    helm-easymenu.el -> helm-easymenu.el
+    helm-elisp.el -> helm-elisp.el
+    helm-epa.el -> helm-epa.el
+    helm-eshell.el -> helm-eshell.el
+    helm-eval.el -> helm-eval.el
+    helm-external.el -> helm-external.el
+    helm-fd.el -> helm-fd.el
+    helm-files.el -> helm-files.el
+    helm-find.el -> helm-find.el
+    helm-font.el -> helm-font.el
+    helm-for-files.el -> helm-for-files.el
+    helm-global-bindings.el -> helm-global-bindings.el
+    helm-grep.el -> helm-grep.el
+    helm-help.el -> helm-help.el
+    helm-id-utils.el -> helm-id-utils.el
+    helm-imenu.el -> helm-imenu.el
+    helm-info.el -> helm-info.el
+    helm-locate.el -> helm-locate.el
+    helm-man.el -> helm-man.el
+    helm-misc.el -> helm-misc.el
+    helm-mode.el -> helm-mode.el
+    helm-net.el -> helm-net.el
+    helm-occur.el -> helm-occur.el
+    helm-packages.el -> helm-packages.el
+    helm-regexp.el -> helm-regexp.el
+    helm-ring.el -> helm-ring.el
+    helm-semantic.el -> helm-semantic.el
+    helm-sys.el -> helm-sys.el
+    helm-tags.el -> helm-tags.el
+    helm-types.el -> helm-types.el
+    helm-utils.el -> helm-utils.el
+    helm-x-files.el -> helm-x-files.el
+    helm-x-icons.el -> helm-x-icons.el
+    helm.el -> helm.el
+    emacs-helm.sh -> emacs-helm.sh
+Created helm-20250224.857.tar containing:
+  helm-20250224.857/
+  helm-20250224.857/emacs-helm.sh
+  helm-20250224.857/helm-adaptive.el
+  helm-20250224.857/helm-bookmark.el
+  helm-20250224.857/helm-buffers.el
+  helm-20250224.857/helm-color.el
+  helm-20250224.857/helm-command.el
+  helm-20250224.857/helm-dabbrev.el
+  helm-20250224.857/helm-easymenu.el
+  helm-20250224.857/helm-elisp.el
+  helm-20250224.857/helm-epa.el
+  helm-20250224.857/helm-eshell.el
+  helm-20250224.857/helm-eval.el
+  helm-20250224.857/helm-external.el
+  helm-20250224.857/helm-fd.el
+  helm-20250224.857/helm-files.el
+  helm-20250224.857/helm-find.el
+  helm-20250224.857/helm-font.el
+  helm-20250224.857/helm-for-files.el
+  helm-20250224.857/helm-global-bindings.el
+  helm-20250224.857/helm-grep.el
+  helm-20250224.857/helm-help.el
+  helm-20250224.857/helm-id-utils.el
+  helm-20250224.857/helm-imenu.el
+  helm-20250224.857/helm-info.el
+  helm-20250224.857/helm-locate.el
+  helm-20250224.857/helm-man.el
+  helm-20250224.857/helm-misc.el
+  helm-20250224.857/helm-mode.el
+  helm-20250224.857/helm-net.el
+  helm-20250224.857/helm-occur.el
+  helm-20250224.857/helm-packages.el
+  helm-20250224.857/helm-pkg.el
+  helm-20250224.857/helm-regexp.el
+  helm-20250224.857/helm-ring.el
+  helm-20250224.857/helm-semantic.el
+  helm-20250224.857/helm-sys.el
+  helm-20250224.857/helm-tags.el
+  helm-20250224.857/helm-types.el
+  helm-20250224.857/helm-utils.el
+  helm-20250224.857/helm-x-files.el
+  helm-20250224.857/helm-x-icons.el
+  helm-20250224.857/helm.el
+ ✓ Success:
+  2025-02-24T19:15:29+0000  helm-20250224.857.entry
+  2025-02-24T19:15:29+0000  helm-20250224.857.tar
+Built helm in 5.358s, finished at 2025-02-24T19:15:30+0000

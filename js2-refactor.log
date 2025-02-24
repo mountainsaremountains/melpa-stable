@@ -1,0 +1,36 @@
+Package: js2-refactor
+Fetcher: github
+Source:  https://github.com/js-emacs/js2-refactor.el
+
+Updating /mnt/store/melpa/working/js2-refactor/
+Checking out e1177c728ae52a5e67157fb18ee1409d8e95386a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/js2-refactor/
+  to /tmp/js2-refactorfTN09m/js2-refactor-20250210.1811
+    js2-refactor.el -> js2-refactor.el
+    js2r-conditionals.el -> js2r-conditionals.el
+    js2r-conveniences.el -> js2r-conveniences.el
+    js2r-formatting.el -> js2r-formatting.el
+    js2r-functions.el -> js2r-functions.el
+    js2r-helpers.el -> js2r-helpers.el
+    js2r-iife.el -> js2r-iife.el
+    js2r-paredit.el -> js2r-paredit.el
+    js2r-vars.el -> js2r-vars.el
+    js2r-wrapping.el -> js2r-wrapping.el
+Created js2-refactor-20250210.1811.tar containing:
+  js2-refactor-20250210.1811/
+  js2-refactor-20250210.1811/js2-refactor-pkg.el
+  js2-refactor-20250210.1811/js2-refactor.el
+  js2-refactor-20250210.1811/js2r-conditionals.el
+  js2-refactor-20250210.1811/js2r-conveniences.el
+  js2-refactor-20250210.1811/js2r-formatting.el
+  js2-refactor-20250210.1811/js2r-functions.el
+  js2-refactor-20250210.1811/js2r-helpers.el
+  js2-refactor-20250210.1811/js2r-iife.el
+  js2-refactor-20250210.1811/js2r-paredit.el
+  js2-refactor-20250210.1811/js2r-vars.el
+  js2-refactor-20250210.1811/js2r-wrapping.el
+ ✓ Success:
+  2025-02-24T19:23:28+0000  js2-refactor-20250210.1811.entry
+  2025-02-24T19:23:28+0000  js2-refactor-20250210.1811.tar
+Built js2-refactor in 3.396s, finished at 2025-02-24T19:23:29+0000

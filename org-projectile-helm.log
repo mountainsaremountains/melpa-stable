@@ -1,0 +1,18 @@
+Package: org-projectile-helm
+Fetcher: github
+Source:  https://github.com/colonelpanic8/org-project-capture
+
+Updating /mnt/store/melpa/working/org-projectile-helm/
+Checking out 214a6068c467323a795b27996c1e7b75ae42dc68
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-projectile-helm/
+  to /tmp/org-projectile-helmrbCyVz/org-projectile-helm-20230817.801
+    org-projectile-helm.el -> org-projectile-helm.el
+Created org-projectile-helm-20230817.801.tar containing:
+  org-projectile-helm-20230817.801/
+  org-projectile-helm-20230817.801/org-projectile-helm-pkg.el
+  org-projectile-helm-20230817.801/org-projectile-helm.el
+ ✓ Success:
+  2025-02-24T16:52:08+0000  org-projectile-helm-20230817.801.entry
+  2025-02-24T16:52:08+0000  org-projectile-helm-20230817.801.tar
+Built org-projectile-helm in 3.361s, finished at 2025-02-24T16:52:09+0000

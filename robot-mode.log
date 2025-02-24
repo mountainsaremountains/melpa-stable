@@ -1,0 +1,18 @@
+Package: robot-mode
+Fetcher: github
+Source:  https://github.com/kopoli/robot-mode
+
+Updating /mnt/store/melpa/working/robot-mode/
+Checking out 7c8d7adfa37b7bd15d61cbb78a02e0e1596c453c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/robot-mode/
+  to /tmp/robot-mode5OsRz8/robot-mode-20240721.1023
+    robot-mode.el -> robot-mode.el
+Created robot-mode-20240721.1023.tar containing:
+  robot-mode-20240721.1023/
+  robot-mode-20240721.1023/robot-mode-pkg.el
+  robot-mode-20240721.1023/robot-mode.el
+ ✓ Success:
+  2025-02-24T17:03:13+0000  robot-mode-20240721.1023.entry
+  2025-02-24T17:03:13+0000  robot-mode-20240721.1023.tar
+Built robot-mode in 3.388s, finished at 2025-02-24T17:03:14+0000

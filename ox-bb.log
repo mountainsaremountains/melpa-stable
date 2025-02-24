@@ -1,0 +1,18 @@
+Package: ox-bb
+Fetcher: github
+Source:  https://github.com/mmitch/ox-bb
+
+Updating /mnt/store/melpa/working/ox-bb/
+Checking out 129ea37caf6de6f43845bd36f16fd78251a3afe9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ox-bb/
+  to /tmp/ox-bbAI7yYI/ox-bb-20240903.2115
+    ox-bb.el -> ox-bb.el
+Created ox-bb-20240903.2115.tar containing:
+  ox-bb-20240903.2115/
+  ox-bb-20240903.2115/ox-bb-pkg.el
+  ox-bb-20240903.2115/ox-bb.el
+ ✓ Success:
+  2025-02-24T16:54:03+0000  ox-bb-20240903.2115.entry
+  2025-02-24T16:54:03+0000  ox-bb-20240903.2115.tar
+Built ox-bb in 3.677s, finished at 2025-02-24T16:54:04+0000

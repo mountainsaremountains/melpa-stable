@@ -1,0 +1,18 @@
+Package: orgmdb
+Fetcher: github
+Source:  https://github.com/isamert/orgmdb.el
+
+Updating /mnt/store/melpa/working/orgmdb/
+Checking out 04c4ea707b7313c3613517baabeae209e2b08a52
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/orgmdb/
+  to /tmp/orgmdbu2x1DS/orgmdb-20250104.1911
+    orgmdb.el -> orgmdb.el
+Created orgmdb-20250104.1911.tar containing:
+  orgmdb-20250104.1911/
+  orgmdb-20250104.1911/orgmdb-pkg.el
+  orgmdb-20250104.1911/orgmdb.el
+ ✓ Success:
+  2025-02-24T16:53:28+0000  orgmdb-20250104.1911.entry
+  2025-02-24T16:53:28+0000  orgmdb-20250104.1911.tar
+Built orgmdb in 3.035s, finished at 2025-02-24T16:53:29+0000

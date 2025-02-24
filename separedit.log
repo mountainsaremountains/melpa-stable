@@ -1,0 +1,18 @@
+Package: separedit
+Fetcher: github
+Source:  https://github.com/twlz0ne/separedit.el
+
+Updating /mnt/store/melpa/working/separedit/
+Checking out 0001d2b4fcc6e5f40ebc82dd3c80ac7ce4031234
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/separedit/
+  to /tmp/separeditkPTl4L/separedit-20241012.125
+    separedit.el -> separedit.el
+Created separedit-20241012.125.tar containing:
+  separedit-20241012.125/
+  separedit-20241012.125/separedit-pkg.el
+  separedit-20241012.125/separedit.el
+ ✓ Success:
+  2025-02-24T17:05:00+0000  separedit-20241012.125.entry
+  2025-02-24T17:05:00+0000  separedit-20241012.125.tar
+Built separedit in 3.676s, finished at 2025-02-24T17:05:01+0000

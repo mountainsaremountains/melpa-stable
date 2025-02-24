@@ -1,0 +1,38 @@
+Package: loopy
+Fetcher: github
+Source:  https://github.com/okamsn/loopy
+
+Updating /mnt/store/melpa/working/loopy/
+Checking out d00aa7d8edab5f48f6acc6bd984c6667c7ec25fd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/loopy/
+  to /tmp/loopyHbsyL8/loopy-20250215.2146
+  ! lisp/loopy-commands.el -> loopy-commands.el
+  ! lisp/loopy-destructure.el -> loopy-destructure.el
+  ! lisp/loopy-instrs.el -> loopy-instrs.el
+  ! lisp/loopy-iter.el -> loopy-iter.el
+  ! lisp/loopy-misc.el -> loopy-misc.el
+  ! lisp/loopy-pcase.el -> loopy-pcase.el
+  ! lisp/loopy-seq.el -> loopy-seq.el
+  ! lisp/loopy-vars.el -> loopy-vars.el
+  ! lisp/loopy.el -> loopy.el
+  ! doc/loopy.texi -> loopy.texi
+Generating loopy.info
+Created loopy-20250215.2146.tar containing:
+  loopy-20250215.2146/
+  loopy-20250215.2146/dir
+  loopy-20250215.2146/loopy-commands.el
+  loopy-20250215.2146/loopy-destructure.el
+  loopy-20250215.2146/loopy-instrs.el
+  loopy-20250215.2146/loopy-iter.el
+  loopy-20250215.2146/loopy-misc.el
+  loopy-20250215.2146/loopy-pcase.el
+  loopy-20250215.2146/loopy-pkg.el
+  loopy-20250215.2146/loopy-seq.el
+  loopy-20250215.2146/loopy-vars.el
+  loopy-20250215.2146/loopy.el
+  loopy-20250215.2146/loopy.info
+ ✓ Success:
+  2025-02-24T19:27:59+0000  loopy-20250215.2146.entry
+  2025-02-24T19:27:59+0000  loopy-20250215.2146.tar
+Built loopy in 14.499s, finished at 2025-02-24T19:28:01+0000

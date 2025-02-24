@@ -1,0 +1,22 @@
+Package: cape
+Fetcher: github
+Source:  https://github.com/minad/cape
+
+Updating /mnt/store/melpa/working/cape/
+Checking out 50fdb708074e91bc3d465fbc86c68cbda353b319
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cape/
+  to /tmp/cape9bN7vy/cape-20250219.1943
+    cape-char.el -> cape-char.el
+    cape-keyword.el -> cape-keyword.el
+    cape.el -> cape.el
+Created cape-20250219.1943.tar containing:
+  cape-20250219.1943/
+  cape-20250219.1943/cape-char.el
+  cape-20250219.1943/cape-keyword.el
+  cape-20250219.1943/cape-pkg.el
+  cape-20250219.1943/cape.el
+ ✓ Success:
+  2025-02-24T18:48:18+0000  cape-20250219.1943.entry
+  2025-02-24T18:48:18+0000  cape-20250219.1943.tar
+Built cape in 3.994s, finished at 2025-02-24T18:48:20+0000

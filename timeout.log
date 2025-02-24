@@ -1,0 +1,18 @@
+Package: timeout
+Fetcher: github
+Source:  https://github.com/karthink/timeout
+
+Updating /mnt/store/melpa/working/timeout/
+Checking out d59ca149307182b20e9843db0dd1738e01504cf1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/timeout/
+  to /tmp/timeoutx5Eh7q/timeout-20240623.2023
+    timeout.el -> timeout.el
+Created timeout-20240623.2023.tar containing:
+  timeout-20240623.2023/
+  timeout-20240623.2023/timeout-pkg.el
+  timeout-20240623.2023/timeout.el
+ ✓ Success:
+  2025-02-24T17:12:08+0000  timeout-20240623.2023.entry
+  2025-02-24T17:12:08+0000  timeout-20240623.2023.tar
+Built timeout in 3.106s, finished at 2025-02-24T17:12:09+0000

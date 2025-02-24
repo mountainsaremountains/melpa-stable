@@ -1,0 +1,18 @@
+Package: org-reverse-datetree
+Fetcher: github
+Source:  https://github.com/akirak/org-reverse-datetree
+
+Updating /mnt/store/melpa/working/org-reverse-datetree/
+Checking out d029e2263de23b19ed89f9757ad69b7cb33bda32
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-reverse-datetree/
+  to /tmp/org-reverse-datetreePN8irT/org-reverse-datetree-20240802.1519
+    org-reverse-datetree.el -> org-reverse-datetree.el
+Created org-reverse-datetree-20240802.1519.tar containing:
+  org-reverse-datetree-20240802.1519/
+  org-reverse-datetree-20240802.1519/org-reverse-datetree-pkg.el
+  org-reverse-datetree-20240802.1519/org-reverse-datetree.el
+ ✓ Success:
+  2025-02-24T16:52:24+0000  org-reverse-datetree-20240802.1519.entry
+  2025-02-24T16:52:23+0000  org-reverse-datetree-20240802.1519.tar
+Built org-reverse-datetree in 3.258s, finished at 2025-02-24T16:52:25+0000

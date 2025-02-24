@@ -1,0 +1,18 @@
+Package: sisyphus
+Fetcher: github
+Source:  https://github.com/magit/sisyphus
+
+Updating /mnt/store/melpa/working/sisyphus/
+Checking out fea66476e80fab13055fdcf3e395cdb694e23f78
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sisyphus/
+  to /tmp/sisyphuso0L5GW/sisyphus-20250223.2220
+    sisyphus.el -> sisyphus.el
+Created sisyphus-20250223.2220.tar containing:
+  sisyphus-20250223.2220/
+  sisyphus-20250223.2220/sisyphus-pkg.el
+  sisyphus-20250223.2220/sisyphus.el
+ ✓ Success:
+  2025-02-24T17:06:14+0000  sisyphus-20250223.2220.entry
+  2025-02-24T17:06:13+0000  sisyphus-20250223.2220.tar
+Built sisyphus in 3.469s, finished at 2025-02-24T17:06:15+0000

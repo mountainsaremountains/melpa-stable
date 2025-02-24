@@ -1,0 +1,18 @@
+Package: magit-p4
+Fetcher: github
+Source:  https://github.com/emacsorphanage/magit-p4
+
+Updating /mnt/store/melpa/working/magit-p4/
+Checking out 0fd0f882eb14510714393c15c2ccb8d2c259f01e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-p4/
+  to /tmp/magit-p4z5h3LD/magit-p4-20220822.2022
+    magit-p4.el -> magit-p4.el
+Created magit-p4-20220822.2022.tar containing:
+  magit-p4-20220822.2022/
+  magit-p4-20220822.2022/magit-p4-pkg.el
+  magit-p4-20220822.2022/magit-p4.el
+ ✓ Success:
+  2025-02-24T19:29:00+0000  magit-p4-20220822.2022.entry
+  2025-02-24T19:29:00+0000  magit-p4-20220822.2022.tar
+Built magit-p4 in 3.727s, finished at 2025-02-24T19:29:01+0000

@@ -1,0 +1,18 @@
+Package: sq
+Fetcher: gitlab
+Source:  https://gitlab.com/sequoia-pgp/sqel
+
+Updating /mnt/store/melpa/working/sq/
+Checking out 096c641fe2ac1efeb8ba09d1244ef95bf25ae1bb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sq/
+  to /tmp/sq23MuI0/sq-20240721.933
+    sq.el -> sq.el
+Created sq-20240721.933.tar containing:
+  sq-20240721.933/
+  sq-20240721.933/sq-pkg.el
+  sq-20240721.933/sq.el
+ ✓ Success:
+  2025-02-24T17:08:40+0000  sq-20240721.933.entry
+  2025-02-24T17:08:40+0000  sq-20240721.933.tar
+Built sq in 10.775s, finished at 2025-02-24T17:08:43+0000

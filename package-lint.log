@@ -1,0 +1,22 @@
+Package: package-lint
+Fetcher: github
+Source:  https://github.com/purcell/package-lint
+
+Updating /mnt/store/melpa/working/package-lint/
+Checking out 21edc6d0d0eadd2d0a537f422fb9b7b8a3ae6991
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/package-lint/
+  to /tmp/package-lintjLmwy1/package-lint-20250212.1515
+    package-lint.el -> package-lint.el
+    data => data
+Created package-lint-20250212.1515.tar containing:
+  package-lint-20250212.1515/
+  package-lint-20250212.1515/data/
+  package-lint-20250212.1515/data/compat-symbols
+  package-lint-20250212.1515/data/stdlib-changes
+  package-lint-20250212.1515/package-lint-pkg.el
+  package-lint-20250212.1515/package-lint.el
+ ✓ Success:
+  2025-02-24T16:54:45+0000  package-lint-20250212.1515.entry
+  2025-02-24T16:54:45+0000  package-lint-20250212.1515.tar
+Built package-lint in 3.647s, finished at 2025-02-24T16:54:46+0000

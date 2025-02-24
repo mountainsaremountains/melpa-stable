@@ -1,0 +1,24 @@
+Package: jumblr
+Fetcher: github
+Source:  https://github.com/mkmcc/jumblr
+
+Updating /mnt/store/melpa/working/jumblr/
+Checking out 34533dfb9db8538c005f4eaffafeff7ed193729f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jumblr/
+  to /tmp/jumblrSN40MF/jumblr-20170727.2043
+    jumblr.el -> jumblr.el
+    dict => dict
+Created jumblr-20170727.2043.tar containing:
+  jumblr-20170727.2043/
+  jumblr-20170727.2043/dict/
+  jumblr-20170727.2043/dict/easy.txt
+  jumblr-20170727.2043/dict/expert.txt
+  jumblr-20170727.2043/dict/hard.txt
+  jumblr-20170727.2043/dict/medium.txt
+  jumblr-20170727.2043/jumblr-pkg.el
+  jumblr-20170727.2043/jumblr.el
+ ✓ Success:
+  2025-02-24T19:23:50+0000  jumblr-20170727.2043.entry
+  2025-02-24T19:23:50+0000  jumblr-20170727.2043.tar
+Built jumblr in 3.126s, finished at 2025-02-24T19:23:51+0000

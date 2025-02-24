@@ -1,0 +1,20 @@
+Package: python-x
+Fetcher: gitlab
+Source:  https://gitlab.com/wavexx/python-x.el
+
+Updating /mnt/store/melpa/working/python-x/
+Checking out 97fdedeeb23bdba4ee8d1b28defa027fde8f3767
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/python-x/
+  to /tmp/python-x2cKwE4/python-x-20250211.2146
+    python-help-mode.el -> python-help-mode.el
+    python-x.el -> python-x.el
+Created python-x-20250211.2146.tar containing:
+  python-x-20250211.2146/
+  python-x-20250211.2146/python-help-mode.el
+  python-x-20250211.2146/python-x-pkg.el
+  python-x-20250211.2146/python-x.el
+ ✓ Success:
+  2025-02-24T17:00:27+0000  python-x-20250211.2146.entry
+  2025-02-24T17:00:27+0000  python-x-20250211.2146.tar
+Built python-x in 4.412s, finished at 2025-02-24T17:00:28+0000

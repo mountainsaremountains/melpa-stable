@@ -1,0 +1,20 @@
+Package: nordic-night-theme
+Fetcher: codeberg
+Source:  https://codeberg.org/ashton314/nordic-night
+
+Updating /mnt/store/melpa/working/nordic-night-theme/
+Checking out 7d37878b7e216dc28e4e00f2ecaad413c8712536
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nordic-night-theme/
+  to /tmp/nordic-night-themeW5xG0L/nordic-night-theme-20250206.2258
+    nordic-midnight-theme.el -> nordic-midnight-theme.el
+    nordic-night-theme.el -> nordic-night-theme.el
+Created nordic-night-theme-20250206.2258.tar containing:
+  nordic-night-theme-20250206.2258/
+  nordic-night-theme-20250206.2258/nordic-midnight-theme.el
+  nordic-night-theme-20250206.2258/nordic-night-theme-pkg.el
+  nordic-night-theme-20250206.2258/nordic-night-theme.el
+ ✓ Success:
+  2025-02-24T19:34:35+0000  nordic-night-theme-20250206.2258.entry
+  2025-02-24T19:34:35+0000  nordic-night-theme-20250206.2258.tar
+Built nordic-night-theme in 3.877s, finished at 2025-02-24T19:34:36+0000

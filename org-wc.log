@@ -1,0 +1,18 @@
+Package: org-wc
+Fetcher: github
+Source:  https://github.com/tesujimath/org-wc
+
+Updating /mnt/store/melpa/working/org-wc/
+Checking out dbbf794e4ec6c4080d945f43338185e34a4a582d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-wc/
+  to /tmp/org-wc6VoIVe/org-wc-20200731.2244
+    org-wc.el -> org-wc.el
+Created org-wc-20200731.2244.tar containing:
+  org-wc-20200731.2244/
+  org-wc-20200731.2244/org-wc-pkg.el
+  org-wc-20200731.2244/org-wc.el
+ ✓ Success:
+  2025-02-24T16:53:10+0000  org-wc-20200731.2244.entry
+  2025-02-24T16:53:10+0000  org-wc-20200731.2244.tar
+Built org-wc in 3.488s, finished at 2025-02-24T16:53:11+0000

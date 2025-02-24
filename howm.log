@@ -1,0 +1,66 @@
+Package: howm
+Fetcher: github
+Source:  https://github.com/kaorahi/howm
+
+Updating /mnt/store/melpa/working/howm/
+Checking out 0967a3f2c05b790e22f58812fc59313dc089d8b7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/howm/
+  to /tmp/howmjz0dNN/howm-20250224.1324
+    action-lock.el -> action-lock.el
+    bcomp.el -> bcomp.el
+    cheat-font-lock.el -> cheat-font-lock.el
+    gfunc.el -> gfunc.el
+    honest-report.el -> honest-report.el
+    howm-backend.el -> howm-backend.el
+    howm-common.el -> howm-common.el
+    howm-date.el -> howm-date.el
+    howm-lang-en.el -> howm-lang-en.el
+    howm-lang-fr.el -> howm-lang-fr.el
+    howm-lang-ja.el -> howm-lang-ja.el
+    howm-menu-en.el -> howm-menu-en.el
+    howm-menu-fr.el -> howm-menu-fr.el
+    howm-menu-ja.el -> howm-menu-ja.el
+    howm-menu.el -> howm-menu.el
+    howm-misc.el -> howm-misc.el
+    howm-mkmenu.el -> howm-mkmenu.el
+    howm-mode.el -> howm-mode.el
+    howm-reminder.el -> howm-reminder.el
+    howm-vars.el -> howm-vars.el
+    howm-view.el -> howm-view.el
+    howm.el -> howm.el
+    iigrep.el -> iigrep.el
+    illusion.el -> illusion.el
+    riffle.el -> riffle.el
+Created howm-20250224.1324.tar containing:
+  howm-20250224.1324/
+  howm-20250224.1324/action-lock.el
+  howm-20250224.1324/bcomp.el
+  howm-20250224.1324/cheat-font-lock.el
+  howm-20250224.1324/gfunc.el
+  howm-20250224.1324/honest-report.el
+  howm-20250224.1324/howm-backend.el
+  howm-20250224.1324/howm-common.el
+  howm-20250224.1324/howm-date.el
+  howm-20250224.1324/howm-lang-en.el
+  howm-20250224.1324/howm-lang-fr.el
+  howm-20250224.1324/howm-lang-ja.el
+  howm-20250224.1324/howm-menu-en.el
+  howm-20250224.1324/howm-menu-fr.el
+  howm-20250224.1324/howm-menu-ja.el
+  howm-20250224.1324/howm-menu.el
+  howm-20250224.1324/howm-misc.el
+  howm-20250224.1324/howm-mkmenu.el
+  howm-20250224.1324/howm-mode.el
+  howm-20250224.1324/howm-pkg.el
+  howm-20250224.1324/howm-reminder.el
+  howm-20250224.1324/howm-vars.el
+  howm-20250224.1324/howm-view.el
+  howm-20250224.1324/howm.el
+  howm-20250224.1324/iigrep.el
+  howm-20250224.1324/illusion.el
+  howm-20250224.1324/riffle.el
+ ✓ Success:
+  2025-02-24T19:19:06+0000  howm-20250224.1324.entry
+  2025-02-24T19:19:06+0000  howm-20250224.1324.tar
+Built howm in 4.498s, finished at 2025-02-24T19:19:07+0000
