@@ -1,0 +1,41 @@
+Package: tempel-collection
+Fetcher: github
+Source:  https://github.com/Crandel/tempel-collection.git
+
+Updating /mnt/store/melpa/working/tempel-collection/
+Checking out e87b1fee9554f9bc7415df053c8d8c9f03c13955
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tempel-collection/
+  to /tmp/tempel-collectionkrNsmI/tempel-collection-20240404.1026
+    tempel-collection.el -> tempel-collection.el
+    templates => templates
+Created tempel-collection-20240404.1026.tar containing:
+  tempel-collection-20240404.1026/
+  tempel-collection-20240404.1026/tempel-collection-pkg.el
+  tempel-collection-20240404.1026/tempel-collection.el
+  tempel-collection-20240404.1026/templates/
+  tempel-collection-20240404.1026/templates/css-base.eld
+  tempel-collection-20240404.1026/templates/emacs-lisp.eld
+  tempel-collection-20240404.1026/templates/eshell.eld
+  tempel-collection-20240404.1026/templates/fundamental.eld
+  tempel-collection-20240404.1026/templates/go.eld
+  tempel-collection-20240404.1026/templates/html.eld
+  tempel-collection-20240404.1026/templates/java.eld
+  tempel-collection-20240404.1026/templates/js-base.eld
+  tempel-collection-20240404.1026/templates/latex.eld
+  tempel-collection-20240404.1026/templates/lisp.eld
+  tempel-collection-20240404.1026/templates/markdown.eld
+  tempel-collection-20240404.1026/templates/nix.eld
+  tempel-collection-20240404.1026/templates/org.eld
+  tempel-collection-20240404.1026/templates/prog.eld
+  tempel-collection-20240404.1026/templates/python-base.eld
+  tempel-collection-20240404.1026/templates/rst.eld
+  tempel-collection-20240404.1026/templates/ruby-base.eld
+  tempel-collection-20240404.1026/templates/rust.eld
+  tempel-collection-20240404.1026/templates/sh-base.eld
+  tempel-collection-20240404.1026/templates/texinfo.eld
+  tempel-collection-20240404.1026/templates/text.eld
+ ✓ Success:
+  2024-04-21T23:16:50+0000  tempel-collection-20240404.1026.entry
+  2024-04-21T23:16:50+0000  tempel-collection-20240404.1026.tar
+Built tempel-collection in 3.594s, finished at 2024-04-21T23:16:52+0000

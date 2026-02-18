@@ -1,0 +1,28 @@
+Package: tabnine
+Fetcher: github
+Source:  https://github.com/shuxiao9058/tabnine.git
+
+Updating /mnt/store/melpa/working/tabnine/
+Checking out 89b9d43e98b4a5ab0988d8924c79960d2af77cf8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tabnine/
+  to /tmp/tabnineSgssTF/tabnine-20240421.1410
+    tabnine-chat-curl.el -> tabnine-chat-curl.el
+    tabnine-chat-transient.el -> tabnine-chat-transient.el
+    tabnine-chat.el -> tabnine-chat.el
+    tabnine-core.el -> tabnine-core.el
+    tabnine-util.el -> tabnine-util.el
+    tabnine.el -> tabnine.el
+Created tabnine-20240421.1410.tar containing:
+  tabnine-20240421.1410/
+  tabnine-20240421.1410/tabnine-chat-curl.el
+  tabnine-20240421.1410/tabnine-chat-transient.el
+  tabnine-20240421.1410/tabnine-chat.el
+  tabnine-20240421.1410/tabnine-core.el
+  tabnine-20240421.1410/tabnine-pkg.el
+  tabnine-20240421.1410/tabnine-util.el
+  tabnine-20240421.1410/tabnine.el
+ ✓ Success:
+  2024-04-21T23:16:29+0000  tabnine-20240421.1410.entry
+  2024-04-21T23:16:29+0000  tabnine-20240421.1410.tar
+Built tabnine in 3.485s, finished at 2024-04-21T23:16:31+0000

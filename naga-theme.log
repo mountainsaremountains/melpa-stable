@@ -1,0 +1,22 @@
+Package: naga-theme
+Fetcher: github
+Source:  https://github.com/kenranunderscore/emacs-naga-theme.git
+
+Updating /mnt/store/melpa/working/naga-theme/
+Checking out a044e5eb5bf9bbefe34982ae9cc80ac9739a3e58
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/naga-theme/
+  to /tmp/naga-themeJ2bEI2/naga-theme-20240327.819
+    naga-base.el -> naga-base.el
+    naga-dimmed-theme.el -> naga-dimmed-theme.el
+    naga-theme.el -> naga-theme.el
+Created naga-theme-20240327.819.tar containing:
+  naga-theme-20240327.819/
+  naga-theme-20240327.819/naga-base.el
+  naga-theme-20240327.819/naga-dimmed-theme.el
+  naga-theme-20240327.819/naga-theme-pkg.el
+  naga-theme-20240327.819/naga-theme.el
+ ✓ Success:
+  2024-04-21T22:54:42+0000  naga-theme-20240327.819.entry
+  2024-04-21T22:54:42+0000  naga-theme-20240327.819.tar
+Built naga-theme in 4.862s, finished at 2024-04-21T22:54:45+0000

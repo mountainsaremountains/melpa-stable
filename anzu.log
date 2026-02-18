@@ -1,0 +1,18 @@
+Package: anzu
+Fetcher: github
+Source:  https://github.com/emacsorphanage/anzu.git
+
+Updating /mnt/store/melpa/working/anzu/
+Checking out 26fb50b429ee968eb944b0615dd0aed1dd66172c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/anzu/
+  to /tmp/anzuA1fNTR/anzu-20240202.447
+    anzu.el -> anzu.el
+Created anzu-20240202.447.tar containing:
+  anzu-20240202.447/
+  anzu-20240202.447/anzu-pkg.el
+  anzu-20240202.447/anzu.el
+ ✓ Success:
+  2024-04-21T22:09:58+0000  anzu-20240202.447.entry
+  2024-04-21T22:09:58+0000  anzu-20240202.447.tar
+Built anzu in 3.656s, finished at 2024-04-21T22:10:00+0000

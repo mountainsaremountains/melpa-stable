@@ -1,0 +1,20 @@
+Package: spdx
+Fetcher: github
+Source:  https://github.com/condy0919/spdx.el.git
+
+Updating /mnt/store/melpa/working/spdx/
+Checking out dfb600167dae95068d94e0c990fff77d235928d2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/spdx/
+  to /tmp/spdxZMHguz/spdx-20240418.100
+    spdx-data.el -> spdx-data.el
+    spdx.el -> spdx.el
+Created spdx-20240418.100.tar containing:
+  spdx-20240418.100/
+  spdx-20240418.100/spdx-data.el
+  spdx-20240418.100/spdx-pkg.el
+  spdx-20240418.100/spdx.el
+ ✓ Success:
+  2024-04-21T23:14:35+0000  spdx-20240418.100.entry
+  2024-04-21T23:14:35+0000  spdx-20240418.100.tar
+Built spdx in 4.445s, finished at 2024-04-21T23:14:37+0000

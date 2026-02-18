@@ -1,0 +1,24 @@
+Package: lyrics-fetcher
+Fetcher: github
+Source:  https://github.com/SqrtMinusOne/lyrics-fetcher.el.git
+
+Updating /mnt/store/melpa/working/lyrics-fetcher/
+Checking out bcde34a7ae8db84170bfe76260eefed64686ddf0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lyrics-fetcher/
+  to /tmp/lyrics-fetcherkhEI6s/lyrics-fetcher-20231225.2350
+    lyrics-fetcher-analyze.el -> lyrics-fetcher-analyze.el
+    lyrics-fetcher-genius.el -> lyrics-fetcher-genius.el
+    lyrics-fetcher-neteasecloud.el -> lyrics-fetcher-neteasecloud.el
+    lyrics-fetcher.el -> lyrics-fetcher.el
+Created lyrics-fetcher-20231225.2350.tar containing:
+  lyrics-fetcher-20231225.2350/
+  lyrics-fetcher-20231225.2350/lyrics-fetcher-analyze.el
+  lyrics-fetcher-20231225.2350/lyrics-fetcher-genius.el
+  lyrics-fetcher-20231225.2350/lyrics-fetcher-neteasecloud.el
+  lyrics-fetcher-20231225.2350/lyrics-fetcher-pkg.el
+  lyrics-fetcher-20231225.2350/lyrics-fetcher.el
+ ✓ Success:
+  2024-04-21T22:50:27+0000  lyrics-fetcher-20231225.2350.entry
+  2024-04-21T22:50:27+0000  lyrics-fetcher-20231225.2350.tar
+Built lyrics-fetcher in 4.263s, finished at 2024-04-21T22:50:28+0000

@@ -1,0 +1,5 @@
+Package: alda-mode
+Fetcher: gitlab
+Source:  https://gitlab.com/jgkamat/alda-mode.git
+
+Updating /mnt/store/melpa/working/alda-mode/

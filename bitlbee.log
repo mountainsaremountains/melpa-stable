@@ -1,0 +1,19 @@
+Package: bitlbee
+Fetcher: github
+Source:  https://github.com/pjones/bitlbee-el.git
+
+Updating /mnt/store/melpa/working/bitlbee/
+Checking out f3342da46b0864ae8db4e82b553d9e617b090534
+Warning: bitlbee :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bitlbee/
+  to /tmp/bitlbeelb5Jr0/bitlbee-20151203.0
+  ! lisp/bitlbee.el -> bitlbee.el
+Created bitlbee-20151203.0.tar containing:
+  bitlbee-20151203.0/
+  bitlbee-20151203.0/bitlbee-pkg.el
+  bitlbee-20151203.0/bitlbee.el
+ ✓ Success:
+  2024-04-21T22:12:52+0000  bitlbee-20151203.0.entry
+  2024-04-21T22:12:52+0000  bitlbee-20151203.0.tar
+Built bitlbee in 3.256s, finished at 2024-04-21T22:12:54+0000

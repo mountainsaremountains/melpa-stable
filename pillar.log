@@ -1,0 +1,20 @@
+Package: pillar
+Fetcher: github
+Source:  https://github.com/pillar-markup/pillar-mode.git
+
+Updating /mnt/store/melpa/working/pillar/
+Checking out 13a7f676544cc66005ccd8e6fc1c25e4ccd6f909
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pillar/
+  to /tmp/pillarIy4rV4/pillar-20141112.1811
+    pillar-latex2pillar.el -> pillar-latex2pillar.el
+    pillar.el -> pillar.el
+Created pillar-20141112.1811.tar containing:
+  pillar-20141112.1811/
+  pillar-20141112.1811/pillar-latex2pillar.el
+  pillar-20141112.1811/pillar-pkg.el
+  pillar-20141112.1811/pillar.el
+ ✓ Success:
+  2024-04-21T23:04:00+0000  pillar-20141112.1811.entry
+  2024-04-21T23:04:00+0000  pillar-20141112.1811.tar
+Built pillar in 3.586s, finished at 2024-04-21T23:04:02+0000

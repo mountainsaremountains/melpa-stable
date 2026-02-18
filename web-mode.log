@@ -1,0 +1,18 @@
+Package: web-mode
+Fetcher: github
+Source:  https://github.com/fxbois/web-mode.git
+
+Updating /mnt/store/melpa/working/web-mode/
+Checking out 005aa62d6f41fbf9bc045cac3b3b772716ee8ba7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/web-mode/
+  to /tmp/web-modeliYYrk/web-mode-20240413.1455
+    web-mode.el -> web-mode.el
+Created web-mode-20240413.1455.tar containing:
+  web-mode-20240413.1455/
+  web-mode-20240413.1455/web-mode-pkg.el
+  web-mode-20240413.1455/web-mode.el
+ ✓ Success:
+  2024-04-21T23:21:57+0000  web-mode-20240413.1455.entry
+  2024-04-21T23:21:57+0000  web-mode-20240413.1455.tar
+Built web-mode in 5.731s, finished at 2024-04-21T23:22:00+0000

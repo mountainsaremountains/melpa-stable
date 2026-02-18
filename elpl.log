@@ -1,0 +1,18 @@
+Package: elpl
+Fetcher: github
+Source:  https://github.com/twlz0ne/elpl.git
+
+Updating /mnt/store/melpa/working/elpl/
+Checking out 501871ab543b9967bfe87a8a82f83ab96b7f909e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elpl/
+  to /tmp/elplt3XP5t/elpl-20220328.316
+    elpl.el -> elpl.el
+Created elpl-20220328.316.tar containing:
+  elpl-20220328.316/
+  elpl-20220328.316/elpl-pkg.el
+  elpl-20220328.316/elpl.el
+ ✓ Success:
+  2024-04-21T22:26:00+0000  elpl-20220328.316.entry
+  2024-04-21T22:26:00+0000  elpl-20220328.316.tar
+Built elpl in 3.324s, finished at 2024-04-21T22:26:01+0000
