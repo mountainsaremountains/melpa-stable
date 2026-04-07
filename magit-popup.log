@@ -1,0 +1,19 @@
+ • Building package magit-popup (from github:magit/magit-popup)...
+Updating /mnt/store/melpa/working/magit-popup/
+Checking out d8585fa39f88956963d877b921322530257ba9f5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-popup/
+  to /tmp/magit-popupewfKJY/magit-popup-20200719.1015
+    magit-popup.el -> magit-popup.el
+    magit-popup.texi -> magit-popup.texi
+Generating magit-popup.info
+Created magit-popup-20200719.1015.tar containing:
+  magit-popup-20200719.1015/
+  magit-popup-20200719.1015/dir
+  magit-popup-20200719.1015/magit-popup-pkg.el
+  magit-popup-20200719.1015/magit-popup.el
+  magit-popup-20200719.1015/magit-popup.info
+ ✓ Success:
+  2026-02-05T12:25:26+0000  magit-popup-20200719.1015.entry
+  2026-02-05T12:25:26+0000  magit-popup-20200719.1015.tar
+Built magit-popup in 4.309s, finished at 2026-02-05T12:25:27+0000

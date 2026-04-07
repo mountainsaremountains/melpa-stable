@@ -1,0 +1,36 @@
+ • Building package org-ai (from github:rksm/org-ai)...
+Updating /mnt/store/melpa/working/org-ai/
+Checking out 71a6ea50555531f627a69aa0584d3a19060050a4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-ai/
+  to /tmp/org-aiFoIBDI/org-ai-20260107.1110
+    org-ai-block.el -> org-ai-block.el
+    org-ai-on-project.el -> org-ai-on-project.el
+    org-ai-oobabooga.el -> org-ai-oobabooga.el
+    org-ai-openai-image.el -> org-ai-openai-image.el
+    org-ai-openai.el -> org-ai-openai.el
+    org-ai-sd.el -> org-ai-sd.el
+    org-ai-talk.el -> org-ai-talk.el
+    org-ai-useful.el -> org-ai-useful.el
+    org-ai.el -> org-ai.el
+    snippets => snippets
+Created org-ai-20260107.1110.tar containing:
+  org-ai-20260107.1110/
+  org-ai-20260107.1110/org-ai-block.el
+  org-ai-20260107.1110/org-ai-on-project.el
+  org-ai-20260107.1110/org-ai-oobabooga.el
+  org-ai-20260107.1110/org-ai-openai-image.el
+  org-ai-20260107.1110/org-ai-openai.el
+  org-ai-20260107.1110/org-ai-pkg.el
+  org-ai-20260107.1110/org-ai-sd.el
+  org-ai-20260107.1110/org-ai-talk.el
+  org-ai-20260107.1110/org-ai-useful.el
+  org-ai-20260107.1110/org-ai.el
+  org-ai-20260107.1110/snippets/
+  org-ai-20260107.1110/snippets/org-mode/
+  org-ai-20260107.1110/snippets/org-mode/org-ai-block
+  org-ai-20260107.1110/snippets/org-mode/org-ai-image
+ ✓ Success:
+  2026-02-05T12:32:03+0000  org-ai-20260107.1110.entry
+  2026-02-05T12:32:03+0000  org-ai-20260107.1110.tar
+Built org-ai in 3.502s, finished at 2026-02-05T12:32:04+0000

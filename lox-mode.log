@@ -1,0 +1,15 @@
+ • Building package lox-mode (from github:timmyjose-projects/lox-mode)...
+Updating /mnt/store/melpa/working/lox-mode/
+Checking out 083a2299e188a516d1e46ef2dd1cbb89db1aec49
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lox-mode/
+  to /tmp/lox-mode1t7CvA/lox-mode-20200619.1700
+    lox-mode.el -> lox-mode.el
+Created lox-mode-20200619.1700.tar containing:
+  lox-mode-20200619.1700/
+  lox-mode-20200619.1700/lox-mode-pkg.el
+  lox-mode-20200619.1700/lox-mode.el
+ ✓ Success:
+  2026-02-05T12:24:29+0000  lox-mode-20200619.1700.entry
+  2026-02-05T12:24:29+0000  lox-mode-20200619.1700.tar
+Built lox-mode in 2.595s, finished at 2026-02-05T12:24:30+0000

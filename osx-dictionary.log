@@ -1,0 +1,17 @@
+ • Building package osx-dictionary (from github:xuchunyang/osx-dictionary.el)...
+Updating /mnt/store/melpa/working/osx-dictionary/
+Checking out 6abfd6908b0dc773020466225c908000870b383b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/osx-dictionary/
+  to /tmp/osx-dictionaryHQbIDk/osx-dictionary-20240330.942
+    osx-dictionary.el -> osx-dictionary.el
+    osx-dictionary.m -> osx-dictionary.m
+Created osx-dictionary-20240330.942.tar containing:
+  osx-dictionary-20240330.942/
+  osx-dictionary-20240330.942/osx-dictionary-pkg.el
+  osx-dictionary-20240330.942/osx-dictionary.el
+  osx-dictionary-20240330.942/osx-dictionary.m
+ ✓ Success:
+  2026-02-05T12:35:10+0000  osx-dictionary-20240330.942.entry
+  2026-02-05T12:35:10+0000  osx-dictionary-20240330.942.tar
+Built osx-dictionary in 2.854s, finished at 2026-02-05T12:35:11+0000

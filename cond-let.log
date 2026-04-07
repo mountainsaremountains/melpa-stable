@@ -1,0 +1,15 @@
+ • Building package cond-let (from github:tarsius/cond-let)...
+Updating /mnt/store/melpa/working/cond-let/
+Checking out 8bf87d45e169ebc091103b2aae325aece3aa804d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cond-let/
+  to /tmp/cond-letEeb4SG/cond-let-20260201.1500
+    cond-let.el -> cond-let.el
+Created cond-let-20260201.1500.tar containing:
+  cond-let-20260201.1500/
+  cond-let-20260201.1500/cond-let-pkg.el
+  cond-let-20260201.1500/cond-let.el
+ ✓ Success:
+  2026-02-05T14:08:10+0000  cond-let-20260201.1500.entry
+  2026-02-05T14:08:10+0000  cond-let-20260201.1500.tar
+Built cond-let in 2.752s, finished at 2026-02-05T14:08:10+0000

@@ -1,0 +1,15 @@
+ • Building package org-mime (from github:org-mime/org-mime)...
+Updating /mnt/store/melpa/working/org-mime/
+Checking out ffaad784a8597ee52842a578c01bd347d3e0281d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-mime/
+  to /tmp/org-mimeXW1jsM/org-mime-20251201.245
+    org-mime.el -> org-mime.el
+Created org-mime-20251201.245.tar containing:
+  org-mime-20251201.245/
+  org-mime-20251201.245/org-mime-pkg.el
+  org-mime-20251201.245/org-mime.el
+ ✓ Success:
+  2026-02-05T12:33:20+0000  org-mime-20251201.245.entry
+  2026-02-05T12:33:20+0000  org-mime-20251201.245.tar
+Built org-mime in 4.733s, finished at 2026-02-05T12:33:22+0000

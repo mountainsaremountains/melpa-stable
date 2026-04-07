@@ -1,0 +1,15 @@
+ • Building package selectrum (from github:radian-software/selectrum)...
+Updating /mnt/store/melpa/working/selectrum/
+Checking out 810ea697bdd559d97b86b795e01769cddfa3daf2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/selectrum/
+  to /tmp/selectrumHNz6Qa/selectrum-20220513.2106
+    selectrum.el -> selectrum.el
+Created selectrum-20220513.2106.tar containing:
+  selectrum-20220513.2106/
+  selectrum-20220513.2106/selectrum-pkg.el
+  selectrum-20220513.2106/selectrum.el
+ ✓ Success:
+  2026-02-05T12:44:21+0000  selectrum-20220513.2106.entry
+  2026-02-05T12:44:21+0000  selectrum-20220513.2106.tar
+Built selectrum in 4.088s, finished at 2026-02-05T12:44:22+0000

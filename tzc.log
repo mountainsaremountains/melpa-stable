@@ -1,0 +1,17 @@
+ • Building package tzc (from github:md-arif-shaikh/tzc)...
+Updating /mnt/store/melpa/working/tzc/
+Checking out 99d0420aeed0565c0e5b12a1ecc4836764a4950f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tzc/
+  to /tmp/tzceZUzD9/tzc-20260205.416
+    tzc-org.el -> tzc-org.el
+    tzc.el -> tzc.el
+Created tzc-20260205.416.tar containing:
+  tzc-20260205.416/
+  tzc-20260205.416/tzc-org.el
+  tzc-20260205.416/tzc-pkg.el
+  tzc-20260205.416/tzc.el
+ ✓ Success:
+  2026-02-05T12:52:02+0000  tzc-20260205.416.entry
+  2026-02-05T12:52:02+0000  tzc-20260205.416.tar
+Built tzc in 3.139s, finished at 2026-02-05T12:52:03+0000

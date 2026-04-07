@@ -1,0 +1,17 @@
+ • Building package company-terraform (from github:rafalcieslak/emacs-company-terraform)...
+Updating /mnt/store/melpa/working/company-terraform/
+Checking out 8d5a16d1bbeeb18ca49a8fd57b5d8cd30c8b8dc7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-terraform/
+  to /tmp/company-terraform6R4iHj/company-terraform-20220509.1759
+    company-terraform-data.el -> company-terraform-data.el
+    company-terraform.el -> company-terraform.el
+Created company-terraform-20220509.1759.tar containing:
+  company-terraform-20220509.1759/
+  company-terraform-20220509.1759/company-terraform-data.el
+  company-terraform-20220509.1759/company-terraform-pkg.el
+  company-terraform-20220509.1759/company-terraform.el
+ ✓ Success:
+  2026-02-05T14:07:58+0000  company-terraform-20220509.1759.entry
+  2026-02-05T14:07:58+0000  company-terraform-20220509.1759.tar
+Built company-terraform in 3.596s, finished at 2026-02-05T14:07:58+0000

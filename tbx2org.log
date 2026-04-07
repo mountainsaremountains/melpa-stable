@@ -1,0 +1,15 @@
+ • Building package tbx2org (from github:emacsattic/tbx2org)...
+Updating /mnt/store/melpa/working/tbx2org/
+Checking out 08e9816ba6066f56936050b58d07ceb2187ae6f7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tbx2org/
+  to /tmp/tbx2orgqaoXFw/tbx2org-20140224.1559
+    tbx2org.el -> tbx2org.el
+Created tbx2org-20140224.1559.tar containing:
+  tbx2org-20140224.1559/
+  tbx2org-20140224.1559/tbx2org-pkg.el
+  tbx2org-20140224.1559/tbx2org.el
+ ✓ Success:
+  2026-02-05T12:49:14+0000  tbx2org-20140224.1559.entry
+  2026-02-05T12:49:14+0000  tbx2org-20140224.1559.tar
+Built tbx2org in 2.684s, finished at 2026-02-05T12:49:15+0000

@@ -1,0 +1,15 @@
+ • Building package toggle-window (from github:deadghost/toggle-window)...
+Updating /mnt/store/melpa/working/toggle-window/
+Checking out e82c60e543933880402ede11e9423e48a17dde53
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/toggle-window/
+  to /tmp/toggle-windowzefXAo/toggle-window-20141207.1548
+    toggle-window.el -> toggle-window.el
+Created toggle-window-20141207.1548.tar containing:
+  toggle-window-20141207.1548/
+  toggle-window-20141207.1548/toggle-window-pkg.el
+  toggle-window-20141207.1548/toggle-window.el
+ ✓ Success:
+  2026-02-05T12:50:47+0000  toggle-window-20141207.1548.entry
+  2026-02-05T12:50:47+0000  toggle-window-20141207.1548.tar
+Built toggle-window in 3.027s, finished at 2026-02-05T12:50:48+0000

@@ -1,0 +1,15 @@
+ • Building package typo (from github:jorgenschaefer/typoel)...
+Updating /mnt/store/melpa/working/typo/
+Checking out 173ebe4fc7ac38f344b16e6eaf41f79e38f20d57
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/typo/
+  to /tmp/typo1aezrc/typo-20200706.1714
+    typo.el -> typo.el
+Created typo-20200706.1714.tar containing:
+  typo-20200706.1714/
+  typo-20200706.1714/typo-pkg.el
+  typo-20200706.1714/typo.el
+ ✓ Success:
+  2026-02-05T12:51:59+0000  typo-20200706.1714.entry
+  2026-02-05T12:51:59+0000  typo-20200706.1714.tar
+Built typo in 3.311s, finished at 2026-02-05T12:52:00+0000

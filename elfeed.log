@@ -1,0 +1,36 @@
+ • Building package elfeed (from github:skeeto/elfeed)...
+Updating /mnt/store/melpa/working/elfeed/
+Checking out 66cfe43dfc61d0b56d9e4e72aba3dfab0ed4bdf7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed/
+  to /tmp/elfeedC7lyxG/elfeed-20260125.1850
+    elfeed-csv.el -> elfeed-csv.el
+    elfeed-curl.el -> elfeed-curl.el
+    elfeed-db.el -> elfeed-db.el
+    elfeed-lib.el -> elfeed-lib.el
+    elfeed-link.el -> elfeed-link.el
+    elfeed-log.el -> elfeed-log.el
+    elfeed-pkg.el -> elfeed-pkg.el
+    elfeed-search.el -> elfeed-search.el
+    elfeed-show.el -> elfeed-show.el
+    elfeed.el -> elfeed.el
+    xml-query.el -> xml-query.el
+    README.md -> README.md
+Created elfeed-20260125.1850.tar containing:
+  elfeed-20260125.1850/
+  elfeed-20260125.1850/README.md
+  elfeed-20260125.1850/elfeed-csv.el
+  elfeed-20260125.1850/elfeed-curl.el
+  elfeed-20260125.1850/elfeed-db.el
+  elfeed-20260125.1850/elfeed-lib.el
+  elfeed-20260125.1850/elfeed-link.el
+  elfeed-20260125.1850/elfeed-log.el
+  elfeed-20260125.1850/elfeed-pkg.el
+  elfeed-20260125.1850/elfeed-search.el
+  elfeed-20260125.1850/elfeed-show.el
+  elfeed-20260125.1850/elfeed.el
+  elfeed-20260125.1850/xml-query.el
+ ✓ Success:
+  2026-02-05T14:15:15+0000  elfeed-20260125.1850.entry
+  2026-02-05T14:15:14+0000  elfeed-20260125.1850.tar
+Built elfeed in 7.748s, finished at 2026-02-05T14:15:17+0000

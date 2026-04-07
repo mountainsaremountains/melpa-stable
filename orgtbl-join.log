@@ -1,0 +1,18 @@
+ • Building package orgtbl-join (from github:tbanel/orgtbljoin)...
+Updating /mnt/store/melpa/working/orgtbl-join/
+Checking out 0dc5719fbc861350d09b5e1556612dccccd7b006
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/orgtbl-join/
+  to /tmp/orgtbl-joinzka3l7/orgtbl-join-20260201.2106
+    orgtbl-join.el -> orgtbl-join.el
+    orgtbl-join.info -> orgtbl-join.info
+Created orgtbl-join-20260201.2106.tar containing:
+  orgtbl-join-20260201.2106/
+  orgtbl-join-20260201.2106/dir
+  orgtbl-join-20260201.2106/orgtbl-join-pkg.el
+  orgtbl-join-20260201.2106/orgtbl-join.el
+  orgtbl-join-20260201.2106/orgtbl-join.info
+ ✓ Success:
+  2026-02-05T12:35:01+0000  orgtbl-join-20260201.2106.entry
+  2026-02-05T12:35:01+0000  orgtbl-join-20260201.2106.tar
+Built orgtbl-join in 3.391s, finished at 2026-02-05T12:35:02+0000

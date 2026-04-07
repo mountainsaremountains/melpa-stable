@@ -1,0 +1,19 @@
+ • Building package moom (from github:takaxp/moom)...
+Updating /mnt/store/melpa/working/moom/
+Checking out 2683e801d3c7be537ddf8b6af5154c0b86fafeb6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/moom/
+  to /tmp/moomTA4TxM/moom-20250817.1347
+    moom-font.el -> moom-font.el
+    moom-transient.el -> moom-transient.el
+    moom.el -> moom.el
+Created moom-20250817.1347.tar containing:
+  moom-20250817.1347/
+  moom-20250817.1347/moom-font.el
+  moom-20250817.1347/moom-pkg.el
+  moom-20250817.1347/moom-transient.el
+  moom-20250817.1347/moom.el
+ ✓ Success:
+  2026-02-05T12:27:58+0000  moom-20250817.1347.entry
+  2026-02-05T12:27:58+0000  moom-20250817.1347.tar
+Built moom in 2.970s, finished at 2026-02-05T12:27:59+0000

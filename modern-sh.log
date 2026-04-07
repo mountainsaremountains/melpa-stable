@@ -1,0 +1,15 @@
+ • Building package modern-sh (from github:damon-kwok/modern-sh)...
+Updating /mnt/store/melpa/working/modern-sh/
+Checking out 65bc75828f7d13af713f1a728c038e2915944cd3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/modern-sh/
+  to /tmp/modern-sh0VF7ff/modern-sh-20250320.858
+    modern-sh.el -> modern-sh.el
+Created modern-sh-20250320.858.tar containing:
+  modern-sh-20250320.858/
+  modern-sh-20250320.858/modern-sh-pkg.el
+  modern-sh-20250320.858/modern-sh.el
+ ✓ Success:
+  2026-02-05T12:27:35+0000  modern-sh-20250320.858.entry
+  2026-02-05T12:27:35+0000  modern-sh-20250320.858.tar
+Built modern-sh in 4.292s, finished at 2026-02-05T12:27:37+0000

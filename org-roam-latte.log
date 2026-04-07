@@ -1,0 +1,15 @@
+ • Building package org-roam-latte (from github:yad-tahir/org-roam-latte)...
+Updating /mnt/store/melpa/working/org-roam-latte/
+Checking out 3f0f4f5c2e68bc77c3927f6ce5dead4ff2511627
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-roam-latte/
+  to /tmp/org-roam-latte8UGMMB/org-roam-latte-20260204.1115
+    org-roam-latte.el -> org-roam-latte.el
+Created org-roam-latte-20260204.1115.tar containing:
+  org-roam-latte-20260204.1115/
+  org-roam-latte-20260204.1115/org-roam-latte-pkg.el
+  org-roam-latte-20260204.1115/org-roam-latte.el
+ ✓ Success:
+  2026-02-05T12:34:03+0000  org-roam-latte-20260204.1115.entry
+  2026-02-05T12:34:03+0000  org-roam-latte-20260204.1115.tar
+Built org-roam-latte in 2.793s, finished at 2026-02-05T12:34:04+0000

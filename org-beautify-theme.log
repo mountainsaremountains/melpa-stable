@@ -1,0 +1,15 @@
+ • Building package org-beautify-theme (from github:jonnay/org-beautify-theme)...
+Updating /mnt/store/melpa/working/org-beautify-theme/
+Checking out 5301f8cfab127f4219aad83e52787898f0710d4f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-beautify-theme/
+  to /tmp/org-beautify-themexuteYZ/org-beautify-theme-20250730.2044
+    org-beautify-theme.el -> org-beautify-theme.el
+Created org-beautify-theme-20250730.2044.tar containing:
+  org-beautify-theme-20250730.2044/
+  org-beautify-theme-20250730.2044/org-beautify-theme-pkg.el
+  org-beautify-theme-20250730.2044/org-beautify-theme.el
+ ✓ Success:
+  2026-02-05T12:32:12+0000  org-beautify-theme-20250730.2044.entry
+  2026-02-05T12:32:12+0000  org-beautify-theme-20250730.2044.tar
+Built org-beautify-theme in 2.914s, finished at 2026-02-05T12:32:13+0000

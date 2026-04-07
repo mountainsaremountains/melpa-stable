@@ -1,0 +1,61 @@
+ • Building package copilot-chat (from github:chep/copilot-chat.el)...
+Updating /mnt/store/melpa/working/copilot-chat/
+Checking out 753ebc4ae466c8716be8de0d169393f730c999f6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/copilot-chat/
+  to /tmp/copilot-chatIQNbmA/copilot-chat-20260123.937
+    copilot-chat-backend.el -> copilot-chat-backend.el
+    copilot-chat-body.el -> copilot-chat-body.el
+    copilot-chat-command.el -> copilot-chat-command.el
+    copilot-chat-common.el -> copilot-chat-common.el
+    copilot-chat-completions.el -> copilot-chat-completions.el
+    copilot-chat-connection.el -> copilot-chat-connection.el
+    copilot-chat-copilot.el -> copilot-chat-copilot.el
+    copilot-chat-curl.el -> copilot-chat-curl.el
+    copilot-chat-debug.el -> copilot-chat-debug.el
+    copilot-chat-frontend.el -> copilot-chat-frontend.el
+    copilot-chat-git.el -> copilot-chat-git.el
+    copilot-chat-instance.el -> copilot-chat-instance.el
+    copilot-chat-markdown.el -> copilot-chat-markdown.el
+    copilot-chat-mcp.el -> copilot-chat-mcp.el
+    copilot-chat-model.el -> copilot-chat-model.el
+    copilot-chat-org.el -> copilot-chat-org.el
+    copilot-chat-prompt-mode.el -> copilot-chat-prompt-mode.el
+    copilot-chat-prompts.el -> copilot-chat-prompts.el
+    copilot-chat-request.el -> copilot-chat-request.el
+    copilot-chat-responses.el -> copilot-chat-responses.el
+    copilot-chat-shell-maker.el -> copilot-chat-shell-maker.el
+    copilot-chat-spinner.el -> copilot-chat-spinner.el
+    copilot-chat-transient.el -> copilot-chat-transient.el
+    copilot-chat.el -> copilot-chat.el
+Created copilot-chat-20260123.937.tar containing:
+  copilot-chat-20260123.937/
+  copilot-chat-20260123.937/copilot-chat-backend.el
+  copilot-chat-20260123.937/copilot-chat-body.el
+  copilot-chat-20260123.937/copilot-chat-command.el
+  copilot-chat-20260123.937/copilot-chat-common.el
+  copilot-chat-20260123.937/copilot-chat-completions.el
+  copilot-chat-20260123.937/copilot-chat-connection.el
+  copilot-chat-20260123.937/copilot-chat-copilot.el
+  copilot-chat-20260123.937/copilot-chat-curl.el
+  copilot-chat-20260123.937/copilot-chat-debug.el
+  copilot-chat-20260123.937/copilot-chat-frontend.el
+  copilot-chat-20260123.937/copilot-chat-git.el
+  copilot-chat-20260123.937/copilot-chat-instance.el
+  copilot-chat-20260123.937/copilot-chat-markdown.el
+  copilot-chat-20260123.937/copilot-chat-mcp.el
+  copilot-chat-20260123.937/copilot-chat-model.el
+  copilot-chat-20260123.937/copilot-chat-org.el
+  copilot-chat-20260123.937/copilot-chat-pkg.el
+  copilot-chat-20260123.937/copilot-chat-prompt-mode.el
+  copilot-chat-20260123.937/copilot-chat-prompts.el
+  copilot-chat-20260123.937/copilot-chat-request.el
+  copilot-chat-20260123.937/copilot-chat-responses.el
+  copilot-chat-20260123.937/copilot-chat-shell-maker.el
+  copilot-chat-20260123.937/copilot-chat-spinner.el
+  copilot-chat-20260123.937/copilot-chat-transient.el
+  copilot-chat-20260123.937/copilot-chat.el
+ ✓ Success:
+  2026-02-05T14:08:46+0000  copilot-chat-20260123.937.entry
+  2026-02-05T14:08:46+0000  copilot-chat-20260123.937.tar
+Built copilot-chat in 4.248s, finished at 2026-02-05T14:08:47+0000

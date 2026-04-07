@@ -1,0 +1,17 @@
+ • Building package esxml (from github:tali713/esxml)...
+Updating /mnt/store/melpa/working/esxml/
+Checking out affada143fed7e2da08f2b3d927a027f26ad4a8f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/esxml/
+  to /tmp/esxmlzGyeMU/esxml-20250421.1632
+    esxml.el -> esxml.el
+    esxml-query.el -> esxml-query.el
+Created esxml-20250421.1632.tar containing:
+  esxml-20250421.1632/
+  esxml-20250421.1632/esxml-pkg.el
+  esxml-20250421.1632/esxml-query.el
+  esxml-20250421.1632/esxml.el
+ ✓ Success:
+  2026-02-05T14:17:55+0000  esxml-20250421.1632.entry
+  2026-02-05T14:17:54+0000  esxml-20250421.1632.tar
+Built esxml in 2.646s, finished at 2026-02-05T14:17:55+0000

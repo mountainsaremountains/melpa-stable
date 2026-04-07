@@ -1,0 +1,15 @@
+ • Building package nameframe-project (from github:john2x/nameframe)...
+Updating /mnt/store/melpa/working/nameframe-project/
+Checking out 3116b6738f74a95e144a75344355e09f72620e01
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nameframe-project/
+  to /tmp/nameframe-projectPRsLuu/nameframe-project-20221024.209
+    nameframe-project.el -> nameframe-project.el
+Created nameframe-project-20221024.209.tar containing:
+  nameframe-project-20221024.209/
+  nameframe-project-20221024.209/nameframe-project-pkg.el
+  nameframe-project-20221024.209/nameframe-project.el
+ ✓ Success:
+  2026-02-05T12:28:56+0000  nameframe-project-20221024.209.entry
+  2026-02-05T12:28:56+0000  nameframe-project-20221024.209.tar
+Built nameframe-project in 2.647s, finished at 2026-02-05T12:28:57+0000

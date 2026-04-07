@@ -1,0 +1,15 @@
+ • Building package streamlink (from github:BenediktBroich/streamlink)...
+Updating /mnt/store/melpa/working/streamlink/
+Checking out 13dff15121ac0276f693696db9b04ae5820058d5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/streamlink/
+  to /tmp/streamlinkT1MA9B/streamlink-20210811.1429
+    streamlink.el -> streamlink.el
+Created streamlink-20210811.1429.tar containing:
+  streamlink-20210811.1429/
+  streamlink-20210811.1429/streamlink-pkg.el
+  streamlink-20210811.1429/streamlink.el
+ ✓ Success:
+  2026-02-05T12:47:59+0000  streamlink-20210811.1429.entry
+  2026-02-05T12:47:59+0000  streamlink-20210811.1429.tar
+Built streamlink in 2.634s, finished at 2026-02-05T12:48:00+0000

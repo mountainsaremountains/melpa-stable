@@ -1,0 +1,54 @@
+ • Building package ado-mode (from github:louabill/ado-mode)...
+Updating /mnt/store/melpa/working/ado-mode/
+Checking out 0bf66c877e5773ae8e86d4bee286f29a4abd56e9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ado-mode/
+  to /tmp/ado-modezV4GEo/ado-mode-20251201.2259
+  ! lisp/ado-clip.el -> ado-clip.el
+  ! lisp/ado-cons.el -> ado-cons.el
+  ! lisp/ado-cus.el -> ado-cus.el
+  ! lisp/ado-font-lock.el -> ado-font-lock.el
+  ! lisp/ado-font.el -> ado-font.el
+  ! lisp/ado-mode.el -> ado-mode.el
+  ! lisp/ado-stata-info.el -> ado-stata-info.el
+  ! lisp/ado-to-stata.el -> ado-to-stata.el
+    scripts => scripts
+    templates => templates
+Created ado-mode-20251201.2259.tar containing:
+  ado-mode-20251201.2259/
+  ado-mode-20251201.2259/ado-clip.el
+  ado-mode-20251201.2259/ado-cons.el
+  ado-mode-20251201.2259/ado-cus.el
+  ado-mode-20251201.2259/ado-font-lock.el
+  ado-mode-20251201.2259/ado-font.el
+  ado-mode-20251201.2259/ado-mode-pkg.el
+  ado-mode-20251201.2259/ado-mode.el
+  ado-mode-20251201.2259/ado-stata-info.el
+  ado-mode-20251201.2259/ado-to-stata.el
+  ado-mode-20251201.2259/scripts/
+  ado-mode-20251201.2259/scripts/send2stata.au3
+  ado-mode-20251201.2259/scripts/send2stata.exe
+  ado-mode-20251201.2259/scripts/send2stata.scpt
+  ado-mode-20251201.2259/scripts/send2ztata.sh
+  ado-mode-20251201.2259/templates/
+  ado-mode-20251201.2259/templates/ado.blp
+  ado-mode-20251201.2259/templates/class.blp
+  ado-mode-20251201.2259/templates/dialog.blp
+  ado-mode-20251201.2259/templates/do.blp
+  ado-mode-20251201.2259/templates/help.blp
+  ado-mode-20251201.2259/templates/help10.blp
+  ado-mode-20251201.2259/templates/help11.blp
+  ado-mode-20251201.2259/templates/help6.blp
+  ado-mode-20251201.2259/templates/help7.blp
+  ado-mode-20251201.2259/templates/lbl.blp
+  ado-mode-20251201.2259/templates/mata.blp
+  ado-mode-20251201.2259/templates/pkg.blp
+  ado-mode-20251201.2259/templates/readme
+  ado-mode-20251201.2259/templates/smallado.blp
+  ado-mode-20251201.2259/templates/sparse.blp
+  ado-mode-20251201.2259/templates/testado.blp
+  ado-mode-20251201.2259/templates/toc.blp
+ ✓ Success:
+  2026-02-05T13:59:52+0000  ado-mode-20251201.2259.entry
+  2026-02-05T13:59:52+0000  ado-mode-20251201.2259.tar
+Built ado-mode in 3.206s, finished at 2026-02-05T13:59:53+0000

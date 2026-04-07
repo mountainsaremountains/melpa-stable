@@ -1,0 +1,15 @@
+ • Building package ox-jekyll-md (from github:gonsie/ox-jekyll-md)...
+Updating /mnt/store/melpa/working/ox-jekyll-md/
+Checking out 26edb3f4575bcb0f1a2aed56237cd89694284449
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ox-jekyll-md/
+  to /tmp/ox-jekyll-mdN3dD84/ox-jekyll-md-20211222.1718
+    ox-jekyll-md.el -> ox-jekyll-md.el
+Created ox-jekyll-md-20211222.1718.tar containing:
+  ox-jekyll-md-20211222.1718/
+  ox-jekyll-md-20211222.1718/ox-jekyll-md-pkg.el
+  ox-jekyll-md-20211222.1718/ox-jekyll-md.el
+ ✓ Success:
+  2026-02-05T12:35:35+0000  ox-jekyll-md-20211222.1718.entry
+  2026-02-05T12:35:35+0000  ox-jekyll-md-20211222.1718.tar
+Built ox-jekyll-md in 2.518s, finished at 2026-02-05T12:35:36+0000

@@ -1,0 +1,21 @@
+ • Building package pycoverage (from github:mattharrison/pycoverage.el)...
+Updating /mnt/store/melpa/working/pycoverage/
+Checking out 3c69ed312121368f1b24cc04d54a29ce4ed4f743
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pycoverage/
+  to /tmp/pycoveragewmtmag/pycoverage-20200513.2047
+    pycoverage.el -> pycoverage.el
+  ! cov2emacs/bin/cov2emacs -> cov2emacs
+  ! cov2emacs/cov2emacslib/__init__.py -> __init__.py
+  ! cov2emacs/cov2emacslib/meta.py -> meta.py
+Created pycoverage-20200513.2047.tar containing:
+  pycoverage-20200513.2047/
+  pycoverage-20200513.2047/__init__.py
+  pycoverage-20200513.2047/cov2emacs
+  pycoverage-20200513.2047/meta.py
+  pycoverage-20200513.2047/pycoverage-pkg.el
+  pycoverage-20200513.2047/pycoverage.el
+ ✓ Success:
+  2026-02-05T12:40:20+0000  pycoverage-20200513.2047.entry
+  2026-02-05T12:40:20+0000  pycoverage-20200513.2047.tar
+Built pycoverage in 2.693s, finished at 2026-02-05T12:40:21+0000

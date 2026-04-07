@@ -1,0 +1,15 @@
+ • Building package whisper (from github:emacselements/whisper)...
+Updating /mnt/store/melpa/working/whisper/
+Checking out e956feabced9c9081779dd89ff366e25e4d64fd9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/whisper/
+  to /tmp/whispert1KgbL/whisper-20251219.342
+    whisper.el -> whisper.el
+Created whisper-20251219.342.tar containing:
+  whisper-20251219.342/
+  whisper-20251219.342/whisper-pkg.el
+  whisper-20251219.342/whisper.el
+ ✓ Success:
+  2026-02-05T12:54:32+0000  whisper-20251219.342.entry
+  2026-02-05T12:54:32+0000  whisper-20251219.342.tar
+Built whisper in 2.660s, finished at 2026-02-05T12:54:33+0000

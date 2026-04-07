@@ -1,0 +1,15 @@
+ • Building package counsel (from github:abo-abo/swiper)...
+Updating /mnt/store/melpa/working/counsel/
+Checking out e33b028ed4b1258a211c87fd5fe801bed25de429
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/counsel/
+  to /tmp/counselpV8RbS/counsel-20250329.1401
+    counsel.el -> counsel.el
+Created counsel-20250329.1401.tar containing:
+  counsel-20250329.1401/
+  counsel-20250329.1401/counsel-pkg.el
+  counsel-20250329.1401/counsel.el
+ ✓ Success:
+  2026-02-05T14:08:51+0000  counsel-20250329.1401.entry
+  2026-02-05T14:08:51+0000  counsel-20250329.1401.tar
+Built counsel in 2.997s, finished at 2026-02-05T14:08:52+0000

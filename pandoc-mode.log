@@ -1,0 +1,20 @@
+ • Building package pandoc-mode (from github:joostkremers/pandoc-mode)...
+Updating /mnt/store/melpa/working/pandoc-mode/
+Checking out 8f46da90228a9ce22de24da234ba53860257640a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pandoc-mode/
+  to /tmp/pandoc-modeYtYCIg/pandoc-mode-20260114.1255
+    pandoc-mode-utils.el -> pandoc-mode-utils.el
+    pandoc-mode.el -> pandoc-mode.el
+    pandoc-mode.info -> pandoc-mode.info
+Created pandoc-mode-20260114.1255.tar containing:
+  pandoc-mode-20260114.1255/
+  pandoc-mode-20260114.1255/dir
+  pandoc-mode-20260114.1255/pandoc-mode-pkg.el
+  pandoc-mode-20260114.1255/pandoc-mode-utils.el
+  pandoc-mode-20260114.1255/pandoc-mode.el
+  pandoc-mode-20260114.1255/pandoc-mode.info
+ ✓ Success:
+  2026-02-05T12:36:14+0000  pandoc-mode-20260114.1255.entry
+  2026-02-05T12:36:14+0000  pandoc-mode-20260114.1255.tar
+Built pandoc-mode in 2.719s, finished at 2026-02-05T12:36:14+0000

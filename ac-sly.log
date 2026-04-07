@@ -1,0 +1,15 @@
+ • Building package ac-sly (from github:qoocku/ac-sly)...
+Updating /mnt/store/melpa/working/ac-sly/
+Checking out bf69c687c4ecf1994349d20c182e9b567399912e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ac-sly/
+  to /tmp/ac-slyP1S6QP/ac-sly-20170728.1027
+    ac-sly.el -> ac-sly.el
+Created ac-sly-20170728.1027.tar containing:
+  ac-sly-20170728.1027/
+  ac-sly-20170728.1027/ac-sly-pkg.el
+  ac-sly-20170728.1027/ac-sly.el
+ ✓ Success:
+  2026-02-05T13:59:31+0000  ac-sly-20170728.1027.entry
+  2026-02-05T13:59:31+0000  ac-sly-20170728.1027.tar
+Built ac-sly in 2.401s, finished at 2026-02-05T13:59:32+0000

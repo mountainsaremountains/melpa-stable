@@ -1,0 +1,31 @@
+ • Building package emacsql (from github:magit/emacsql)...
+Updating /mnt/store/melpa/working/emacsql/
+Checking out 6ef7473248fce048c7daa00c3b2ae75af987c89c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emacsql/
+  to /tmp/emacsqlaWILB0/emacsql-20260201.1512
+    emacsql-compiler.el -> emacsql-compiler.el
+    emacsql-mysql.el -> emacsql-mysql.el
+    emacsql-pg.el -> emacsql-pg.el
+    emacsql-psql.el -> emacsql-psql.el
+    emacsql-sqlite-builtin.el -> emacsql-sqlite-builtin.el
+    emacsql-sqlite-module.el -> emacsql-sqlite-module.el
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    emacsql.el -> emacsql.el
+    README.md -> README.md
+Created emacsql-20260201.1512.tar containing:
+  emacsql-20260201.1512/
+  emacsql-20260201.1512/README.md
+  emacsql-20260201.1512/emacsql-compiler.el
+  emacsql-20260201.1512/emacsql-mysql.el
+  emacsql-20260201.1512/emacsql-pg.el
+  emacsql-20260201.1512/emacsql-pkg.el
+  emacsql-20260201.1512/emacsql-psql.el
+  emacsql-20260201.1512/emacsql-sqlite-builtin.el
+  emacsql-20260201.1512/emacsql-sqlite-module.el
+  emacsql-20260201.1512/emacsql-sqlite.el
+  emacsql-20260201.1512/emacsql.el
+ ✓ Success:
+  2026-02-05T14:16:14+0000  emacsql-20260201.1512.entry
+  2026-02-05T14:16:14+0000  emacsql-20260201.1512.tar
+Built emacsql in 2.538s, finished at 2026-02-05T14:16:15+0000

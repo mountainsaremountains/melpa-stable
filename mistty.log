@@ -1,0 +1,43 @@
+ • Building package mistty (from github:szermatt/mistty)...
+Updating /mnt/store/melpa/working/mistty/
+Checking out 1446a304f154bb3616b20cec881ccda586bed4f7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/mistty/
+  to /tmp/misttypIHTaI/mistty-20260204.1743
+    mistty-accum-macros.el -> mistty-accum-macros.el
+    mistty-accum.el -> mistty-accum.el
+    mistty-changeset.el -> mistty-changeset.el
+    mistty-launch.el -> mistty-launch.el
+    mistty-log.el -> mistty-log.el
+    mistty-osc-colors.el -> mistty-osc-colors.el
+    mistty-osc7.el -> mistty-osc7.el
+    mistty-project.el -> mistty-project.el
+    mistty-queue.el -> mistty-queue.el
+    mistty-term.el -> mistty-term.el
+    mistty-undo.el -> mistty-undo.el
+    mistty-util.el -> mistty-util.el
+    mistty.el -> mistty.el
+    mistty.texi -> mistty.texi
+Generating mistty.info
+Created mistty-20260204.1743.tar containing:
+  mistty-20260204.1743/
+  mistty-20260204.1743/dir
+  mistty-20260204.1743/mistty-accum-macros.el
+  mistty-20260204.1743/mistty-accum.el
+  mistty-20260204.1743/mistty-changeset.el
+  mistty-20260204.1743/mistty-launch.el
+  mistty-20260204.1743/mistty-log.el
+  mistty-20260204.1743/mistty-osc-colors.el
+  mistty-20260204.1743/mistty-osc7.el
+  mistty-20260204.1743/mistty-pkg.el
+  mistty-20260204.1743/mistty-project.el
+  mistty-20260204.1743/mistty-queue.el
+  mistty-20260204.1743/mistty-term.el
+  mistty-20260204.1743/mistty-undo.el
+  mistty-20260204.1743/mistty-util.el
+  mistty-20260204.1743/mistty.el
+  mistty-20260204.1743/mistty.info
+ ✓ Success:
+  2026-02-05T12:27:15+0000  mistty-20260204.1743.entry
+  2026-02-05T12:27:15+0000  mistty-20260204.1743.tar
+Built mistty in 8.217s, finished at 2026-02-05T12:27:16+0000

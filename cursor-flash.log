@@ -1,0 +1,15 @@
+ • Building package cursor-flash (from github:Boruch-Baum/emacs-cursor-flash)...
+Updating /mnt/store/melpa/working/cursor-flash/
+Checking out 6bb54a1e2e1bf9df80926718b1b8b9ee49080484
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cursor-flash/
+  to /tmp/cursor-flashWlBc8r/cursor-flash-20210722.445
+    cursor-flash.el -> cursor-flash.el
+Created cursor-flash-20210722.445.tar containing:
+  cursor-flash-20210722.445/
+  cursor-flash-20210722.445/cursor-flash-pkg.el
+  cursor-flash-20210722.445/cursor-flash.el
+ ✓ Success:
+  2026-02-05T14:10:02+0000  cursor-flash-20210722.445.entry
+  2026-02-05T14:10:02+0000  cursor-flash-20210722.445.tar
+Built cursor-flash in 3.170s, finished at 2026-02-05T14:10:03+0000

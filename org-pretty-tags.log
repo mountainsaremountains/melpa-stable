@@ -1,0 +1,15 @@
+ • Building package org-pretty-tags (from gitlab:marcowahl/org-pretty-tags)...
+Updating /mnt/store/melpa/working/org-pretty-tags/
+Checking out e127a1e08df8273b909a99594ffaad84960ff212
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-pretty-tags/
+  to /tmp/org-pretty-tagsvGn8nd/org-pretty-tags-20211228.1546
+    org-pretty-tags.el -> org-pretty-tags.el
+Created org-pretty-tags-20211228.1546.tar containing:
+  org-pretty-tags-20211228.1546/
+  org-pretty-tags-20211228.1546/org-pretty-tags-pkg.el
+  org-pretty-tags-20211228.1546/org-pretty-tags.el
+ ✓ Success:
+  2026-02-05T12:33:47+0000  org-pretty-tags-20211228.1546.entry
+  2026-02-05T12:33:47+0000  org-pretty-tags-20211228.1546.tar
+Built org-pretty-tags in 3.644s, finished at 2026-02-05T12:33:48+0000

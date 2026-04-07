@@ -1,0 +1,15 @@
+ • Building package zig-ts-mode (from codeberg:meow_king/zig-ts-mode)...
+Updating /mnt/store/melpa/working/zig-ts-mode/
+Checking out 64611c6d512e4c15e8d1e3fd0fde6bd47c6c8f50
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zig-ts-mode/
+  to /tmp/zig-ts-modeePR8gT/zig-ts-mode-20260123.242
+    zig-ts-mode.el -> zig-ts-mode.el
+Created zig-ts-mode-20260123.242.tar containing:
+  zig-ts-mode-20260123.242/
+  zig-ts-mode-20260123.242/zig-ts-mode-pkg.el
+  zig-ts-mode-20260123.242/zig-ts-mode.el
+ ✓ Success:
+  2026-02-05T12:56:42+0000  zig-ts-mode-20260123.242.entry
+  2026-02-05T12:56:42+0000  zig-ts-mode-20260123.242.tar
+Built zig-ts-mode in 3.807s, finished at 2026-02-05T12:56:43+0000

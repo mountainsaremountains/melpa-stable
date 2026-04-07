@@ -1,0 +1,41 @@
+ • Building package jira (from github:unmonoqueteclea/jira.el)...
+Updating /mnt/store/melpa/working/jira/
+Checking out 5be4bb3d02d7d1afeafc1789f232cb37e9d9622c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jira/
+  to /tmp/jiraBNP2tL/jira-20260124.1634
+    jira-actions.el -> jira-actions.el
+    jira-api.el -> jira-api.el
+    jira-complete.el -> jira-complete.el
+    jira-detail.el -> jira-detail.el
+    jira-doc.el -> jira-doc.el
+    jira-edit.el -> jira-edit.el
+    jira-export.el -> jira-export.el
+    jira-fmt.el -> jira-fmt.el
+    jira-issues.el -> jira-issues.el
+    jira-table.el -> jira-table.el
+    jira-tempo.el -> jira-tempo.el
+    jira-users.el -> jira-users.el
+    jira-utils.el -> jira-utils.el
+    jira.el -> jira.el
+Created jira-20260124.1634.tar containing:
+  jira-20260124.1634/
+  jira-20260124.1634/jira-actions.el
+  jira-20260124.1634/jira-api.el
+  jira-20260124.1634/jira-complete.el
+  jira-20260124.1634/jira-detail.el
+  jira-20260124.1634/jira-doc.el
+  jira-20260124.1634/jira-edit.el
+  jira-20260124.1634/jira-export.el
+  jira-20260124.1634/jira-fmt.el
+  jira-20260124.1634/jira-issues.el
+  jira-20260124.1634/jira-pkg.el
+  jira-20260124.1634/jira-table.el
+  jira-20260124.1634/jira-tempo.el
+  jira-20260124.1634/jira-users.el
+  jira-20260124.1634/jira-utils.el
+  jira-20260124.1634/jira.el
+ ✓ Success:
+  2026-02-05T14:33:08+0000  jira-20260124.1634.entry
+  2026-02-05T14:33:08+0000  jira-20260124.1634.tar
+Built jira in 3.834s, finished at 2026-02-05T14:33:09+0000

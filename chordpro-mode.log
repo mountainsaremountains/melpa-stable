@@ -1,0 +1,15 @@
+ • Building package chordpro-mode (from sourcehut:breatheoutbreathein/chordpro-mode.el)...
+Updating /mnt/store/melpa/working/chordpro-mode/
+Checking out ae6db74f2078e4ee3d6262ac1344df9c1ab87527
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chordpro-mode/
+  to /tmp/chordpro-modeMw5Ucp/chordpro-mode-20250814.301
+    chordpro-mode.el -> chordpro-mode.el
+Created chordpro-mode-20250814.301.tar containing:
+  chordpro-mode-20250814.301/
+  chordpro-mode-20250814.301/chordpro-mode-pkg.el
+  chordpro-mode-20250814.301/chordpro-mode.el
+ ✓ Success:
+  2026-02-05T14:05:43+0000  chordpro-mode-20250814.301.entry
+  2026-02-05T14:05:43+0000  chordpro-mode-20250814.301.tar
+Built chordpro-mode in 3.621s, finished at 2026-02-05T14:05:44+0000

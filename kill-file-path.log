@@ -1,0 +1,15 @@
+ • Building package kill-file-path (from github:chyla/kill-file-path)...
+Updating /mnt/store/melpa/working/kill-file-path/
+Checking out 5dcbce69cbae17665216a32dd20f27de54c62972
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/kill-file-path/
+  to /tmp/kill-file-pathwpjGl2/kill-file-path-20230306.1041
+    kill-file-path.el -> kill-file-path.el
+Created kill-file-path-20230306.1041.tar containing:
+  kill-file-path-20230306.1041/
+  kill-file-path-20230306.1041/kill-file-path-pkg.el
+  kill-file-path-20230306.1041/kill-file-path.el
+ ✓ Success:
+  2026-02-05T14:34:33+0000  kill-file-path-20230306.1041.entry
+  2026-02-05T14:34:33+0000  kill-file-path-20230306.1041.tar
+Built kill-file-path in 2.992s, finished at 2026-02-05T14:34:34+0000

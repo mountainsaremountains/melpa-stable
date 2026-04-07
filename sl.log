@@ -1,0 +1,21 @@
+ • Building package sl (from github:xuchunyang/sl.el)...
+Updating /mnt/store/melpa/working/sl/
+Checking out 0882117728be91276b815e18c2a66106bf9d69d3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sl/
+  to /tmp/slv7pbGQ/sl-20161217.1404
+    sl.el -> sl.el
+    D51-trains.txt -> D51-trains.txt
+    little-trains.txt -> little-trains.txt
+    smokes.txt -> smokes.txt
+Created sl-20161217.1404.tar containing:
+  sl-20161217.1404/
+  sl-20161217.1404/D51-trains.txt
+  sl-20161217.1404/little-trains.txt
+  sl-20161217.1404/sl-pkg.el
+  sl-20161217.1404/sl.el
+  sl-20161217.1404/smokes.txt
+ ✓ Success:
+  2026-02-05T12:45:51+0000  sl-20161217.1404.entry
+  2026-02-05T12:45:51+0000  sl-20161217.1404.tar
+Built sl in 2.738s, finished at 2026-02-05T12:45:52+0000

@@ -1,0 +1,15 @@
+ • Building package textsize (from github:WJCFerguson/textsize)...
+Updating /mnt/store/melpa/working/textsize/
+Checking out cfcc4d6a351c43692f408e5f0fd68de2974fcb9f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/textsize/
+  to /tmp/textsizemvyE6d/textsize-20251120.1819
+    textsize.el -> textsize.el
+Created textsize-20251120.1819.tar containing:
+  textsize-20251120.1819/
+  textsize-20251120.1819/textsize-pkg.el
+  textsize-20251120.1819/textsize.el
+ ✓ Success:
+  2026-02-05T12:49:46+0000  textsize-20251120.1819.entry
+  2026-02-05T12:49:46+0000  textsize-20251120.1819.tar
+Built textsize in 2.844s, finished at 2026-02-05T12:49:47+0000

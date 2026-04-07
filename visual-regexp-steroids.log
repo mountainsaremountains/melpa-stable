@@ -1,0 +1,17 @@
+ • Building package visual-regexp-steroids (from github:benma/visual-regexp-steroids.el)...
+Updating /mnt/store/melpa/working/visual-regexp-steroids/
+Checking out a6420b25ec0fbba43bf57875827092e1196d8a9e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/visual-regexp-steroids/
+  to /tmp/visual-regexp-steroidsOwtILD/visual-regexp-steroids-20170222.253
+    visual-regexp-steroids.el -> visual-regexp-steroids.el
+    regexp.py -> regexp.py
+Created visual-regexp-steroids-20170222.253.tar containing:
+  visual-regexp-steroids-20170222.253/
+  visual-regexp-steroids-20170222.253/regexp.py
+  visual-regexp-steroids-20170222.253/visual-regexp-steroids-pkg.el
+  visual-regexp-steroids-20170222.253/visual-regexp-steroids.el
+ ✓ Success:
+  2026-02-05T12:53:31+0000  visual-regexp-steroids-20170222.253.entry
+  2026-02-05T12:53:31+0000  visual-regexp-steroids-20170222.253.tar
+Built visual-regexp-steroids in 2.632s, finished at 2026-02-05T12:53:32+0000

@@ -1,0 +1,21 @@
+ • Building package llama-cpp (from github:kurnevsky/llama-cpp.el)...
+Updating /mnt/store/melpa/working/llama-cpp/
+Checking out 5cea3698aa63921b21888f126cae4f3ebc1baa39
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/llama-cpp/
+  to /tmp/llama-cppc7tjzh/llama-cpp-20240511.1039
+    llama-cpp-chat.el -> llama-cpp-chat.el
+    llama-cpp-code.el -> llama-cpp-code.el
+    llama-cpp-template.el -> llama-cpp-template.el
+    llama-cpp.el -> llama-cpp.el
+Created llama-cpp-20240511.1039.tar containing:
+  llama-cpp-20240511.1039/
+  llama-cpp-20240511.1039/llama-cpp-chat.el
+  llama-cpp-20240511.1039/llama-cpp-code.el
+  llama-cpp-20240511.1039/llama-cpp-pkg.el
+  llama-cpp-20240511.1039/llama-cpp-template.el
+  llama-cpp-20240511.1039/llama-cpp.el
+ ✓ Success:
+  2026-02-05T12:24:08+0000  llama-cpp-20240511.1039.entry
+  2026-02-05T12:24:07+0000  llama-cpp-20240511.1039.tar
+Built llama-cpp in 2.544s, finished at 2026-02-05T12:24:08+0000

@@ -1,0 +1,15 @@
+ • Building package consult-ag (from github:yadex205/consult-ag)...
+Updating /mnt/store/melpa/working/consult-ag/
+Checking out 9eb4df265aedf2628a714610c2ade6d2f21de053
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-ag/
+  to /tmp/consult-agWO562V/consult-ag-20230227.406
+    consult-ag.el -> consult-ag.el
+Created consult-ag-20230227.406.tar containing:
+  consult-ag-20230227.406/
+  consult-ag-20230227.406/consult-ag-pkg.el
+  consult-ag-20230227.406/consult-ag.el
+ ✓ Success:
+  2026-02-05T14:08:16+0000  consult-ag-20230227.406.entry
+  2026-02-05T14:08:16+0000  consult-ag-20230227.406.tar
+Built consult-ag in 2.654s, finished at 2026-02-05T14:08:17+0000

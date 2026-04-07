@@ -1,0 +1,15 @@
+ • Building package outline-indent (from github:jamescherti/outline-indent.el)...
+Updating /mnt/store/melpa/working/outline-indent/
+Checking out b0d2a0a28e2f5c252db7d69e3474e5ffae34d7da
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/outline-indent/
+  to /tmp/outline-indentECMZUm/outline-indent-20260204.1644
+    outline-indent.el -> outline-indent.el
+Created outline-indent-20260204.1644.tar containing:
+  outline-indent-20260204.1644/
+  outline-indent-20260204.1644/outline-indent-pkg.el
+  outline-indent-20260204.1644/outline-indent.el
+ ✓ Success:
+  2026-02-05T12:35:16+0000  outline-indent-20260204.1644.entry
+  2026-02-05T12:35:16+0000  outline-indent-20260204.1644.tar
+Built outline-indent in 3.326s, finished at 2026-02-05T12:35:17+0000

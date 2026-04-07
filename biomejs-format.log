@@ -1,0 +1,15 @@
+ • Building package biomejs-format (from github:yadex205/emacs-biomejs-format)...
+Updating /mnt/store/melpa/working/biomejs-format/
+Checking out cbfb8aac8bfab6fd893f1ccb4eb9efa29b1b3214
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/biomejs-format/
+  to /tmp/biomejs-formatzsmtB2/biomejs-format-20240401.458
+    biomejs-format.el -> biomejs-format.el
+Created biomejs-format-20240401.458.tar containing:
+  biomejs-format-20240401.458/
+  biomejs-format-20240401.458/biomejs-format-pkg.el
+  biomejs-format-20240401.458/biomejs-format.el
+ ✓ Success:
+  2026-02-05T14:03:06+0000  biomejs-format-20240401.458.entry
+  2026-02-05T14:03:06+0000  biomejs-format-20240401.458.tar
+Built biomejs-format in 2.683s, finished at 2026-02-05T14:03:07+0000

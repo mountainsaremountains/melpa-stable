@@ -1,0 +1,15 @@
+ • Building package zimports (from github:schmir/zimports.el)...
+Updating /mnt/store/melpa/working/zimports/
+Checking out 76cf76bdc871cb0454a6fc555aeb1aa94f1b6e57
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/zimports/
+  to /tmp/zimportsk2d0Nh/zimports-20211011.2059
+    zimports.el -> zimports.el
+Created zimports-20211011.2059.tar containing:
+  zimports-20211011.2059/
+  zimports-20211011.2059/zimports-pkg.el
+  zimports-20211011.2059/zimports.el
+ ✓ Success:
+  2026-02-05T12:56:42+0000  zimports-20211011.2059.entry
+  2026-02-05T12:56:42+0000  zimports-20211011.2059.tar
+Built zimports in 2.656s, finished at 2026-02-05T12:56:43+0000

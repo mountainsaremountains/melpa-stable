@@ -1,0 +1,15 @@
+ • Building package grizzl (from github:grizzl/grizzl)...
+Updating /mnt/store/melpa/working/grizzl/
+Checking out d554d93afa8519ee3a41340ec8aa6b4555065446
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/grizzl/
+  to /tmp/grizzlzk7fxL/grizzl-20160818.737
+    grizzl.el -> grizzl.el
+Created grizzl-20160818.737.tar containing:
+  grizzl-20160818.737/
+  grizzl-20160818.737/grizzl-pkg.el
+  grizzl-20160818.737/grizzl.el
+ ✓ Success:
+  2026-02-05T14:26:16+0000  grizzl-20160818.737.entry
+  2026-02-05T14:26:16+0000  grizzl-20160818.737.tar
+Built grizzl in 3.067s, finished at 2026-02-05T14:26:17+0000

@@ -1,0 +1,25 @@
+ • Building package cliphist (from github:redguardtoo/cliphist)...
+Updating /mnt/store/melpa/working/cliphist/
+Checking out d02b97a2aa0da13711d9a6f845649115de8ac11b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cliphist/
+  to /tmp/cliphistP0J6oh/cliphist-20220525.1034
+    cliphist-clipit.el -> cliphist-clipit.el
+    cliphist-flycut.el -> cliphist-flycut.el
+    cliphist-greenclip.el -> cliphist-greenclip.el
+    cliphist-parcellite.el -> cliphist-parcellite.el
+    cliphist-sdk.el -> cliphist-sdk.el
+    cliphist.el -> cliphist.el
+Created cliphist-20220525.1034.tar containing:
+  cliphist-20220525.1034/
+  cliphist-20220525.1034/cliphist-clipit.el
+  cliphist-20220525.1034/cliphist-flycut.el
+  cliphist-20220525.1034/cliphist-greenclip.el
+  cliphist-20220525.1034/cliphist-parcellite.el
+  cliphist-20220525.1034/cliphist-pkg.el
+  cliphist-20220525.1034/cliphist-sdk.el
+  cliphist-20220525.1034/cliphist.el
+ ✓ Success:
+  2026-02-05T14:06:17+0000  cliphist-20220525.1034.entry
+  2026-02-05T14:06:17+0000  cliphist-20220525.1034.tar
+Built cliphist in 2.731s, finished at 2026-02-05T14:06:18+0000

@@ -1,0 +1,17 @@
+ • Building package euslisp-mode (from github:iory/euslisp-mode)...
+Updating /mnt/store/melpa/working/euslisp-mode/
+Checking out bf74f683f3b0e127bf2c0e8082fe097e897cd572
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/euslisp-mode/
+  to /tmp/euslisp-modebGUoIE/euslisp-mode-20250823.1454
+    euslisp-mode.el -> euslisp-mode.el
+    test-local.el -> test-local.el
+Created euslisp-mode-20250823.1454.tar containing:
+  euslisp-mode-20250823.1454/
+  euslisp-mode-20250823.1454/euslisp-mode-pkg.el
+  euslisp-mode-20250823.1454/euslisp-mode.el
+  euslisp-mode-20250823.1454/test-local.el
+ ✓ Success:
+  2026-02-05T14:17:59+0000  euslisp-mode-20250823.1454.entry
+  2026-02-05T14:17:59+0000  euslisp-mode-20250823.1454.tar
+Built euslisp-mode in 2.374s, finished at 2026-02-05T14:18:00+0000

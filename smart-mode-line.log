@@ -1,0 +1,21 @@
+ • Building package smart-mode-line (from github:Malabarba/smart-mode-line)...
+Updating /mnt/store/melpa/working/smart-mode-line/
+Checking out bbed708eb8393697e01ab2474dfb54d7c5ea7905
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/smart-mode-line/
+  to /tmp/smart-mode-lineuAMuet/smart-mode-line-20240924.2322
+    smart-mode-line-dark-theme.el -> smart-mode-line-dark-theme.el
+    smart-mode-line-light-theme.el -> smart-mode-line-light-theme.el
+    smart-mode-line-respectful-theme.el -> smart-mode-line-respectful-theme.el
+    smart-mode-line.el -> smart-mode-line.el
+Created smart-mode-line-20240924.2322.tar containing:
+  smart-mode-line-20240924.2322/
+  smart-mode-line-20240924.2322/smart-mode-line-dark-theme.el
+  smart-mode-line-20240924.2322/smart-mode-line-light-theme.el
+  smart-mode-line-20240924.2322/smart-mode-line-pkg.el
+  smart-mode-line-20240924.2322/smart-mode-line-respectful-theme.el
+  smart-mode-line-20240924.2322/smart-mode-line.el
+ ✓ Success:
+  2026-02-05T12:46:17+0000  smart-mode-line-20240924.2322.entry
+  2026-02-05T12:46:17+0000  smart-mode-line-20240924.2322.tar
+Built smart-mode-line in 3.135s, finished at 2026-02-05T12:46:18+0000

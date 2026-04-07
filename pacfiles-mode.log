@@ -1,0 +1,23 @@
+ • Building package pacfiles-mode (from github:UndeadKernel/pacfiles-mode)...
+Updating /mnt/store/melpa/working/pacfiles-mode/
+Checking out a613d1d88dba4cb293ecaf42a9aeff7d8a3ce8aa
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pacfiles-mode/
+  to /tmp/pacfiles-modeyuokMo/pacfiles-mode-20230503.1523
+    pacfiles-automerge.el -> pacfiles-automerge.el
+    pacfiles-buttons.el -> pacfiles-buttons.el
+    pacfiles-mode.el -> pacfiles-mode.el
+    pacfiles-utils.el -> pacfiles-utils.el
+    pacfiles-win.el -> pacfiles-win.el
+Created pacfiles-mode-20230503.1523.tar containing:
+  pacfiles-mode-20230503.1523/
+  pacfiles-mode-20230503.1523/pacfiles-automerge.el
+  pacfiles-mode-20230503.1523/pacfiles-buttons.el
+  pacfiles-mode-20230503.1523/pacfiles-mode-pkg.el
+  pacfiles-mode-20230503.1523/pacfiles-mode.el
+  pacfiles-mode-20230503.1523/pacfiles-utils.el
+  pacfiles-mode-20230503.1523/pacfiles-win.el
+ ✓ Success:
+  2026-02-05T12:36:00+0000  pacfiles-mode-20230503.1523.entry
+  2026-02-05T12:36:00+0000  pacfiles-mode-20230503.1523.tar
+Built pacfiles-mode in 3.096s, finished at 2026-02-05T12:36:01+0000

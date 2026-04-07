@@ -1,0 +1,15 @@
+ • Building package buck (from github:emacsattic/buck)...
+Updating /mnt/store/melpa/working/buck/
+Checking out 3b6bd10ad5e7e6bf1ec36dce55b2b77545ec73e2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/buck/
+  to /tmp/buckMYn16R/buck-20250620.1333
+    buck.el -> buck.el
+Created buck-20250620.1333.tar containing:
+  buck-20250620.1333/
+  buck-20250620.1333/buck-pkg.el
+  buck-20250620.1333/buck.el
+ ✓ Success:
+  2026-02-05T14:04:08+0000  buck-20250620.1333.entry
+  2026-02-05T14:04:08+0000  buck-20250620.1333.tar
+Built buck in 2.788s, finished at 2026-02-05T14:04:09+0000

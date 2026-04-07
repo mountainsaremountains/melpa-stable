@@ -1,0 +1,15 @@
+ • Building package bbdb- (from github:aki2o/bbdb-)...
+Updating /mnt/store/melpa/working/bbdb-/
+Checking out 2839e84c894de2513af41053e80a277a1b483d22
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bbdb-/
+  to /tmp/bbdb-y1rlDR/bbdb--20140221.2354
+    bbdb-.el -> bbdb-.el
+Created bbdb--20140221.2354.tar containing:
+  bbdb--20140221.2354/
+  bbdb--20140221.2354/bbdb--pkg.el
+  bbdb--20140221.2354/bbdb-.el
+ ✓ Success:
+  2026-02-05T14:02:33+0000  bbdb--20140221.2354.entry
+  2026-02-05T14:02:33+0000  bbdb--20140221.2354.tar
+Built bbdb- in 2.495s, finished at 2026-02-05T14:02:34+0000

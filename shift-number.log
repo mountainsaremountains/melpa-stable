@@ -1,0 +1,15 @@
+ • Building package shift-number (from codeberg:ideasman42/emacs-shift-number)...
+Updating /mnt/store/melpa/working/shift-number/
+Checking out a71f5c3c77affc27a3d0bf16886a8a3b03c05044
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/shift-number/
+  to /tmp/shift-number6WJAS3/shift-number-20260103.831
+    shift-number.el -> shift-number.el
+Created shift-number-20260103.831.tar containing:
+  shift-number-20260103.831/
+  shift-number-20260103.831/shift-number-pkg.el
+  shift-number-20260103.831/shift-number.el
+ ✓ Success:
+  2026-02-05T12:45:10+0000  shift-number-20260103.831.entry
+  2026-02-05T12:45:10+0000  shift-number-20260103.831.tar
+Built shift-number in 3.908s, finished at 2026-02-05T12:45:11+0000

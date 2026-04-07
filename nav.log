@@ -1,0 +1,17 @@
+ • Building package nav (from github:emacsorphanage/nav)...
+Updating /mnt/store/melpa/working/nav/
+Checking out c9446387e337888778ea289ed7acc009691450da
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nav/
+  to /tmp/navSnTVrC/nav-20250211.1523
+    ack -> ack
+    nav.el -> nav.el
+Created nav-20250211.1523.tar containing:
+  nav-20250211.1523/
+  nav-20250211.1523/ack
+  nav-20250211.1523/nav-pkg.el
+  nav-20250211.1523/nav.el
+ ✓ Success:
+  2026-02-05T12:29:05+0000  nav-20250211.1523.entry
+  2026-02-05T12:29:05+0000  nav-20250211.1523.tar
+Built nav in 2.442s, finished at 2026-02-05T12:29:06+0000

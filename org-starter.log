@@ -1,0 +1,15 @@
+ • Building package org-starter (from github:akirak/org-starter)...
+Updating /mnt/store/melpa/working/org-starter/
+Checking out cd9c5c0402de941299d1c8901f26a8f24d755022
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-starter/
+  to /tmp/org-starterlY0HO3/org-starter-20220326.1106
+    org-starter.el -> org-starter.el
+Created org-starter-20220326.1106.tar containing:
+  org-starter-20220326.1106/
+  org-starter-20220326.1106/org-starter-pkg.el
+  org-starter-20220326.1106/org-starter.el
+ ✓ Success:
+  2026-02-05T12:34:18+0000  org-starter-20220326.1106.entry
+  2026-02-05T12:34:17+0000  org-starter-20220326.1106.tar
+Built org-starter in 2.726s, finished at 2026-02-05T12:34:18+0000

@@ -1,0 +1,15 @@
+ • Building package panda (from github:sebasmonia/panda)...
+Updating /mnt/store/melpa/working/panda/
+Checking out 286785687d4ffe29fd1d95c699d378743d32ac00
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/panda/
+  to /tmp/pandaXQOdTK/panda-20240102.348
+    panda.el -> panda.el
+Created panda-20240102.348.tar containing:
+  panda-20240102.348/
+  panda-20240102.348/panda-pkg.el
+  panda-20240102.348/panda.el
+ ✓ Success:
+  2026-02-05T12:36:12+0000  panda-20240102.348.entry
+  2026-02-05T12:36:12+0000  panda-20240102.348.tar
+Built panda in 2.540s, finished at 2026-02-05T12:36:12+0000

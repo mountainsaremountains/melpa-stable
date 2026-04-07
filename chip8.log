@@ -1,0 +1,15 @@
+ • Building package chip8 (from github:gabrielelana/chip8.el)...
+Updating /mnt/store/melpa/working/chip8/
+Checking out e2d0131dc45e65151f9655833807fbe838267dbd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chip8/
+  to /tmp/chip84tj9E2/chip8-20250405.1408
+    chip8.el -> chip8.el
+Created chip8-20250405.1408.tar containing:
+  chip8-20250405.1408/
+  chip8-20250405.1408/chip8-pkg.el
+  chip8-20250405.1408/chip8.el
+ ✓ Success:
+  2026-02-05T14:05:41+0000  chip8-20250405.1408.entry
+  2026-02-05T14:05:41+0000  chip8-20250405.1408.tar
+Built chip8 in 2.737s, finished at 2026-02-05T14:05:41+0000

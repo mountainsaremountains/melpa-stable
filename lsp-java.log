@@ -1,0 +1,35 @@
+ • Building package lsp-java (from github:emacs-lsp/lsp-java)...
+Updating /mnt/store/melpa/working/lsp-java/
+Checking out 094593d9c13d6d0b03d526d46e7fb0ee28c29afc
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lsp-java/
+  to /tmp/lsp-javaoAm2cy/lsp-java-20251118.1411
+    dap-java.el -> dap-java.el
+    lsp-java-boot.el -> lsp-java-boot.el
+    lsp-java.el -> lsp-java.el
+    lsp-jt.el -> lsp-jt.el
+    icons => icons
+Created lsp-java-20251118.1411.tar containing:
+  lsp-java-20251118.1411/
+  lsp-java-20251118.1411/dap-java.el
+  lsp-java-20251118.1411/icons/
+  lsp-java-20251118.1411/icons/vscode/
+  lsp-java-20251118.1411/icons/vscode/class.png
+  lsp-java-20251118.1411/icons/vscode/debug.png
+  lsp-java-20251118.1411/icons/vscode/history.png
+  lsp-java-20251118.1411/icons/vscode/method.png
+  lsp-java-20251118.1411/icons/vscode/package.png
+  lsp-java-20251118.1411/icons/vscode/pass.png
+  lsp-java-20251118.1411/icons/vscode/placeholder.png
+  lsp-java-20251118.1411/icons/vscode/refresh.png
+  lsp-java-20251118.1411/icons/vscode/run.png
+  lsp-java-20251118.1411/icons/vscode/running.png
+  lsp-java-20251118.1411/icons/vscode/test-error.png
+  lsp-java-20251118.1411/lsp-java-boot.el
+  lsp-java-20251118.1411/lsp-java-pkg.el
+  lsp-java-20251118.1411/lsp-java.el
+  lsp-java-20251118.1411/lsp-jt.el
+ ✓ Success:
+  2026-02-05T12:24:38+0000  lsp-java-20251118.1411.entry
+  2026-02-05T12:24:38+0000  lsp-java-20251118.1411.tar
+Built lsp-java in 3.244s, finished at 2026-02-05T12:24:39+0000

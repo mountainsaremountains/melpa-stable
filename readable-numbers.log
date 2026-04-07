@@ -1,0 +1,15 @@
+ • Building package readable-numbers (from github:Titan-C/cardano.el)...
+Updating /mnt/store/melpa/working/readable-numbers/
+Checking out a3ebdcdd91d32f044b68541a00e162396e4acb38
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/readable-numbers/
+  to /tmp/readable-numbers8An5ph/readable-numbers-20220711.911
+    readable-numbers.el -> readable-numbers.el
+Created readable-numbers-20220711.911.tar containing:
+  readable-numbers-20220711.911/
+  readable-numbers-20220711.911/readable-numbers-pkg.el
+  readable-numbers-20220711.911/readable-numbers.el
+ ✓ Success:
+  2026-02-05T12:41:26+0000  readable-numbers-20220711.911.entry
+  2026-02-05T12:41:26+0000  readable-numbers-20220711.911.tar
+Built readable-numbers in 3.049s, finished at 2026-02-05T12:41:27+0000

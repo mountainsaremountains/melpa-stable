@@ -1,0 +1,15 @@
+ • Building package magit-gitlab (from gitlab:arvidnl/magit-gitlab)...
+Updating /mnt/store/melpa/working/magit-gitlab/
+Checking out 6f10468f9091d02aa6f1ce4af914443209a7d2a5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-gitlab/
+  to /tmp/magit-gitlablR2QSR/magit-gitlab-20240707.1506
+    magit-gitlab.el -> magit-gitlab.el
+Created magit-gitlab-20240707.1506.tar containing:
+  magit-gitlab-20240707.1506/
+  magit-gitlab-20240707.1506/magit-gitlab-pkg.el
+  magit-gitlab-20240707.1506/magit-gitlab.el
+ ✓ Success:
+  2026-02-05T12:25:19+0000  magit-gitlab-20240707.1506.entry
+  2026-02-05T12:25:19+0000  magit-gitlab-20240707.1506.tar
+Built magit-gitlab in 3.685s, finished at 2026-02-05T12:25:20+0000

@@ -1,0 +1,15 @@
+ • Building package org-roam-ql (from github:ahmed-shariff/org-roam-ql)...
+Updating /mnt/store/melpa/working/org-roam-ql/
+Checking out 420ce9b5a28c8e9c9583cb88142e83d905e06c96
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-roam-ql/
+  to /tmp/org-roam-qljPUggG/org-roam-ql-20251217.2009
+    org-roam-ql.el -> org-roam-ql.el
+Created org-roam-ql-20251217.2009.tar containing:
+  org-roam-ql-20251217.2009/
+  org-roam-ql-20251217.2009/org-roam-ql-pkg.el
+  org-roam-ql-20251217.2009/org-roam-ql.el
+ ✓ Success:
+  2026-02-05T12:34:03+0000  org-roam-ql-20251217.2009.entry
+  2026-02-05T12:34:03+0000  org-roam-ql-20251217.2009.tar
+Built org-roam-ql in 3.260s, finished at 2026-02-05T12:34:04+0000

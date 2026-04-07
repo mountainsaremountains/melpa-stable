@@ -1,0 +1,15 @@
+ • Building package current-word-highlight (from github:kijimad/current-word-highlight)...
+Updating /mnt/store/melpa/working/current-word-highlight/
+Checking out d860f4e170ffa4cef840da93647f458cc409d554
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/current-word-highlight/
+  to /tmp/current-word-highlight0A2BLP/current-word-highlight-20210323.1401
+    current-word-highlight.el -> current-word-highlight.el
+Created current-word-highlight-20210323.1401.tar containing:
+  current-word-highlight-20210323.1401/
+  current-word-highlight-20210323.1401/current-word-highlight-pkg.el
+  current-word-highlight-20210323.1401/current-word-highlight.el
+ ✓ Success:
+  2026-02-05T14:10:01+0000  current-word-highlight-20210323.1401.entry
+  2026-02-05T14:10:01+0000  current-word-highlight-20210323.1401.tar
+Built current-word-highlight in 3.315s, finished at 2026-02-05T14:10:02+0000

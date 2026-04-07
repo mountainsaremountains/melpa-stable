@@ -1,0 +1,15 @@
+ • Building package parse-csv (from github:mrc/el-csv)...
+Updating /mnt/store/melpa/working/parse-csv/
+Checking out b2e7010ba91ecce25498a73f64f950de4dd8dbe2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/parse-csv/
+  to /tmp/parse-csvUgZ0Eb/parse-csv-20241214.246
+    parse-csv.el -> parse-csv.el
+Created parse-csv-20241214.246.tar containing:
+  parse-csv-20241214.246/
+  parse-csv-20241214.246/parse-csv-pkg.el
+  parse-csv-20241214.246/parse-csv.el
+ ✓ Success:
+  2026-02-05T12:36:23+0000  parse-csv-20241214.246.entry
+  2026-02-05T12:36:23+0000  parse-csv-20241214.246.tar
+Built parse-csv in 2.716s, finished at 2026-02-05T12:36:24+0000

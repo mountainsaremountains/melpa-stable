@@ -1,0 +1,19 @@
+ • Building package eager-state (from github:meedstrom/eager-state)...
+Updating /mnt/store/melpa/working/eager-state/
+Checking out 53282709833021dfbe8605c9eadaa0fffe5da349
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eager-state/
+  to /tmp/eager-stateLKlIJy/eager-state-20260123.751
+    eager-state.el -> eager-state.el
+    eager-state.texi -> eager-state.texi
+Generating eager-state.info
+Created eager-state-20260123.751.tar containing:
+  eager-state-20260123.751/
+  eager-state-20260123.751/dir
+  eager-state-20260123.751/eager-state-pkg.el
+  eager-state-20260123.751/eager-state.el
+  eager-state-20260123.751/eager-state.info
+ ✓ Success:
+  2026-02-05T14:13:38+0000  eager-state-20260123.751.entry
+  2026-02-05T14:13:38+0000  eager-state-20260123.751.tar
+Built eager-state in 4.505s, finished at 2026-02-05T14:13:39+0000

@@ -1,0 +1,15 @@
+ • Building package sideline-lsp (from github:emacs-sideline/sideline-lsp)...
+Updating /mnt/store/melpa/working/sideline-lsp/
+Checking out dfa29a7b27e5ab64788c76544444f678ae4db18d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/sideline-lsp/
+  to /tmp/sideline-lspMfvDuB/sideline-lsp-20260101.542
+    sideline-lsp.el -> sideline-lsp.el
+Created sideline-lsp-20260101.542.tar containing:
+  sideline-lsp-20260101.542/
+  sideline-lsp-20260101.542/sideline-lsp-pkg.el
+  sideline-lsp-20260101.542/sideline-lsp.el
+ ✓ Success:
+  2026-02-05T12:45:28+0000  sideline-lsp-20260101.542.entry
+  2026-02-05T12:45:28+0000  sideline-lsp-20260101.542.tar
+Built sideline-lsp in 3.280s, finished at 2026-02-05T12:45:29+0000

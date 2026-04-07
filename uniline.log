@@ -1,0 +1,24 @@
+ • Building package uniline (from github:tbanel/uniline)...
+Updating /mnt/store/melpa/working/uniline/
+Checking out 2462bf2e81f75c03b0105f765c86fcba89127953
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/uniline/
+  to /tmp/uniline0vEjzz/uniline-20260203.1541
+    uniline-core.el -> uniline-core.el
+    uniline-hydra.el -> uniline-hydra.el
+    uniline-transient.el -> uniline-transient.el
+    uniline.el -> uniline.el
+    uniline.info -> uniline.info
+Created uniline-20260203.1541.tar containing:
+  uniline-20260203.1541/
+  uniline-20260203.1541/dir
+  uniline-20260203.1541/uniline-core.el
+  uniline-20260203.1541/uniline-hydra.el
+  uniline-20260203.1541/uniline-pkg.el
+  uniline-20260203.1541/uniline-transient.el
+  uniline-20260203.1541/uniline.el
+  uniline-20260203.1541/uniline.info
+ ✓ Success:
+  2026-02-05T12:52:26+0000  uniline-20260203.1541.entry
+  2026-02-05T12:52:26+0000  uniline-20260203.1541.tar
+Built uniline in 3.161s, finished at 2026-02-05T12:52:27+0000

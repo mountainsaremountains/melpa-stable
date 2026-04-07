@@ -1,0 +1,15 @@
+ • Building package surround (from github:mkleehammer/surround)...
+Updating /mnt/store/melpa/working/surround/
+Checking out 6807bf69be1591a419a009adf8a5071b1cdcc76e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/surround/
+  to /tmp/surround1j1yKk/surround-20250725.511
+    surround.el -> surround.el
+Created surround-20250725.511.tar containing:
+  surround-20250725.511/
+  surround-20250725.511/surround-pkg.el
+  surround-20250725.511/surround.el
+ ✓ Success:
+  2026-02-05T12:48:20+0000  surround-20250725.511.entry
+  2026-02-05T12:48:20+0000  surround-20250725.511.tar
+Built surround in 2.690s, finished at 2026-02-05T12:48:21+0000
