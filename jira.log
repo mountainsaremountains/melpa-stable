@@ -1,0 +1,40 @@
+
+ • Building package jira
+From https://github.com/unmonoqueteclea/jira.el
+Updating /mnt/store/melpa/working/jira/
+Checking out ea01072d1492e0d0d5832ede596655c8bcc9e4ed
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/jira/
+  to /tmp/jira-XuLIkf/jira-20261004.1907/
+    jira-actions.el -> jira-actions.el
+    jira-api.el -> jira-api.el
+    jira-complete.el -> jira-complete.el
+    jira-detail.el -> jira-detail.el
+    jira-doc.el -> jira-doc.el
+    jira-edit.el -> jira-edit.el
+    jira-export.el -> jira-export.el
+    jira-fmt.el -> jira-fmt.el
+    jira-issues.el -> jira-issues.el
+    jira-table.el -> jira-table.el
+    jira-tempo.el -> jira-tempo.el
+    jira-users.el -> jira-users.el
+    jira-utils.el -> jira-utils.el
+    jira.el -> jira.el
+Created jira-20261004.1907.tar containing:
+  jira-20261004.1907/
+  jira-20261004.1907/jira-actions.el
+  jira-20261004.1907/jira-api.el
+  jira-20261004.1907/jira-complete.el
+  jira-20261004.1907/jira-detail.el
+  jira-20261004.1907/jira-doc.el
+  jira-20261004.1907/jira-edit.el
+  jira-20261004.1907/jira-export.el
+  jira-20261004.1907/jira-fmt.el
+  jira-20261004.1907/jira-issues.el
+  jira-20261004.1907/jira-pkg.el
+  jira-20261004.1907/jira-table.el
+  jira-20261004.1907/jira-tempo.el
+  jira-20261004.1907/jira-users.el
+  jira-20261004.1907/jira-utils.el
+  jira-20261004.1907/jira.el
+Built jira in 4.309s, finished at 2026-10-08T11:15:47+0000

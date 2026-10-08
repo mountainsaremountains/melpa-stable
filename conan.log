@@ -1,0 +1,14 @@
+
+ • Building package conan
+From https://github.com/Carl2/conan-elisp
+Updating /mnt/store/melpa/working/conan/
+Checking out 0c3cca9e832e837a037f8c88438cca979891b131
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/conan/
+  to /tmp/conan-1bAcJQ/conan-20250919.1412/
+    conan.el -> conan.el
+Created conan-20250919.1412.tar containing:
+  conan-20250919.1412/
+  conan-20250919.1412/conan-pkg.el
+  conan-20250919.1412/conan.el
+Built conan in 2.891s, finished at 2026-10-08T10:48:16+0000

@@ -1,0 +1,52 @@
+
+ • Building package evil
+From https://github.com/emacs-evil/evil
+Updating /mnt/store/melpa/working/evil/
+Checking out 6a3e1ddd04ac504a016590940d0af2a3361b9efd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil/
+  to /tmp/evil-EPML5c/evil-20260728.1438/
+    evil-command-window.el -> evil-command-window.el
+    evil-commands.el -> evil-commands.el
+    evil-common.el -> evil-common.el
+    evil-core.el -> evil-core.el
+    evil-development.el -> evil-development.el
+    evil-digraphs.el -> evil-digraphs.el
+    evil-ex.el -> evil-ex.el
+    evil-integration.el -> evil-integration.el
+    evil-jumps.el -> evil-jumps.el
+    evil-keybindings.el -> evil-keybindings.el
+    evil-macros.el -> evil-macros.el
+    evil-maps.el -> evil-maps.el
+    evil-repeat.el -> evil-repeat.el
+    evil-search.el -> evil-search.el
+    evil-states.el -> evil-states.el
+    evil-types.el -> evil-types.el
+    evil-vars.el -> evil-vars.el
+    evil.el -> evil.el
+  ! doc/build/texinfo/evil.texi -> evil.texi
+Generating evil.info
+Created evil-20260728.1438.tar containing:
+  evil-20260728.1438/
+  evil-20260728.1438/dir
+  evil-20260728.1438/evil-command-window.el
+  evil-20260728.1438/evil-commands.el
+  evil-20260728.1438/evil-common.el
+  evil-20260728.1438/evil-core.el
+  evil-20260728.1438/evil-development.el
+  evil-20260728.1438/evil-digraphs.el
+  evil-20260728.1438/evil-ex.el
+  evil-20260728.1438/evil-integration.el
+  evil-20260728.1438/evil-jumps.el
+  evil-20260728.1438/evil-keybindings.el
+  evil-20260728.1438/evil-macros.el
+  evil-20260728.1438/evil-maps.el
+  evil-20260728.1438/evil-pkg.el
+  evil-20260728.1438/evil-repeat.el
+  evil-20260728.1438/evil-search.el
+  evil-20260728.1438/evil-states.el
+  evil-20260728.1438/evil-types.el
+  evil-20260728.1438/evil-vars.el
+  evil-20260728.1438/evil.el
+  evil-20260728.1438/evil.info
+Built evil in 6.950s, finished at 2026-10-08T10:59:30+0000

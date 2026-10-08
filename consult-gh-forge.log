@@ -1,0 +1,14 @@
+
+ • Building package consult-gh-forge
+From https://github.com/armindarvish/consult-gh
+Updating /mnt/store/melpa/working/consult-gh-forge/
+Checking out c8707e86d36ea4ec38e177ca8fa0313a5374a0a9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-gh-forge/
+  to /tmp/consult-gh-forge-9M48FI/consult-gh-forge-20260801.1654/
+    consult-gh-forge.el -> consult-gh-forge.el
+Created consult-gh-forge-20260801.1654.tar containing:
+  consult-gh-forge-20260801.1654/
+  consult-gh-forge-20260801.1654/consult-gh-forge-pkg.el
+  consult-gh-forge-20260801.1654/consult-gh-forge.el
+Built consult-gh-forge in 3.379s, finished at 2026-10-08T10:48:32+0000

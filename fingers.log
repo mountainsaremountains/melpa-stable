@@ -1,0 +1,18 @@
+
+ • Building package fingers
+From https://github.com/fgeller/fingers.el
+Updating /mnt/store/melpa/working/fingers/
+Checking out 7de351448a6f5ea7aa7a25db6c90d5138f87eb16
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fingers/
+  to /tmp/fingers-uNJbBu/fingers-20160817.829/
+    fingers-neo.el -> fingers-neo.el
+    fingers-qwerty.el -> fingers-qwerty.el
+    fingers.el -> fingers.el
+Created fingers-20160817.829.tar containing:
+  fingers-20160817.829/
+  fingers-20160817.829/fingers-neo.el
+  fingers-20160817.829/fingers-pkg.el
+  fingers-20160817.829/fingers-qwerty.el
+  fingers-20160817.829/fingers.el
+Built fingers in 3.147s, finished at 2026-10-08T11:01:30+0000

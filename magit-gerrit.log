@@ -1,0 +1,14 @@
+
+ • Building package magit-gerrit
+From https://github.com/emacsorphanage/magit-gerrit
+Updating /mnt/store/melpa/working/magit-gerrit/
+Checking out d95d6d3febf7f9c04a4abefa3640610aae626683
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/magit-gerrit/
+  to /tmp/magit-gerrit-smoY5q/magit-gerrit-20250825.811/
+    magit-gerrit.el -> magit-gerrit.el
+Created magit-gerrit-20250825.811.tar containing:
+  magit-gerrit-20250825.811/
+  magit-gerrit-20250825.811/magit-gerrit-pkg.el
+  magit-gerrit-20250825.811/magit-gerrit.el
+Built magit-gerrit in 3.126s, finished at 2026-10-08T11:21:24+0000

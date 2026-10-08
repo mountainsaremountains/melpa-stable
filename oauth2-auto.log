@@ -1,0 +1,14 @@
+
+ • Building package oauth2-auto
+From https://github.com/telotortium/emacs-oauth2-auto
+Updating /mnt/store/melpa/working/oauth2-auto/
+Checking out 1f046222a51a1650f48895437996c8f83940bc31
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/oauth2-auto/
+  to /tmp/oauth2-auto-RCXjSv/oauth2-auto-20260725.1535/
+    oauth2-auto.el -> oauth2-auto.el
+Created oauth2-auto-20260725.1535.tar containing:
+  oauth2-auto-20260725.1535/
+  oauth2-auto-20260725.1535/oauth2-auto-pkg.el
+  oauth2-auto-20260725.1535/oauth2-auto.el
+Built oauth2-auto in 3.309s, finished at 2026-10-08T11:27:58+0000

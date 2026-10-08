@@ -1,0 +1,14 @@
+
+ • Building package codespaces
+From https://github.com/f4ban/codespaces.el
+Updating /mnt/store/melpa/working/codespaces/
+Checking out 7ec1aa6fed6c0a4dc92db94d46773b77d5ad1b97
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/codespaces/
+  to /tmp/codespaces-Fun2Em/codespaces-20261003.2138/
+    codespaces.el -> codespaces.el
+Created codespaces-20261003.2138.tar containing:
+  codespaces-20261003.2138/
+  codespaces-20261003.2138/codespaces-pkg.el
+  codespaces-20261003.2138/codespaces.el
+Built codespaces in 3.147s, finished at 2026-10-08T10:46:59+0000

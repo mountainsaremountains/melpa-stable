@@ -1,0 +1,14 @@
+
+ • Building package elfeed-protocol-freshrss
+From https://codeberg.org/lou/elfeed-protocol-freshrss
+Updating /mnt/store/melpa/working/elfeed-protocol-freshrss/
+Checking out 5b282ae09f994d9d63ac2f7aa0d07414d9802464
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed-protocol-freshrss/
+  to /tmp/elfeed-protocol-freshrss-I2IVok/elfeed-protocol-freshrss-20260920.119/
+    elfeed-protocol-freshrss.el -> elfeed-protocol-freshrss.el
+Created elfeed-protocol-freshrss-20260920.119.tar containing:
+  elfeed-protocol-freshrss-20260920.119/
+  elfeed-protocol-freshrss-20260920.119/elfeed-protocol-freshrss-pkg.el
+  elfeed-protocol-freshrss-20260920.119/elfeed-protocol-freshrss.el
+Built elfeed-protocol-freshrss in 3.310s, finished at 2026-10-08T10:56:10+0000

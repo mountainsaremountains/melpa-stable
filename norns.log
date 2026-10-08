@@ -1,0 +1,14 @@
+
+ • Building package norns
+From https://github.com/p3r7/norns.el
+Updating /mnt/store/melpa/working/norns/
+Checking out d08eed8555a619a13aa99cfa2ef40e199e86114c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/norns/
+  to /tmp/norns-u56roP/norns-20241011.1212/
+    norns.el -> norns.el
+Created norns-20241011.1212.tar containing:
+  norns-20241011.1212/
+  norns-20241011.1212/norns-pkg.el
+  norns-20241011.1212/norns.el
+Built norns in 2.873s, finished at 2026-10-08T11:27:30+0000

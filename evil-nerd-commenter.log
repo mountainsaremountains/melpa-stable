@@ -1,0 +1,18 @@
+
+ • Building package evil-nerd-commenter
+From https://github.com/redguardtoo/evil-nerd-commenter
+Updating /mnt/store/melpa/working/evil-nerd-commenter/
+Checking out db5ee61a6e75db074b7d20e9dcb68e0b94b4edc7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-nerd-commenter/
+  to /tmp/evil-nerd-commenter-2G6OfZ/evil-nerd-commenter-20260507.414/
+    evil-nerd-commenter-operator.el -> evil-nerd-commenter-operator.el
+    evil-nerd-commenter-sdk.el -> evil-nerd-commenter-sdk.el
+    evil-nerd-commenter.el -> evil-nerd-commenter.el
+Created evil-nerd-commenter-20260507.414.tar containing:
+  evil-nerd-commenter-20260507.414/
+  evil-nerd-commenter-20260507.414/evil-nerd-commenter-operator.el
+  evil-nerd-commenter-20260507.414/evil-nerd-commenter-pkg.el
+  evil-nerd-commenter-20260507.414/evil-nerd-commenter-sdk.el
+  evil-nerd-commenter-20260507.414/evil-nerd-commenter.el
+Built evil-nerd-commenter in 2.822s, finished at 2026-10-08T10:59:55+0000

@@ -1,0 +1,14 @@
+
+ • Building package folgezett
+From https://github.com/landerwells/folgezett.el
+Updating /mnt/store/melpa/working/folgezett/
+Checking out 8b60ab378fd83a4fc9abc15c82bdcd3cdb2c507d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/folgezett/
+  to /tmp/folgezett-oqFk4j/folgezett-20260517.422/
+    folgezett.el -> folgezett.el
+Created folgezett-20260517.422.tar containing:
+  folgezett-20260517.422/
+  folgezett-20260517.422/folgezett-pkg.el
+  folgezett-20260517.422/folgezett.el
+Built folgezett in 5.053s, finished at 2026-10-08T11:04:28+0000

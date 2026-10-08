@@ -1,0 +1,24 @@
+
+ • Building package google-translate
+From https://github.com/atykhonov/google-translate
+Updating /mnt/store/melpa/working/google-translate/
+Checking out 47c5719b7dd51a37a6ad270489738187a436d920
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/google-translate/
+  to /tmp/google-translate-rKjWCQ/google-translate-20260419.134/
+    google-translate-backend.el -> google-translate-backend.el
+    google-translate-core-ui.el -> google-translate-core-ui.el
+    google-translate-core.el -> google-translate-core.el
+    google-translate-default-ui.el -> google-translate-default-ui.el
+    google-translate-smooth-ui.el -> google-translate-smooth-ui.el
+    google-translate.el -> google-translate.el
+Created google-translate-20260419.134.tar containing:
+  google-translate-20260419.134/
+  google-translate-20260419.134/google-translate-backend.el
+  google-translate-20260419.134/google-translate-core-ui.el
+  google-translate-20260419.134/google-translate-core.el
+  google-translate-20260419.134/google-translate-default-ui.el
+  google-translate-20260419.134/google-translate-pkg.el
+  google-translate-20260419.134/google-translate-smooth-ui.el
+  google-translate-20260419.134/google-translate.el
+Built google-translate in 3.258s, finished at 2026-10-08T11:07:45+0000

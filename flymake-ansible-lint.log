@@ -1,0 +1,14 @@
+
+ • Building package flymake-ansible-lint
+From https://github.com/jamescherti/flymake-ansible-lint.el
+Updating /mnt/store/melpa/working/flymake-ansible-lint/
+Checking out 3c2aaad92d37a198af46b8effe3acb2927239ad0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-ansible-lint/
+  to /tmp/flymake-ansible-lint-IGIkvZ/flymake-ansible-lint-20261001.1425/
+    flymake-ansible-lint.el -> flymake-ansible-lint.el
+Created flymake-ansible-lint-20261001.1425.tar containing:
+  flymake-ansible-lint-20261001.1425/
+  flymake-ansible-lint-20261001.1425/flymake-ansible-lint-pkg.el
+  flymake-ansible-lint-20261001.1425/flymake-ansible-lint.el
+Built flymake-ansible-lint in 3.018s, finished at 2026-10-08T11:03:15+0000

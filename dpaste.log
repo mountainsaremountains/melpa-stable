@@ -1,0 +1,14 @@
+
+ • Building package dpaste
+From https://github.com/gregnewman/dpaste.el
+Updating /mnt/store/melpa/working/dpaste/
+Checking out e7a1a18de77f752eb0dbb4b878925f2265538d0b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dpaste/
+  to /tmp/dpaste-shs6Ki/dpaste-20160303.2112/
+    dpaste.el -> dpaste.el
+Created dpaste-20160303.2112.tar containing:
+  dpaste-20160303.2112/
+  dpaste-20160303.2112/dpaste-pkg.el
+  dpaste-20160303.2112/dpaste.el
+Built dpaste in 2.958s, finished at 2026-10-08T10:54:02+0000

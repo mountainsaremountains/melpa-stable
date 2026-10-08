@@ -1,0 +1,62 @@
+
+ • Building package idris-mode
+From https://github.com/idris-hackers/idris-mode
+Updating /mnt/store/melpa/working/idris-mode/
+Checking out 22cc1bf237428b24de5f4f228db747e93a4ae619
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/idris-mode/
+  to /tmp/idris-mode-K3qgAw/idris-mode-20260506.2033/
+    flycheck-idris.el -> flycheck-idris.el
+    idris-commands.el -> idris-commands.el
+    idris-common-utils.el -> idris-common-utils.el
+    idris-compat.el -> idris-compat.el
+    idris-core.el -> idris-core.el
+    idris-events.el -> idris-events.el
+    idris-highlight-input.el -> idris-highlight-input.el
+    idris-hole-list.el -> idris-hole-list.el
+    idris-info.el -> idris-info.el
+    idris-ipkg-mode.el -> idris-ipkg-mode.el
+    idris-keys.el -> idris-keys.el
+    idris-log.el -> idris-log.el
+    idris-mode.el -> idris-mode.el
+    idris-navigate.el -> idris-navigate.el
+    idris-prover.el -> idris-prover.el
+    idris-repl.el -> idris-repl.el
+    idris-settings.el -> idris-settings.el
+    idris-simple-indent.el -> idris-simple-indent.el
+    idris-syntax.el -> idris-syntax.el
+    idris-tree-info.el -> idris-tree-info.el
+    idris-warnings-tree.el -> idris-warnings-tree.el
+    idris-warnings.el -> idris-warnings.el
+    idris-xref.el -> idris-xref.el
+    inferior-idris.el -> inferior-idris.el
+    logo-small.png -> logo-small.png
+Created idris-mode-20260506.2033.tar containing:
+  idris-mode-20260506.2033/
+  idris-mode-20260506.2033/flycheck-idris.el
+  idris-mode-20260506.2033/idris-commands.el
+  idris-mode-20260506.2033/idris-common-utils.el
+  idris-mode-20260506.2033/idris-compat.el
+  idris-mode-20260506.2033/idris-core.el
+  idris-mode-20260506.2033/idris-events.el
+  idris-mode-20260506.2033/idris-highlight-input.el
+  idris-mode-20260506.2033/idris-hole-list.el
+  idris-mode-20260506.2033/idris-info.el
+  idris-mode-20260506.2033/idris-ipkg-mode.el
+  idris-mode-20260506.2033/idris-keys.el
+  idris-mode-20260506.2033/idris-log.el
+  idris-mode-20260506.2033/idris-mode-pkg.el
+  idris-mode-20260506.2033/idris-mode.el
+  idris-mode-20260506.2033/idris-navigate.el
+  idris-mode-20260506.2033/idris-prover.el
+  idris-mode-20260506.2033/idris-repl.el
+  idris-mode-20260506.2033/idris-settings.el
+  idris-mode-20260506.2033/idris-simple-indent.el
+  idris-mode-20260506.2033/idris-syntax.el
+  idris-mode-20260506.2033/idris-tree-info.el
+  idris-mode-20260506.2033/idris-warnings-tree.el
+  idris-mode-20260506.2033/idris-warnings.el
+  idris-mode-20260506.2033/idris-xref.el
+  idris-mode-20260506.2033/inferior-idris.el
+  idris-mode-20260506.2033/logo-small.png
+Built idris-mode in 4.123s, finished at 2026-10-08T11:13:34+0000

@@ -1,0 +1,14 @@
+
+ • Building package notmuch-addr
+From https://github.com/tarsius/notmuch-addr
+Updating /mnt/store/melpa/working/notmuch-addr/
+Checking out 2eca10cd91f2f33629f08364310f4140316f464e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/notmuch-addr/
+  to /tmp/notmuch-addr-XPfXoy/notmuch-addr-20261001.1603/
+    notmuch-addr.el -> notmuch-addr.el
+Created notmuch-addr-20261001.1603.tar containing:
+  notmuch-addr-20261001.1603/
+  notmuch-addr-20261001.1603/notmuch-addr-pkg.el
+  notmuch-addr-20261001.1603/notmuch-addr.el
+Built notmuch-addr in 3.169s, finished at 2026-10-08T11:27:35+0000

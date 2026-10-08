@@ -1,0 +1,14 @@
+
+ • Building package flycheck-inline
+From https://github.com/flycheck/flycheck-inline
+Updating /mnt/store/melpa/working/flycheck-inline/
+Checking out ac651c6b3101c32eb615d454a4214c4fbd9e1260
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-inline/
+  to /tmp/flycheck-inline-cIsxPg/flycheck-inline-20260810.759/
+    flycheck-inline.el -> flycheck-inline.el
+Created flycheck-inline-20260810.759.tar containing:
+  flycheck-inline-20260810.759/
+  flycheck-inline-20260810.759/flycheck-inline-pkg.el
+  flycheck-inline-20260810.759/flycheck-inline.el
+Built flycheck-inline in 3.192s, finished at 2026-10-08T11:02:41+0000

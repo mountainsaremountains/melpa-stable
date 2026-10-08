@@ -1,0 +1,24 @@
+
+ • Building package elfeed-tube
+From https://github.com/karthink/elfeed-tube
+Updating /mnt/store/melpa/working/elfeed-tube/
+Checking out f653d5b7f27a2eace217d9e6b4f40e0e35ae88cd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed-tube/
+  to /tmp/elfeed-tube-U6Xqbg/elfeed-tube-20260702.1928/
+    elfeed-tube-contrib.el -> elfeed-tube-contrib.el
+    elfeed-tube-fill.el -> elfeed-tube-fill.el
+    elfeed-tube-invidious.el -> elfeed-tube-invidious.el
+    elfeed-tube-utils.el -> elfeed-tube-utils.el
+    elfeed-tube-ytdlp.el -> elfeed-tube-ytdlp.el
+    elfeed-tube.el -> elfeed-tube.el
+Created elfeed-tube-20260702.1928.tar containing:
+  elfeed-tube-20260702.1928/
+  elfeed-tube-20260702.1928/elfeed-tube-contrib.el
+  elfeed-tube-20260702.1928/elfeed-tube-fill.el
+  elfeed-tube-20260702.1928/elfeed-tube-invidious.el
+  elfeed-tube-20260702.1928/elfeed-tube-pkg.el
+  elfeed-tube-20260702.1928/elfeed-tube-utils.el
+  elfeed-tube-20260702.1928/elfeed-tube-ytdlp.el
+  elfeed-tube-20260702.1928/elfeed-tube.el
+Built elfeed-tube in 3.964s, finished at 2026-10-08T10:56:13+0000

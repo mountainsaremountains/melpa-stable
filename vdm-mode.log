@@ -1,0 +1,16 @@
+
+ • Building package vdm-mode
+From https://github.com/peterwvj/vdm-mode
+Updating /mnt/store/melpa/working/vdm-mode/
+Checking out 89e7db6ee1a89b8c1f7ce36ce6800c32b5c4ba2d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vdm-mode/
+  to /tmp/vdm-mode-UHGWHC/vdm-mode-20190328.1408/
+    vdm-mode-util.el -> vdm-mode-util.el
+    vdm-mode.el -> vdm-mode.el
+Created vdm-mode-20190328.1408.tar containing:
+  vdm-mode-20190328.1408/
+  vdm-mode-20190328.1408/vdm-mode-pkg.el
+  vdm-mode-20190328.1408/vdm-mode-util.el
+  vdm-mode-20190328.1408/vdm-mode.el
+Built vdm-mode in 4.649s, finished at 2026-10-08T11:54:00+0000

@@ -1,0 +1,22 @@
+
+ • Building package bluesky
+From https://github.com/ahyatt/emacs-bluesky
+Updating /mnt/store/melpa/working/bluesky/
+Checking out 86e33aa4923f15d0fb899b25921e5691364335d2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bluesky/
+  to /tmp/bluesky-O1g0fd/bluesky-20260915.444/
+    bluesky-conn.el -> bluesky-conn.el
+    bluesky-model.el -> bluesky-model.el
+    bluesky-post.el -> bluesky-post.el
+    bluesky-ui.el -> bluesky-ui.el
+    bluesky.el -> bluesky.el
+Created bluesky-20260915.444.tar containing:
+  bluesky-20260915.444/
+  bluesky-20260915.444/bluesky-conn.el
+  bluesky-20260915.444/bluesky-model.el
+  bluesky-20260915.444/bluesky-pkg.el
+  bluesky-20260915.444/bluesky-post.el
+  bluesky-20260915.444/bluesky-ui.el
+  bluesky-20260915.444/bluesky.el
+Built bluesky in 3.079s, finished at 2026-10-08T10:42:54+0000

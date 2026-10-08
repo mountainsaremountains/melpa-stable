@@ -1,0 +1,30 @@
+
+ • Building package multiple-cursors
+From https://github.com/magnars/multiple-cursors.el
+Updating /mnt/store/melpa/working/multiple-cursors/
+Checking out 94b8b07a4bab87f803123723b68227565429dfa1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/multiple-cursors/
+  to /tmp/multiple-cursors-MbVarS/multiple-cursors-20260419.931/
+    mc-cycle-cursors.el -> mc-cycle-cursors.el
+    mc-edit-lines.el -> mc-edit-lines.el
+    mc-hide-unmatched-lines-mode.el -> mc-hide-unmatched-lines-mode.el
+    mc-mark-more.el -> mc-mark-more.el
+    mc-mark-pop.el -> mc-mark-pop.el
+    mc-separate-operations.el -> mc-separate-operations.el
+    multiple-cursors-core.el -> multiple-cursors-core.el
+    multiple-cursors.el -> multiple-cursors.el
+    rectangular-region-mode.el -> rectangular-region-mode.el
+Created multiple-cursors-20260419.931.tar containing:
+  multiple-cursors-20260419.931/
+  multiple-cursors-20260419.931/mc-cycle-cursors.el
+  multiple-cursors-20260419.931/mc-edit-lines.el
+  multiple-cursors-20260419.931/mc-hide-unmatched-lines-mode.el
+  multiple-cursors-20260419.931/mc-mark-more.el
+  multiple-cursors-20260419.931/mc-mark-pop.el
+  multiple-cursors-20260419.931/mc-separate-operations.el
+  multiple-cursors-20260419.931/multiple-cursors-core.el
+  multiple-cursors-20260419.931/multiple-cursors-pkg.el
+  multiple-cursors-20260419.931/multiple-cursors.el
+  multiple-cursors-20260419.931/rectangular-region-mode.el
+Built multiple-cursors in 3.133s, finished at 2026-10-08T11:25:56+0000

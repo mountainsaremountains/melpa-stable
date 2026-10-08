@@ -1,0 +1,14 @@
+
+ • Building package flex-x
+From https://github.com/kn66/flex-x
+Updating /mnt/store/melpa/working/flex-x/
+Checking out bf090daf2942968d9523e25bcd3bbad22f8079bb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flex-x/
+  to /tmp/flex-x-ihTNV1/flex-x-20260820.2207/
+    flex-x.el -> flex-x.el
+Created flex-x-20260820.2207.tar containing:
+  flex-x-20260820.2207/
+  flex-x-20260820.2207/flex-x-pkg.el
+  flex-x-20260820.2207/flex-x.el
+Built flex-x in 2.832s, finished at 2026-10-08T11:01:51+0000

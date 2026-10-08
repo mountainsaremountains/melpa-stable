@@ -1,0 +1,14 @@
+
+ • Building package cursor-test
+From https://github.com/ainame/cursor-test.el
+Updating /mnt/store/melpa/working/cursor-test/
+Checking out e09956e048b88fd2ee8dd90b5678baed8b04d31b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cursor-test/
+  to /tmp/cursor-test-Rb2sHH/cursor-test-20131207.1732/
+    cursor-test.el -> cursor-test.el
+Created cursor-test-20131207.1732.tar containing:
+  cursor-test-20131207.1732/
+  cursor-test-20131207.1732/cursor-test-pkg.el
+  cursor-test-20131207.1732/cursor-test.el
+Built cursor-test in 3.289s, finished at 2026-10-08T10:50:02+0000

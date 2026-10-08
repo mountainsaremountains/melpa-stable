@@ -1,0 +1,18 @@
+
+ • Building package chezmoi
+From https://github.com/tuh8888/chezmoi.el
+Updating /mnt/store/melpa/working/chezmoi/
+Checking out 1389782f8c0780c7e66f8e77b10345ba1f4eabae
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chezmoi/
+  to /tmp/chezmoi-QdIss7/chezmoi-20230726.1638/
+    chezmoi-core.el -> chezmoi-core.el
+    chezmoi-template.el -> chezmoi-template.el
+    chezmoi.el -> chezmoi.el
+Created chezmoi-20230726.1638.tar containing:
+  chezmoi-20230726.1638/
+  chezmoi-20230726.1638/chezmoi-core.el
+  chezmoi-20230726.1638/chezmoi-pkg.el
+  chezmoi-20230726.1638/chezmoi-template.el
+  chezmoi-20230726.1638/chezmoi.el
+Built chezmoi in 3.003s, finished at 2026-10-08T10:45:42+0000

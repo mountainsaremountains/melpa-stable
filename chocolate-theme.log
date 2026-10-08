@@ -1,0 +1,14 @@
+
+ • Building package chocolate-theme
+From https://github.com/SavchenkoValeriy/emacs-chocolate-theme
+Updating /mnt/store/melpa/working/chocolate-theme/
+Checking out ccc05f7ad96d3d1332727689bf6250443adc7ec0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/chocolate-theme/
+  to /tmp/chocolate-theme-Hn9p8j/chocolate-theme-20210128.1647/
+    chocolate-theme.el -> chocolate-theme.el
+Created chocolate-theme-20210128.1647.tar containing:
+  chocolate-theme-20210128.1647/
+  chocolate-theme-20210128.1647/chocolate-theme-pkg.el
+  chocolate-theme-20210128.1647/chocolate-theme.el
+Built chocolate-theme in 2.849s, finished at 2026-10-08T10:45:46+0000

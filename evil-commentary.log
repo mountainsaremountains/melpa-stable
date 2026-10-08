@@ -1,0 +1,16 @@
+
+ • Building package evil-commentary
+From https://github.com/linktohack/evil-commentary
+Updating /mnt/store/melpa/working/evil-commentary/
+Checking out c5945f28ce47644c828aac1f5f6ec335478d17fb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-commentary/
+  to /tmp/evil-commentary-VfY209/evil-commentary-20230610.1006/
+    evil-commentary-integration.el -> evil-commentary-integration.el
+    evil-commentary.el -> evil-commentary.el
+Created evil-commentary-20230610.1006.tar containing:
+  evil-commentary-20230610.1006/
+  evil-commentary-20230610.1006/evil-commentary-integration.el
+  evil-commentary-20230610.1006/evil-commentary-pkg.el
+  evil-commentary-20230610.1006/evil-commentary.el
+Built evil-commentary in 3.100s, finished at 2026-10-08T10:59:34+0000

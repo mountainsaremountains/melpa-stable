@@ -1,0 +1,22 @@
+
+ • Building package copilot
+From https://github.com/copilot-emacs/copilot.el
+Updating /mnt/store/melpa/working/copilot/
+Checking out 90f429b100418d897b673d6c36c2817364b28e3e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/copilot/
+  to /tmp/copilot-Vf3vnn/copilot-20260907.2020/
+    copilot-balancer.el -> copilot-balancer.el
+    copilot-chat.el -> copilot-chat.el
+    copilot-menu.el -> copilot-menu.el
+    copilot-nes.el -> copilot-nes.el
+    copilot.el -> copilot.el
+Created copilot-20260907.2020.tar containing:
+  copilot-20260907.2020/
+  copilot-20260907.2020/copilot-balancer.el
+  copilot-20260907.2020/copilot-chat.el
+  copilot-20260907.2020/copilot-menu.el
+  copilot-20260907.2020/copilot-nes.el
+  copilot-20260907.2020/copilot-pkg.el
+  copilot-20260907.2020/copilot.el
+Built copilot in 4.037s, finished at 2026-10-08T10:48:54+0000

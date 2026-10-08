@@ -1,0 +1,14 @@
+
+ • Building package cort
+From https://github.com/conao3/cort.el
+Updating /mnt/store/melpa/working/cort/
+Checking out 851a8669f14a1cfc3b0f9d6bf046139cb5bb7470
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cort/
+  to /tmp/cort-s2ZNAl/cort-20260516.827/
+    cort.el -> cort.el
+Created cort-20260516.827.tar containing:
+  cort-20260516.827/
+  cort-20260516.827/cort-pkg.el
+  cort-20260516.827/cort.el
+Built cort in 2.835s, finished at 2026-10-08T10:49:03+0000

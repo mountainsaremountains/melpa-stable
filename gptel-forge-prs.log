@@ -1,0 +1,14 @@
+
+ • Building package gptel-forge-prs
+From https://github.com/ArthurHeymans/gptel-forge-prs
+Updating /mnt/store/melpa/working/gptel-forge-prs/
+Checking out 0a23a7f3f339bb0110a446a7b358aa68867c7898
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gptel-forge-prs/
+  to /tmp/gptel-forge-prs-zBMAb0/gptel-forge-prs-20260624.821/
+    gptel-forge-prs.el -> gptel-forge-prs.el
+Created gptel-forge-prs-20260624.821.tar containing:
+  gptel-forge-prs-20260624.821/
+  gptel-forge-prs-20260624.821/gptel-forge-prs-pkg.el
+  gptel-forge-prs-20260624.821/gptel-forge-prs.el
+Built gptel-forge-prs in 3.735s, finished at 2026-10-08T11:08:05+0000

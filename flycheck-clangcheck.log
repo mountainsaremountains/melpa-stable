@@ -1,0 +1,14 @@
+
+ • Building package flycheck-clangcheck
+From https://github.com/kumar8600/flycheck-clangcheck
+Updating /mnt/store/melpa/working/flycheck-clangcheck/
+Checking out 24a9424c484420073a24443a829fd5779752362b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-clangcheck/
+  to /tmp/flycheck-clangcheck-D2uQdy/flycheck-clangcheck-20150712.710/
+    flycheck-clangcheck.el -> flycheck-clangcheck.el
+Created flycheck-clangcheck-20150712.710.tar containing:
+  flycheck-clangcheck-20150712.710/
+  flycheck-clangcheck-20150712.710/flycheck-clangcheck-pkg.el
+  flycheck-clangcheck-20150712.710/flycheck-clangcheck.el
+Built flycheck-clangcheck in 2.791s, finished at 2026-10-08T11:02:11+0000

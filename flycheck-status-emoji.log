@@ -1,0 +1,14 @@
+
+ • Building package flycheck-status-emoji
+From https://github.com/liblit/flycheck-status-emoji
+Updating /mnt/store/melpa/working/flycheck-status-emoji/
+Checking out 4bd113ab42dec9544b66e0a27ed9008ce8148433
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-status-emoji/
+  to /tmp/flycheck-status-emoji-TKi05c/flycheck-status-emoji-20180516.229/
+    flycheck-status-emoji.el -> flycheck-status-emoji.el
+Created flycheck-status-emoji-20180516.229.tar containing:
+  flycheck-status-emoji-20180516.229/
+  flycheck-status-emoji-20180516.229/flycheck-status-emoji-pkg.el
+  flycheck-status-emoji-20180516.229/flycheck-status-emoji.el
+Built flycheck-status-emoji in 3.385s, finished at 2026-10-08T11:03:06+0000

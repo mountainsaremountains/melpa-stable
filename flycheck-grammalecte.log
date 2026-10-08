@@ -1,0 +1,20 @@
+
+ • Building package flycheck-grammalecte
+From https://git.umaneti.net/flycheck-grammalecte/
+Updating /mnt/store/melpa/working/flycheck-grammalecte/
+Checking out d2259c73503bb695017e3a3d4285b4a44fca39c6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-grammalecte/
+  to /tmp/flycheck-grammalecte-BYg3bp/flycheck-grammalecte-20260907.1957/
+    flycheck-grammalecte.el -> flycheck-grammalecte.el
+    grammalecte.el -> grammalecte.el
+    conjugueur.py -> conjugueur.py
+    flycheck_grammalecte.py -> flycheck_grammalecte.py
+Created flycheck-grammalecte-20260907.1957.tar containing:
+  flycheck-grammalecte-20260907.1957/
+  flycheck-grammalecte-20260907.1957/conjugueur.py
+  flycheck-grammalecte-20260907.1957/flycheck-grammalecte-pkg.el
+  flycheck-grammalecte-20260907.1957/flycheck-grammalecte.el
+  flycheck-grammalecte-20260907.1957/flycheck_grammalecte.py
+  flycheck-grammalecte-20260907.1957/grammalecte.el
+Built flycheck-grammalecte in 4.531s, finished at 2026-10-08T11:02:35+0000

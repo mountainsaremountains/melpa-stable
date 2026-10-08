@@ -1,0 +1,14 @@
+
+ • Building package vulpea-ui
+From https://github.com/d12frosted/vulpea-ui
+Updating /mnt/store/melpa/working/vulpea-ui/
+Checking out c21204116b3cf3e921fa8f7849c932c8b0ad3181
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/vulpea-ui/
+  to /tmp/vulpea-ui-qODNCd/vulpea-ui-20260929.1339/
+    vulpea-ui.el -> vulpea-ui.el
+Created vulpea-ui-20260929.1339.tar containing:
+  vulpea-ui-20260929.1339/
+  vulpea-ui-20260929.1339/vulpea-ui-pkg.el
+  vulpea-ui-20260929.1339/vulpea-ui.el
+Built vulpea-ui in 3.723s, finished at 2026-10-08T11:55:03+0000

@@ -1,0 +1,14 @@
+
+ • Building package boxquote
+From https://github.com/davep/boxquote.el
+Updating /mnt/store/melpa/working/boxquote/
+Checking out eb14169161ddeba9a703c42f7352cb52f732cc86
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/boxquote/
+  to /tmp/boxquote-EqY1Ep/boxquote-20260415.1949/
+    boxquote.el -> boxquote.el
+Created boxquote-20260415.1949.tar containing:
+  boxquote-20260415.1949/
+  boxquote-20260415.1949/boxquote-pkg.el
+  boxquote-20260415.1949/boxquote.el
+Built boxquote in 2.743s, finished at 2026-10-08T10:43:10+0000

@@ -1,0 +1,14 @@
+
+ • Building package py-gnitset
+From https://github.com/quodlibetor/py-gnitset
+Updating /mnt/store/melpa/working/py-gnitset/
+Checking out 1e993cc29cbc31e06fe1e335dec198e21972fa55
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/py-gnitset/
+  to /tmp/py-gnitset-Cbavkp/py-gnitset-20170821.1732/
+    py-gnitset.el -> py-gnitset.el
+Created py-gnitset-20170821.1732.tar containing:
+  py-gnitset-20170821.1732/
+  py-gnitset-20170821.1732/py-gnitset-pkg.el
+  py-gnitset-20170821.1732/py-gnitset.el
+Built py-gnitset in 2.830s, finished at 2026-10-08T11:39:31+0000

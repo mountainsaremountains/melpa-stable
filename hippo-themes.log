@@ -1,0 +1,20 @@
+
+ • Building package hippo-themes
+From https://github.com/kimim/emacs-hippo-theme
+Updating /mnt/store/melpa/working/hippo-themes/
+Checking out d03228c028148cac69c05f1d1aa46b68041940e2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/hippo-themes/
+  to /tmp/hippo-themes-18Ux6k/hippo-themes-20260918.623/
+    hippo-themes-light-theme.el -> hippo-themes-light-theme.el
+    hippo-themes-night-theme.el -> hippo-themes-night-theme.el
+    hippo-themes-paper-theme.el -> hippo-themes-paper-theme.el
+    hippo-themes.el -> hippo-themes.el
+Created hippo-themes-20260918.623.tar containing:
+  hippo-themes-20260918.623/
+  hippo-themes-20260918.623/hippo-themes-light-theme.el
+  hippo-themes-20260918.623/hippo-themes-night-theme.el
+  hippo-themes-20260918.623/hippo-themes-paper-theme.el
+  hippo-themes-20260918.623/hippo-themes-pkg.el
+  hippo-themes-20260918.623/hippo-themes.el
+Built hippo-themes in 2.975s, finished at 2026-10-08T11:12:14+0000

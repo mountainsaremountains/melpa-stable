@@ -1,0 +1,18 @@
+
+ • Building package remoto
+From https://github.com/agzam/remoto.el
+Updating /mnt/store/melpa/working/remoto/
+Checking out af795f3f7c086b4cca2b7ad866acc87dfe1b1633
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/remoto/
+  to /tmp/remoto-YuaCpG/remoto-20260917.141/
+    remoto-embark.el -> remoto-embark.el
+    remoto-topic.el -> remoto-topic.el
+    remoto.el -> remoto.el
+Created remoto-20260917.141.tar containing:
+  remoto-20260917.141/
+  remoto-20260917.141/remoto-embark.el
+  remoto-20260917.141/remoto-pkg.el
+  remoto-20260917.141/remoto-topic.el
+  remoto-20260917.141/remoto.el
+Built remoto in 3.421s, finished at 2026-10-08T11:41:30+0000

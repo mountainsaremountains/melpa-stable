@@ -1,0 +1,14 @@
+
+ • Building package biblio-bibsonomy
+From https://github.com/andreasjansson/biblio-bibsonomy.el
+Updating /mnt/store/melpa/working/biblio-bibsonomy/
+Checking out fbdb3ecfcd88c179a2358d7967f7ecafef725835
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/biblio-bibsonomy/
+  to /tmp/biblio-bibsonomy-i4i0YM/biblio-bibsonomy-20190105.1200/
+    biblio-bibsonomy.el -> biblio-bibsonomy.el
+Created biblio-bibsonomy-20190105.1200.tar containing:
+  biblio-bibsonomy-20190105.1200/
+  biblio-bibsonomy-20190105.1200/biblio-bibsonomy-pkg.el
+  biblio-bibsonomy-20190105.1200/biblio-bibsonomy.el
+Built biblio-bibsonomy in 2.649s, finished at 2026-10-08T10:42:26+0000

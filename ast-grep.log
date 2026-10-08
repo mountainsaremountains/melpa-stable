@@ -1,0 +1,26 @@
+
+ • Building package ast-grep
+From https://github.com/SunskyXH/ast-grep.el
+Updating /mnt/store/melpa/working/ast-grep/
+Checking out 0f3e68622f5a83165bf017fe43d8050344cbb411
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ast-grep/
+  to /tmp/ast-grep-aZYuSc/ast-grep-20260910.855/
+    ast-grep-consult.el -> ast-grep-consult.el
+    ast-grep-core.el -> ast-grep-core.el
+    ast-grep-helm.el -> ast-grep-helm.el
+    ast-grep-ivy.el -> ast-grep-ivy.el
+    ast-grep-outline.el -> ast-grep-outline.el
+    ast-grep-sync.el -> ast-grep-sync.el
+    ast-grep.el -> ast-grep.el
+Created ast-grep-20260910.855.tar containing:
+  ast-grep-20260910.855/
+  ast-grep-20260910.855/ast-grep-consult.el
+  ast-grep-20260910.855/ast-grep-core.el
+  ast-grep-20260910.855/ast-grep-helm.el
+  ast-grep-20260910.855/ast-grep-ivy.el
+  ast-grep-20260910.855/ast-grep-outline.el
+  ast-grep-20260910.855/ast-grep-pkg.el
+  ast-grep-20260910.855/ast-grep-sync.el
+  ast-grep-20260910.855/ast-grep.el
+Built ast-grep in 3.260s, finished at 2026-10-08T10:40:40+0000

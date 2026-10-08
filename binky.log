@@ -1,0 +1,16 @@
+
+ • Building package binky
+From https://github.com/eki3z/binky.el
+Updating /mnt/store/melpa/working/binky/
+Checking out e24c4691d231f4b0f649e155d2c93cd83d3dc073
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/binky/
+  to /tmp/binky-8ijXVI/binky-20260719.1537/
+    binky-margin.el -> binky-margin.el
+    binky.el -> binky.el
+Created binky-20260719.1537.tar containing:
+  binky-20260719.1537/
+  binky-20260719.1537/binky-margin.el
+  binky-20260719.1537/binky-pkg.el
+  binky-20260719.1537/binky.el
+Built binky in 3.191s, finished at 2026-10-08T10:42:37+0000

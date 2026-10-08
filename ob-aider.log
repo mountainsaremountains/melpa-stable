@@ -1,0 +1,14 @@
+
+ • Building package ob-aider
+From https://github.com/localredhead/ob-aider.el
+Updating /mnt/store/melpa/working/ob-aider/
+Checking out f611b0e733323c04bbbcab710a78a87f47e5fc74
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-aider/
+  to /tmp/ob-aider-idHeiD/ob-aider-20250325.1918/
+    ob-aider.el -> ob-aider.el
+Created ob-aider-20250325.1918.tar containing:
+  ob-aider-20250325.1918/
+  ob-aider-20250325.1918/ob-aider-pkg.el
+  ob-aider-20250325.1918/ob-aider.el
+Built ob-aider in 2.962s, finished at 2026-10-08T11:28:02+0000

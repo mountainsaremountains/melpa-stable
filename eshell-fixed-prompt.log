@@ -1,0 +1,14 @@
+
+ • Building package eshell-fixed-prompt
+From https://github.com/mallt/eshell-fixed-prompt-mode
+Updating /mnt/store/melpa/working/eshell-fixed-prompt/
+Checking out f495a7bdf0f5da87e9eb3021862aa8e2ec578948
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eshell-fixed-prompt/
+  to /tmp/eshell-fixed-prompt-7iKWUG/eshell-fixed-prompt-20250414.914/
+    eshell-fixed-prompt.el -> eshell-fixed-prompt.el
+Created eshell-fixed-prompt-20250414.914.tar containing:
+  eshell-fixed-prompt-20250414.914/
+  eshell-fixed-prompt-20250414.914/eshell-fixed-prompt-pkg.el
+  eshell-fixed-prompt-20250414.914/eshell-fixed-prompt.el
+Built eshell-fixed-prompt in 3.158s, finished at 2026-10-08T10:58:54+0000

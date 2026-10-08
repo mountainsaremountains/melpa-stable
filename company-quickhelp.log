@@ -1,0 +1,14 @@
+
+ • Building package company-quickhelp
+From https://github.com/company-mode/company-quickhelp
+Updating /mnt/store/melpa/working/company-quickhelp/
+Checking out 5bda859577582cc42d16fc0eaf5f7c8bedfd9e69
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-quickhelp/
+  to /tmp/company-quickhelp-6D8SWI/company-quickhelp-20231026.1714/
+    company-quickhelp.el -> company-quickhelp.el
+Created company-quickhelp-20231026.1714.tar containing:
+  company-quickhelp-20231026.1714/
+  company-quickhelp-20231026.1714/company-quickhelp-pkg.el
+  company-quickhelp-20231026.1714/company-quickhelp.el
+Built company-quickhelp in 2.389s, finished at 2026-10-08T10:47:55+0000

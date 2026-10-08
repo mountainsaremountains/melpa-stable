@@ -1,0 +1,14 @@
+
+ • Building package flymake-joker
+From https://github.com/beetleman/flymake-joker
+Updating /mnt/store/melpa/working/flymake-joker/
+Checking out fc132beedac9e6f415b72e578e77318fd13af9ee
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-joker/
+  to /tmp/flymake-joker-FtesOZ/flymake-joker-20200315.1429/
+    flymake-joker.el -> flymake-joker.el
+Created flymake-joker-20200315.1429.tar containing:
+  flymake-joker-20200315.1429/
+  flymake-joker-20200315.1429/flymake-joker-pkg.el
+  flymake-joker-20200315.1429/flymake-joker.el
+Built flymake-joker in 2.635s, finished at 2026-10-08T11:03:33+0000

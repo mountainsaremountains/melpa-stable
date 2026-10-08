@@ -1,0 +1,14 @@
+
+ • Building package company-ipa
+From https://gitlab.com/mguzmann89/company-ipa
+Updating /mnt/store/melpa/working/company-ipa/
+Checking out 8634021cac885f53f3274ef6dcce7eab19321046
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-ipa/
+  to /tmp/company-ipa-dfRHeP/company-ipa-20210307.1838/
+    company-ipa.el -> company-ipa.el
+Created company-ipa-20210307.1838.tar containing:
+  company-ipa-20210307.1838/
+  company-ipa-20210307.1838/company-ipa-pkg.el
+  company-ipa-20210307.1838/company-ipa.el
+Built company-ipa in 3.857s, finished at 2026-10-08T10:47:43+0000

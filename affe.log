@@ -1,0 +1,16 @@
+
+ • Building package affe
+From https://github.com/minad/affe
+Updating /mnt/store/melpa/working/affe/
+Checking out ccc6e4dc3dc7c87bdd4733d174274f4710f9e99e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/affe/
+  to /tmp/affe-kgLjn7/affe-20260519.1026/
+    affe-backend.el -> affe-backend.el
+    affe.el -> affe.el
+Created affe-20260519.1026.tar containing:
+  affe-20260519.1026/
+  affe-20260519.1026/affe-backend.el
+  affe-20260519.1026/affe-pkg.el
+  affe-20260519.1026/affe.el
+Built affe in 2.604s, finished at 2026-10-08T10:39:09+0000

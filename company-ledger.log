@@ -1,0 +1,14 @@
+
+ • Building package company-ledger
+From https://github.com/debanjum/company-ledger
+Updating /mnt/store/melpa/working/company-ledger/
+Checking out 55fdddd6c5e9c061c685b474ef5e148a4ac9b576
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-ledger/
+  to /tmp/company-ledger-s04TBZ/company-ledger-20210910.250/
+    company-ledger.el -> company-ledger.el
+Created company-ledger-20210910.250.tar containing:
+  company-ledger-20210910.250/
+  company-ledger-20210910.250/company-ledger-pkg.el
+  company-ledger-20210910.250/company-ledger.el
+Built company-ledger in 2.495s, finished at 2026-10-08T10:47:43+0000

@@ -1,0 +1,14 @@
+
+ • Building package ahk-mode
+From https://github.com/punassuming/ahk-mode
+Updating /mnt/store/melpa/working/ahk-mode/
+Checking out 729007b5f22a49f5187ff47fca18c0d674e73047
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ahk-mode/
+  to /tmp/ahk-mode-1rF4tG/ahk-mode-20200412.1832/
+    ahk-mode.el -> ahk-mode.el
+Created ahk-mode-20200412.1832.tar containing:
+  ahk-mode-20200412.1832/
+  ahk-mode-20200412.1832/ahk-mode-pkg.el
+  ahk-mode-20200412.1832/ahk-mode.el
+Built ahk-mode in 4.235s, finished at 2026-10-08T10:39:21+0000

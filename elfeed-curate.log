@@ -1,0 +1,14 @@
+
+ • Building package elfeed-curate
+From https://github.com/rnadler/elfeed-curate
+Updating /mnt/store/melpa/working/elfeed-curate/
+Checking out e56c24eda719f0c827955ae555bce702e1c74db0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed-curate/
+  to /tmp/elfeed-curate-359DZy/elfeed-curate-20260322.2137/
+    elfeed-curate.el -> elfeed-curate.el
+Created elfeed-curate-20260322.2137.tar containing:
+  elfeed-curate-20260322.2137/
+  elfeed-curate-20260322.2137/elfeed-curate-pkg.el
+  elfeed-curate-20260322.2137/elfeed-curate.el
+Built elfeed-curate in 3.214s, finished at 2026-10-08T10:56:06+0000

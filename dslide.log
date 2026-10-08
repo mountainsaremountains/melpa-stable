@@ -1,0 +1,18 @@
+
+ • Building package dslide
+From https://github.com/positron-solutions/dslide
+Updating /mnt/store/melpa/working/dslide/
+Checking out be47f2dcb939779067f8c77c3493162bcf242b83
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dslide/
+  to /tmp/dslide-U8PlYZ/dslide-20250102.819/
+    dslide.el -> dslide.el
+  ! doc/dslide.texi -> dslide.texi
+Generating dslide.info
+Created dslide-20250102.819.tar containing:
+  dslide-20250102.819/
+  dslide-20250102.819/dir
+  dslide-20250102.819/dslide-pkg.el
+  dslide-20250102.819/dslide.el
+  dslide-20250102.819/dslide.info
+Built dslide in 6.034s, finished at 2026-10-08T10:54:13+0000

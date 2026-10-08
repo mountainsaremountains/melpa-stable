@@ -1,0 +1,14 @@
+
+ • Building package gemini-write
+From https://src.alexschroeder.ch/gemini-write.git
+Updating /mnt/store/melpa/working/gemini-write/
+Checking out 2a7d07d0ce4c5b8750f3ff1182ad94ee616734c8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gemini-write/
+  to /tmp/gemini-write-Dop6oj/gemini-write-20211114.1032/
+    gemini-write.el -> gemini-write.el
+Created gemini-write-20211114.1032.tar containing:
+  gemini-write-20211114.1032/
+  gemini-write-20211114.1032/gemini-write-pkg.el
+  gemini-write-20211114.1032/gemini-write.el
+Built gemini-write in 3.374s, finished at 2026-10-08T11:05:55+0000

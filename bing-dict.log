@@ -1,0 +1,16 @@
+
+ • Building package bing-dict
+From https://github.com/cute-jumper/bing-dict.el
+Updating /mnt/store/melpa/working/bing-dict/
+Checking out 1d581aaa9622b34f8fb83af5579fa252aa24cfef
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bing-dict/
+  to /tmp/bing-dict-u4oVI7/bing-dict-20200216.110/
+    bing-dict-cache.el -> bing-dict-cache.el
+    bing-dict.el -> bing-dict.el
+Created bing-dict-20200216.110.tar containing:
+  bing-dict-20200216.110/
+  bing-dict-20200216.110/bing-dict-cache.el
+  bing-dict-20200216.110/bing-dict-pkg.el
+  bing-dict-20200216.110/bing-dict.el
+Built bing-dict in 3.059s, finished at 2026-10-08T10:42:37+0000

@@ -1,0 +1,14 @@
+
+ • Building package flymake-cursor
+From https://github.com/flymake/emacs-flymake-cursor
+Updating /mnt/store/melpa/working/flymake-cursor/
+Checking out 95806594cacddbbc0c3aa2351a6a7cf28e73a8bf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-cursor/
+  to /tmp/flymake-cursor-D4R85C/flymake-cursor-20220506.1458/
+    flymake-cursor.el -> flymake-cursor.el
+Created flymake-cursor-20220506.1458.tar containing:
+  flymake-cursor-20220506.1458/
+  flymake-cursor-20220506.1458/flymake-cursor-pkg.el
+  flymake-cursor-20220506.1458/flymake-cursor.el
+Built flymake-cursor in 2.898s, finished at 2026-10-08T11:03:21+0000

@@ -1,0 +1,14 @@
+
+ • Building package diredful
+From https://github.com/thamer/diredful
+Updating /mnt/store/melpa/working/diredful/
+Checking out b17b3087e0084a5571a9ac4d47ccfc36d96b109e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/diredful/
+  to /tmp/diredful-Pt9all/diredful-20160529.2017/
+    diredful.el -> diredful.el
+Created diredful-20160529.2017.tar containing:
+  diredful-20160529.2017/
+  diredful-20160529.2017/diredful-pkg.el
+  diredful-20160529.2017/diredful.el
+Built diredful in 2.945s, finished at 2026-10-08T10:53:10+0000

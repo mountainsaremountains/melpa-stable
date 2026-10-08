@@ -1,0 +1,14 @@
+
+ • Building package boxes
+From https://github.com/ascii-boxes/boxes
+Updating /mnt/store/melpa/working/boxes/
+Checking out cebddf7abf4d6a5e0846678263f9e420424b57bd
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/boxes/
+  to /tmp/boxes-ICgNau/boxes-20260829.1932/
+  ! doc/boxes.el -> boxes.el
+Created boxes-20260829.1932.tar containing:
+  boxes-20260829.1932/
+  boxes-20260829.1932/boxes-pkg.el
+  boxes-20260829.1932/boxes.el
+Built boxes in 2.980s, finished at 2026-10-08T10:43:10+0000

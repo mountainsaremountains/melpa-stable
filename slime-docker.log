@@ -1,0 +1,17 @@
+
+ • Building package slime-docker
+From https://github.com/cl-docker-images/slime-docker
+Updating /mnt/store/melpa/working/slime-docker/
+Checking out c7d073720f2bd8e9f72a20309fff2afa4c4e798d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/slime-docker/
+  to /tmp/slime-docker-vECMKD/slime-docker-20210426.1422/
+    slime-docker.el -> slime-docker.el
+    bin => bin
+Created slime-docker-20210426.1422.tar containing:
+  slime-docker-20210426.1422/
+  slime-docker-20210426.1422/bin/
+  slime-docker-20210426.1422/bin/docker-run-ssh-agent-helper
+  slime-docker-20210426.1422/slime-docker-pkg.el
+  slime-docker-20210426.1422/slime-docker.el
+Built slime-docker in 4.461s, finished at 2026-10-08T11:45:44+0000

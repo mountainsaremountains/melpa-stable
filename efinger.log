@@ -1,0 +1,14 @@
+
+ • Building package efinger
+From https://git.andros.dev/andros/efinger.el.git
+Updating /mnt/store/melpa/working/efinger/
+Checking out 175b0d027da97a64819dc8b7056a148ac1b23ea1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/efinger/
+  to /tmp/efinger-ailPHc/efinger-20260822.1753/
+    efinger.el -> efinger.el
+Created efinger-20260822.1753.tar containing:
+  efinger-20260822.1753/
+  efinger-20260822.1753/efinger-pkg.el
+  efinger-20260822.1753/efinger.el
+Built efinger in 3.654s, finished at 2026-10-08T10:55:16+0000

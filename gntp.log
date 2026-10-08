@@ -1,0 +1,14 @@
+
+ • Building package gntp
+From https://github.com/tekai/gntp.el
+Updating /mnt/store/melpa/working/gntp/
+Checking out 767571135e2c0985944017dc59b0be79af222ef5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gntp/
+  to /tmp/gntp-tjzFBB/gntp-20141025.250/
+    gntp.el -> gntp.el
+Created gntp-20141025.250.tar containing:
+  gntp-20141025.250/
+  gntp-20141025.250/gntp-pkg.el
+  gntp-20141025.250/gntp.el
+Built gntp in 3.275s, finished at 2026-10-08T11:07:03+0000

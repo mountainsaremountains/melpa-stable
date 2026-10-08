@@ -1,0 +1,14 @@
+
+ • Building package flywrite
+From https://github.com/awdeorio/flywrite
+Updating /mnt/store/melpa/working/flywrite/
+Checking out e9d11b17fdb4a2d986354a5b942952dea9876a6b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flywrite/
+  to /tmp/flywrite-YyRiCX/flywrite-20260526.1418/
+    flywrite.el -> flywrite.el
+Created flywrite-20260526.1418.tar containing:
+  flywrite-20260526.1418/
+  flywrite-20260526.1418/flywrite-pkg.el
+  flywrite-20260526.1418/flywrite.el
+Built flywrite in 4.902s, finished at 2026-10-08T11:04:15+0000

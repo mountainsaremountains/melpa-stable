@@ -1,0 +1,16 @@
+
+ • Building package choice-program
+From https://github.com/plandes/choice-program
+Updating /mnt/store/melpa/working/choice-program/
+Checking out 9c027a54a97390ee4863d663be19b1a2aaa70c7b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/choice-program/
+  to /tmp/choice-program-tIx3RC/choice-program-20260127.2022/
+    choice-program-complete.el -> choice-program-complete.el
+    choice-program.el -> choice-program.el
+Created choice-program-20260127.2022.tar containing:
+  choice-program-20260127.2022/
+  choice-program-20260127.2022/choice-program-complete.el
+  choice-program-20260127.2022/choice-program-pkg.el
+  choice-program-20260127.2022/choice-program.el
+Built choice-program in 2.886s, finished at 2026-10-08T10:45:47+0000

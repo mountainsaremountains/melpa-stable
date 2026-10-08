@@ -1,0 +1,64 @@
+
+ • Building package lichess
+From https://github.com/tmythicator/lichess.el
+Updating /mnt/store/melpa/working/lichess/
+Checking out 572a6a353e2113c8a95564b9bea1f2896e6d3dab
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lichess/
+  to /tmp/lichess-5Bnyz9/lichess-20260710.914/
+    lichess-ai.el -> lichess-ai.el
+    lichess-announce.el -> lichess-announce.el
+    lichess-api.el -> lichess-api.el
+    lichess-board-gui.el -> lichess-board-gui.el
+    lichess-board-tui.el -> lichess-board-tui.el
+    lichess-board.el -> lichess-board.el
+    lichess-broadcast-list.el -> lichess-broadcast-list.el
+    lichess-broadcast-view.el -> lichess-broadcast-view.el
+    lichess-challenge-list.el -> lichess-challenge-list.el
+    lichess-challenge.el -> lichess-challenge.el
+    lichess-core.el -> lichess-core.el
+    lichess-fen.el -> lichess-fen.el
+    lichess-game.el -> lichess-game.el
+    lichess-http.el -> lichess-http.el
+    lichess-seek.el -> lichess-seek.el
+    lichess-tv.el -> lichess-tv.el
+    lichess-util.el -> lichess-util.el
+    lichess.el -> lichess.el
+    assets => assets
+Created lichess-20260710.914.tar containing:
+  lichess-20260710.914/
+  lichess-20260710.914/assets/
+  lichess-20260710.914/assets/pieces/
+  lichess-20260710.914/assets/pieces/cburnett/
+  lichess-20260710.914/assets/pieces/cburnett/bB.svg
+  lichess-20260710.914/assets/pieces/cburnett/bK.svg
+  lichess-20260710.914/assets/pieces/cburnett/bN.svg
+  lichess-20260710.914/assets/pieces/cburnett/bP.svg
+  lichess-20260710.914/assets/pieces/cburnett/bQ.svg
+  lichess-20260710.914/assets/pieces/cburnett/bR.svg
+  lichess-20260710.914/assets/pieces/cburnett/wB.svg
+  lichess-20260710.914/assets/pieces/cburnett/wK.svg
+  lichess-20260710.914/assets/pieces/cburnett/wN.svg
+  lichess-20260710.914/assets/pieces/cburnett/wP.svg
+  lichess-20260710.914/assets/pieces/cburnett/wQ.svg
+  lichess-20260710.914/assets/pieces/cburnett/wR.svg
+  lichess-20260710.914/lichess-ai.el
+  lichess-20260710.914/lichess-announce.el
+  lichess-20260710.914/lichess-api.el
+  lichess-20260710.914/lichess-board-gui.el
+  lichess-20260710.914/lichess-board-tui.el
+  lichess-20260710.914/lichess-board.el
+  lichess-20260710.914/lichess-broadcast-list.el
+  lichess-20260710.914/lichess-broadcast-view.el
+  lichess-20260710.914/lichess-challenge-list.el
+  lichess-20260710.914/lichess-challenge.el
+  lichess-20260710.914/lichess-core.el
+  lichess-20260710.914/lichess-fen.el
+  lichess-20260710.914/lichess-game.el
+  lichess-20260710.914/lichess-http.el
+  lichess-20260710.914/lichess-pkg.el
+  lichess-20260710.914/lichess-seek.el
+  lichess-20260710.914/lichess-tv.el
+  lichess-20260710.914/lichess-util.el
+  lichess-20260710.914/lichess.el
+Built lichess in 3.603s, finished at 2026-10-08T11:19:30+0000

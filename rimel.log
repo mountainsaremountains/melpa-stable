@@ -1,0 +1,20 @@
+
+ • Building package rimel
+From https://github.com/emacs-rime/rimel
+Updating /mnt/store/melpa/working/rimel/
+Checking out e05f4b0eb2d6d5f9212e91bab5e4b3314db8ff0e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rimel/
+  to /tmp/rimel-vNP4rZ/rimel-20260914.618/
+    rimel-convert.el -> rimel-convert.el
+    rimel-regexp-avy.el -> rimel-regexp-avy.el
+    rimel-regexp.el -> rimel-regexp.el
+    rimel.el -> rimel.el
+Created rimel-20260914.618.tar containing:
+  rimel-20260914.618/
+  rimel-20260914.618/rimel-convert.el
+  rimel-20260914.618/rimel-pkg.el
+  rimel-20260914.618/rimel-regexp-avy.el
+  rimel-20260914.618/rimel-regexp.el
+  rimel-20260914.618/rimel.el
+Built rimel in 3.763s, finished at 2026-10-08T11:42:06+0000

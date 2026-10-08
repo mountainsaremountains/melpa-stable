@@ -1,0 +1,14 @@
+
+ • Building package badger-theme
+From https://github.com/ccann/badger-theme
+Updating /mnt/store/melpa/working/badger-theme/
+Checking out 80fb9f8ace37b2e8807da639f7da499a53ffefd4
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/badger-theme/
+  to /tmp/badger-theme-s5qHZZ/badger-theme-20140717.232/
+    badger-theme.el -> badger-theme.el
+Created badger-theme-20140717.232.tar containing:
+  badger-theme-20140717.232/
+  badger-theme-20140717.232/badger-theme-pkg.el
+  badger-theme-20140717.232/badger-theme.el
+Built badger-theme in 3.210s, finished at 2026-10-08T10:41:48+0000

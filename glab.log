@@ -1,0 +1,14 @@
+
+ • Building package glab
+From https://github.com/emacsattic/glab
+Updating /mnt/store/melpa/working/glab/
+Checking out 655c0cd042b8e4abe6d314846f4c55b146f9fdee
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/glab/
+  to /tmp/glab-tolQMx/glab-20250620.1333/
+    glab.el -> glab.el
+Created glab-20250620.1333.tar containing:
+  glab-20250620.1333/
+  glab-20250620.1333/glab-pkg.el
+  glab-20250620.1333/glab.el
+Built glab in 2.788s, finished at 2026-10-08T11:06:53+0000

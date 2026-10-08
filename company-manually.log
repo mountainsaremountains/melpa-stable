@@ -1,0 +1,14 @@
+
+ • Building package company-manually
+From https://github.com/yanghaoxie/company-manually
+Updating /mnt/store/melpa/working/company-manually/
+Checking out b922318da821fc3cf1d3155f21d543ea8470c881
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-manually/
+  to /tmp/company-manually-PxSDDC/company-manually-20200721.1903/
+    company-manually.el -> company-manually.el
+Created company-manually-20200721.1903.tar containing:
+  company-manually-20200721.1903/
+  company-manually-20200721.1903/company-manually-pkg.el
+  company-manually-20200721.1903/company-manually.el
+Built company-manually in 2.854s, finished at 2026-10-08T10:47:44+0000

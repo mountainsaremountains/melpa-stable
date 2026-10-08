@@ -1,0 +1,14 @@
+
+ • Building package agent-shell-math-renderer
+From https://github.com/alberti42/agent-shell-math-renderer
+Updating /mnt/store/melpa/working/agent-shell-math-renderer/
+Checking out fdfcd34b5548693cc5d84154159a5c4c1faf3992
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/agent-shell-math-renderer/
+  to /tmp/agent-shell-math-renderer-j3YtoY/agent-shell-math-renderer-20260928.831/
+    agent-shell-math-renderer.el -> agent-shell-math-renderer.el
+Created agent-shell-math-renderer-20260928.831.tar containing:
+  agent-shell-math-renderer-20260928.831/
+  agent-shell-math-renderer-20260928.831/agent-shell-math-renderer-pkg.el
+  agent-shell-math-renderer-20260928.831/agent-shell-math-renderer.el
+Built agent-shell-math-renderer in 3.306s, finished at 2026-10-08T10:39:15+0000

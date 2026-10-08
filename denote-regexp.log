@@ -1,0 +1,14 @@
+
+ • Building package denote-regexp
+From https://git.sr.ht/~swflint/denote-regexp
+Updating /mnt/store/melpa/working/denote-regexp/
+Checking out 08d62cb5bb2d271eb4e0915b56a9601179f88627
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/denote-regexp/
+  to /tmp/denote-regexp-FAXH6g/denote-regexp-20250415.2202/
+    denote-regexp.el -> denote-regexp.el
+Created denote-regexp-20250415.2202.tar containing:
+  denote-regexp-20250415.2202/
+  denote-regexp-20250415.2202/denote-regexp-pkg.el
+  denote-regexp-20250415.2202/denote-regexp.el
+Built denote-regexp in 4.662s, finished at 2026-10-08T10:51:47+0000

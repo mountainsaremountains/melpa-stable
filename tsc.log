@@ -1,0 +1,33 @@
+
+ • Building package tsc
+From https://github.com/emacs-tree-sitter/elisp-tree-sitter
+Updating /mnt/store/melpa/working/tsc/
+Checking out 8f0bd387ad7a1cf7e8fdd5977d386a17ea70a82d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tsc/
+  to /tmp/tsc-CxkxZY/tsc-20260116.9/
+  ! core/tsc-dyn-get.el -> tsc-dyn-get.el
+  ! core/tsc-obsolete.el -> tsc-obsolete.el
+  ! core/tsc.el -> tsc.el
+  ! core/Cargo.toml -> Cargo.toml
+  ! core/Cargo.lock -> Cargo.lock
+  ! core/src => src
+Created tsc-20260116.9.tar containing:
+  tsc-20260116.9/
+  tsc-20260116.9/Cargo.lock
+  tsc-20260116.9/Cargo.toml
+  tsc-20260116.9/src/
+  tsc-20260116.9/src/cursor.rs
+  tsc-20260116.9/src/error.rs
+  tsc-20260116.9/src/lang.rs
+  tsc-20260116.9/src/lib.rs
+  tsc-20260116.9/src/node.rs
+  tsc-20260116.9/src/parser.rs
+  tsc-20260116.9/src/query.rs
+  tsc-20260116.9/src/tree.rs
+  tsc-20260116.9/src/types.rs
+  tsc-20260116.9/tsc-dyn-get.el
+  tsc-20260116.9/tsc-obsolete.el
+  tsc-20260116.9/tsc-pkg.el
+  tsc-20260116.9/tsc.el
+Built tsc in 6.372s, finished at 2026-10-08T11:52:23+0000

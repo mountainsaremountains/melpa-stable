@@ -1,0 +1,41 @@
+
+ • Building package frimacs
+From https://github.com/pdo/frimacs
+Updating /mnt/store/melpa/working/frimacs/
+Checking out e1f1599c6144e697b41059369f4d6010eca9019f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/frimacs/
+  to /tmp/frimacs-pSd0r6/frimacs-20260308.1807/
+    frimacs-base.el -> frimacs-base.el
+    frimacs-boot-mode.el -> frimacs-boot-mode.el
+    frimacs-buffer-menu.el -> frimacs-buffer-menu.el
+    frimacs-domain-explorer.el -> frimacs-domain-explorer.el
+    frimacs-help-mode.el -> frimacs-help-mode.el
+    frimacs-input-mode.el -> frimacs-input-mode.el
+    frimacs-process-mode.el -> frimacs-process-mode.el
+    frimacs-selector.el -> frimacs-selector.el
+    frimacs-spad-mode.el -> frimacs-spad-mode.el
+    frimacs.el -> frimacs.el
+    data/fricas-standard-category-info.dat -> data/fricas-standard-category-info.dat
+    data/fricas-standard-domain-info.dat -> data/fricas-standard-domain-info.dat
+    data/fricas-standard-operation-info.dat -> data/fricas-standard-operation-info.dat
+    data/fricas-standard-package-info.dat -> data/fricas-standard-package-info.dat
+Created frimacs-20260308.1807.tar containing:
+  frimacs-20260308.1807/
+  frimacs-20260308.1807/data/
+  frimacs-20260308.1807/data/fricas-standard-category-info.dat
+  frimacs-20260308.1807/data/fricas-standard-domain-info.dat
+  frimacs-20260308.1807/data/fricas-standard-operation-info.dat
+  frimacs-20260308.1807/data/fricas-standard-package-info.dat
+  frimacs-20260308.1807/frimacs-base.el
+  frimacs-20260308.1807/frimacs-boot-mode.el
+  frimacs-20260308.1807/frimacs-buffer-menu.el
+  frimacs-20260308.1807/frimacs-domain-explorer.el
+  frimacs-20260308.1807/frimacs-help-mode.el
+  frimacs-20260308.1807/frimacs-input-mode.el
+  frimacs-20260308.1807/frimacs-pkg.el
+  frimacs-20260308.1807/frimacs-process-mode.el
+  frimacs-20260308.1807/frimacs-selector.el
+  frimacs-20260308.1807/frimacs-spad-mode.el
+  frimacs-20260308.1807/frimacs.el
+Built frimacs in 4.969s, finished at 2026-10-08T11:05:15+0000

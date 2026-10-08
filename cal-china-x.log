@@ -1,0 +1,16 @@
+
+ • Building package cal-china-x
+From https://github.com/xwl/cal-china-x
+Updating /mnt/store/melpa/working/cal-china-x/
+Checking out e9e3067134b0606bfe2a6925d7488c4b24ce81d5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cal-china-x/
+  to /tmp/cal-china-x-ITWwIa/cal-china-x-20260222.1826/
+    cal-china-x.el -> cal-china-x.el
+    jieqi.txt -> jieqi.txt
+Created cal-china-x-20260222.1826.tar containing:
+  cal-china-x-20260222.1826/
+  cal-china-x-20260222.1826/cal-china-x-pkg.el
+  cal-china-x-20260222.1826/cal-china-x.el
+  cal-china-x-20260222.1826/jieqi.txt
+Built cal-china-x in 5.460s, finished at 2026-10-08T10:44:11+0000

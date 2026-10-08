@@ -1,0 +1,16 @@
+
+ • Building package compilation-history
+From https://github.com/djgoku/compilation-history
+Updating /mnt/store/melpa/working/compilation-history/
+Checking out cfc37a18469634696761e239d0517cfb96a2ca40
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/compilation-history/
+  to /tmp/compilation-history-SCitRX/compilation-history-20260413.2031/
+    compilation-history-view.el -> compilation-history-view.el
+    compilation-history.el -> compilation-history.el
+Created compilation-history-20260413.2031.tar containing:
+  compilation-history-20260413.2031/
+  compilation-history-20260413.2031/compilation-history-pkg.el
+  compilation-history-20260413.2031/compilation-history-view.el
+  compilation-history-20260413.2031/compilation-history.el
+Built compilation-history in 3.272s, finished at 2026-10-08T10:48:10+0000

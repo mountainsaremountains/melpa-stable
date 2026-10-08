@@ -1,0 +1,16 @@
+
+ • Building package tablist
+From https://github.com/emacsorphanage/tablist
+Updating /mnt/store/melpa/working/tablist/
+Checking out 01f065e387ffe6b7a41f180f257cd12551c7a9c2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/tablist/
+  to /tmp/tablist-CZbvXo/tablist-20260623.1855/
+    tablist-filter.el -> tablist-filter.el
+    tablist.el -> tablist.el
+Created tablist-20260623.1855.tar containing:
+  tablist-20260623.1855/
+  tablist-20260623.1855/tablist-filter.el
+  tablist-20260623.1855/tablist-pkg.el
+  tablist-20260623.1855/tablist.el
+Built tablist in 2.922s, finished at 2026-10-08T11:49:13+0000

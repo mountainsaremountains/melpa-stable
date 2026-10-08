@@ -1,0 +1,18 @@
+
+ • Building package with-editor
+From https://github.com/magit/with-editor
+Updating /mnt/store/melpa/working/with-editor/
+Checking out ca956bbfd1c9f163d2a8390716fcd39799d23f34
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/with-editor/
+  to /tmp/with-editor-kzGp6M/with-editor-20261003.1832/
+  ! lisp/with-editor.el -> with-editor.el
+  ! docs/with-editor.texi -> with-editor.texi
+Generating with-editor.info
+Created with-editor-20261003.1832.tar containing:
+  with-editor-20261003.1832/
+  with-editor-20261003.1832/dir
+  with-editor-20261003.1832/with-editor-pkg.el
+  with-editor-20261003.1832/with-editor.el
+  with-editor-20261003.1832/with-editor.info
+Built with-editor in 4.872s, finished at 2026-10-08T11:56:15+0000

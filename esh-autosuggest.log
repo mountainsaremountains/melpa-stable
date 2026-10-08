@@ -1,0 +1,14 @@
+
+ • Building package esh-autosuggest
+From https://git.sr.ht/~dieggsy/esh-autosuggest
+Updating /mnt/store/melpa/working/esh-autosuggest/
+Checking out 40774022105ed16287fcf26553a16c4cdda5e1ab
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/esh-autosuggest/
+  to /tmp/esh-autosuggest-dMqN3f/esh-autosuggest-20260530.527/
+    esh-autosuggest.el -> esh-autosuggest.el
+Created esh-autosuggest-20260530.527.tar containing:
+  esh-autosuggest-20260530.527/
+  esh-autosuggest-20260530.527/esh-autosuggest-pkg.el
+  esh-autosuggest-20260530.527/esh-autosuggest.el
+Built esh-autosuggest in 3.374s, finished at 2026-10-08T10:58:49+0000

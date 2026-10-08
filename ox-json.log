@@ -1,0 +1,22 @@
+
+ • Building package ox-json
+From https://github.com/jlumpe/ox-json
+Updating /mnt/store/melpa/working/ox-json/
+Checking out 3fa63a260fc58b09eed5dd8c36904ae80148adbe
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ox-json/
+  to /tmp/ox-json-ukjfSt/ox-json-20260629.631/
+    ox-json-core.el -> ox-json-core.el
+    ox-json-encode.el -> ox-json-encode.el
+    ox-json-export.el -> ox-json-export.el
+    ox-json-utils.el -> ox-json-utils.el
+    ox-json.el -> ox-json.el
+Created ox-json-20260629.631.tar containing:
+  ox-json-20260629.631/
+  ox-json-20260629.631/ox-json-core.el
+  ox-json-20260629.631/ox-json-encode.el
+  ox-json-20260629.631/ox-json-export.el
+  ox-json-20260629.631/ox-json-pkg.el
+  ox-json-20260629.631/ox-json-utils.el
+  ox-json-20260629.631/ox-json.el
+Built ox-json in 2.886s, finished at 2026-10-08T11:34:08+0000

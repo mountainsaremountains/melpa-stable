@@ -1,0 +1,14 @@
+
+ • Building package flycheck-color-mode-line
+From https://github.com/flycheck/flycheck-color-mode-line
+Updating /mnt/store/melpa/working/flycheck-color-mode-line/
+Checking out df9be4c5bf26c4dc5ddaeed8179c4d66bdaa91f5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-color-mode-line/
+  to /tmp/flycheck-color-mode-line-xZLpAW/flycheck-color-mode-line-20230106.1829/
+    flycheck-color-mode-line.el -> flycheck-color-mode-line.el
+Created flycheck-color-mode-line-20230106.1829.tar containing:
+  flycheck-color-mode-line-20230106.1829/
+  flycheck-color-mode-line-20230106.1829/flycheck-color-mode-line-pkg.el
+  flycheck-color-mode-line-20230106.1829/flycheck-color-mode-line.el
+Built flycheck-color-mode-line in 3.580s, finished at 2026-10-08T11:02:16+0000

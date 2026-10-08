@@ -1,0 +1,14 @@
+
+ • Building package cycle-resize
+From https://github.com/pierre-lecocq/cycle-resize
+Updating /mnt/store/melpa/working/cycle-resize/
+Checking out 7d255d6fe85f12c967a0f7fcfcf18633be194c88
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cycle-resize/
+  to /tmp/cycle-resize-Na8q8I/cycle-resize-20160521.1557/
+    cycle-resize.el -> cycle-resize.el
+Created cycle-resize-20160521.1557.tar containing:
+  cycle-resize-20160521.1557/
+  cycle-resize-20160521.1557/cycle-resize-pkg.el
+  cycle-resize-20160521.1557/cycle-resize.el
+Built cycle-resize in 2.839s, finished at 2026-10-08T10:50:09+0000

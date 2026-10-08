@@ -1,0 +1,14 @@
+
+ • Building package docsim
+From https://github.com/hrs/docsim.el
+Updating /mnt/store/melpa/working/docsim/
+Checking out 1441436621835eb9c6fe80bb07299043133f2942
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/docsim/
+  to /tmp/docsim-k3g1jl/docsim-20240906.421/
+    docsim.el -> docsim.el
+Created docsim-20240906.421.tar containing:
+  docsim-20240906.421/
+  docsim-20240906.421/docsim-pkg.el
+  docsim-20240906.421/docsim.el
+Built docsim in 2.631s, finished at 2026-10-08T10:53:43+0000

@@ -1,0 +1,75 @@
+
+ • Building package pr-review
+From https://github.com/blahgeek/emacs-pr-review
+Updating /mnt/store/melpa/working/pr-review/
+Checking out 938db766007f3444a2899b2457d9e2f4b4ffbebf
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pr-review/
+  to /tmp/pr-review-sJVBem/pr-review-20260509.1433/
+    pr-review-action.el -> pr-review-action.el
+    pr-review-api.el -> pr-review-api.el
+    pr-review-common.el -> pr-review-common.el
+    pr-review-glab-action.el -> pr-review-glab-action.el
+    pr-review-glab-api.el -> pr-review-glab-api.el
+    pr-review-glab-notification-render.el -> pr-review-glab-notification-render.el
+    pr-review-glab-render.el -> pr-review-glab-render.el
+    pr-review-input.el -> pr-review-input.el
+    pr-review-listview.el -> pr-review-listview.el
+    pr-review-notification-render.el -> pr-review-notification-render.el
+    pr-review-notification.el -> pr-review-notification.el
+    pr-review-render.el -> pr-review-render.el
+    pr-review-search.el -> pr-review-search.el
+    pr-review.el -> pr-review.el
+    graphql => graphql
+Created pr-review-20260509.1433.tar containing:
+  pr-review-20260509.1433/
+  pr-review-20260509.1433/graphql/
+  pr-review-20260509.1433/graphql/add-comment.graphql
+  pr-review-20260509.1433/graphql/add-labels.graphql
+  pr-review-20260509.1433/graphql/add-review-comment-reply.graphql
+  pr-review-20260509.1433/graphql/add-review.graphql
+  pr-review-20260509.1433/graphql/clear-labels.graphql
+  pr-review-20260509.1433/graphql/close-pr.graphql
+  pr-review-20260509.1433/graphql/convert-pr-to-draft.graphql
+  pr-review-20260509.1433/graphql/get-assignable-users.graphql
+  pr-review-20260509.1433/graphql/get-pull-request-for-notification.inc.graphql
+  pr-review-20260509.1433/graphql/get-pull-request.graphql
+  pr-review-20260509.1433/graphql/gitlab/
+  pr-review-20260509.1433/graphql/gitlab/create-diff-note.graphql
+  pr-review-20260509.1433/graphql/gitlab/create-note.graphql
+  pr-review-20260509.1433/graphql/gitlab/discussion-toggle-resolve.graphql
+  pr-review-20260509.1433/graphql/gitlab/get-merge-request.graphql
+  pr-review-20260509.1433/graphql/gitlab/get-todos.graphql
+  pr-review-20260509.1433/graphql/gitlab/todo-mark-done.graphql
+  pr-review-20260509.1433/graphql/gitlab/update-merge-request.graphql
+  pr-review-20260509.1433/graphql/gitlab/update-note.graphql
+  pr-review-20260509.1433/graphql/mark-pr-ready-for-review.graphql
+  pr-review-20260509.1433/graphql/merge-pr.graphql
+  pr-review-20260509.1433/graphql/reopen-pr.graphql
+  pr-review-20260509.1433/graphql/request-reviews.graphql
+  pr-review-20260509.1433/graphql/resolve-review-thread.graphql
+  pr-review-20260509.1433/graphql/search-prs.graphql
+  pr-review-20260509.1433/graphql/submit-review.graphql
+  pr-review-20260509.1433/graphql/unresolve-review-thread.graphql
+  pr-review-20260509.1433/graphql/update-comment.graphql
+  pr-review-20260509.1433/graphql/update-pr.graphql
+  pr-review-20260509.1433/graphql/update-review-comment.graphql
+  pr-review-20260509.1433/graphql/update-review.graphql
+  pr-review-20260509.1433/graphql/update-subscription.graphql
+  pr-review-20260509.1433/graphql/whoami.graphql
+  pr-review-20260509.1433/pr-review-action.el
+  pr-review-20260509.1433/pr-review-api.el
+  pr-review-20260509.1433/pr-review-common.el
+  pr-review-20260509.1433/pr-review-glab-action.el
+  pr-review-20260509.1433/pr-review-glab-api.el
+  pr-review-20260509.1433/pr-review-glab-notification-render.el
+  pr-review-20260509.1433/pr-review-glab-render.el
+  pr-review-20260509.1433/pr-review-input.el
+  pr-review-20260509.1433/pr-review-listview.el
+  pr-review-20260509.1433/pr-review-notification-render.el
+  pr-review-20260509.1433/pr-review-notification.el
+  pr-review-20260509.1433/pr-review-pkg.el
+  pr-review-20260509.1433/pr-review-render.el
+  pr-review-20260509.1433/pr-review-search.el
+  pr-review-20260509.1433/pr-review.el
+Built pr-review in 6.266s, finished at 2026-10-08T11:37:39+0000

@@ -1,0 +1,14 @@
+
+ • Building package diredfl
+From https://github.com/purcell/diredfl
+Updating /mnt/store/melpa/working/diredfl/
+Checking out fe72d2e42ee18bf6228bba9d7086de4098f18a70
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/diredfl/
+  to /tmp/diredfl-RIbNJh/diredfl-20241201.1141/
+    diredfl.el -> diredfl.el
+Created diredfl-20241201.1141.tar containing:
+  diredfl-20241201.1141/
+  diredfl-20241201.1141/diredfl-pkg.el
+  diredfl-20241201.1141/diredfl.el
+Built diredfl in 2.906s, finished at 2026-10-08T10:53:10+0000

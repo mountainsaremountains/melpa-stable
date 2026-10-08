@@ -1,0 +1,16 @@
+
+ • Building package org-gcal
+From https://github.com/kidd/org-gcal.el
+Updating /mnt/store/melpa/working/org-gcal/
+Checking out 5c230a1ef5902f2440d4521cb3a3588c6e5459b7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-gcal/
+  to /tmp/org-gcal-HE1GkL/org-gcal-20260916.1715/
+    org-gcal.el -> org-gcal.el
+    org-generic-id.el -> org-generic-id.el
+Created org-gcal-20260916.1715.tar containing:
+  org-gcal-20260916.1715/
+  org-gcal-20260916.1715/org-gcal-pkg.el
+  org-gcal-20260916.1715/org-gcal.el
+  org-gcal-20260916.1715/org-generic-id.el
+Built org-gcal in 3.648s, finished at 2026-10-08T11:30:36+0000

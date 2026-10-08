@@ -1,0 +1,14 @@
+
+ • Building package literate-elisp
+From https://github.com/jingtaozf/literate-elisp
+Updating /mnt/store/melpa/working/literate-elisp/
+Checking out 9fcfe78b9bf8a7cfc85ef2074f72a49e8ea6d2b7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/literate-elisp/
+  to /tmp/literate-elisp-mzurHA/literate-elisp-20260729.513/
+    literate-elisp.el -> literate-elisp.el
+Created literate-elisp-20260729.513.tar containing:
+  literate-elisp-20260729.513/
+  literate-elisp-20260729.513/literate-elisp-pkg.el
+  literate-elisp-20260729.513/literate-elisp.el
+Built literate-elisp in 3.337s, finished at 2026-10-08T11:19:59+0000

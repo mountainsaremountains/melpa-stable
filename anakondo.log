@@ -1,0 +1,14 @@
+
+ • Building package anakondo
+From https://github.com/didibus/anakondo
+Updating /mnt/store/melpa/working/anakondo/
+Checking out 16b0ba14d94a5d7e55655efc9e1d6d069a9306f2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/anakondo/
+  to /tmp/anakondo-o6HZ59/anakondo-20210221.1727/
+    anakondo.el -> anakondo.el
+Created anakondo-20210221.1727.tar containing:
+  anakondo-20210221.1727/
+  anakondo-20210221.1727/anakondo-pkg.el
+  anakondo-20210221.1727/anakondo.el
+Built anakondo in 3.054s, finished at 2026-10-08T10:39:50+0000

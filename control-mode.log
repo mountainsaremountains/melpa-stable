@@ -1,0 +1,14 @@
+
+ • Building package control-mode
+From https://github.com/stephendavidmarsh/control-mode
+Updating /mnt/store/melpa/working/control-mode/
+Checking out 6bf487144119b03f9cc54168f70e3d7d8d84e22b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/control-mode/
+  to /tmp/control-mode-7mIN6k/control-mode-20160624.1710/
+    control-mode.el -> control-mode.el
+Created control-mode-20160624.1710.tar containing:
+  control-mode-20160624.1710/
+  control-mode-20160624.1710/control-mode-pkg.el
+  control-mode-20160624.1710/control-mode.el
+Built control-mode in 2.546s, finished at 2026-10-08T10:48:52+0000

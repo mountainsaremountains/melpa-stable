@@ -1,0 +1,14 @@
+
+ • Building package dumb-jump
+From https://github.com/jacktasia/dumb-jump
+Updating /mnt/store/melpa/working/dumb-jump/
+Checking out cf06b4ccdce6a39346c32f05139f9ee8b77ee229
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dumb-jump/
+  to /tmp/dumb-jump-yUCu8D/dumb-jump-20260603.1700/
+    dumb-jump.el -> dumb-jump.el
+Created dumb-jump-20260603.1700.tar containing:
+  dumb-jump-20260603.1700/
+  dumb-jump-20260603.1700/dumb-jump-pkg.el
+  dumb-jump-20260603.1700/dumb-jump.el
+Built dumb-jump in 3.695s, finished at 2026-10-08T10:54:19+0000

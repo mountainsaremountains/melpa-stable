@@ -1,0 +1,14 @@
+
+ • Building package ess-view
+From https://github.com/GioBo/ess-view
+Updating /mnt/store/melpa/working/ess-view/
+Checking out 82df032e6e367e7f587e6131925c0a349c685f93
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ess-view/
+  to /tmp/ess-view-KJDsBN/ess-view-20250409.2120/
+    ess-view.el -> ess-view.el
+Created ess-view-20250409.2120.tar containing:
+  ess-view-20250409.2120/
+  ess-view-20250409.2120/ess-view-pkg.el
+  ess-view-20250409.2120/ess-view.el
+Built ess-view in 2.435s, finished at 2026-10-08T10:59:10+0000

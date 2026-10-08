@@ -1,0 +1,18 @@
+
+ • Building package org-habit-ng
+From https://codeberg.org/Trevoke/org-habit-ng
+Updating /mnt/store/melpa/working/org-habit-ng/
+Checking out 8710d55411af41d5505236d33bd5b7ad05807441
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/org-habit-ng/
+  to /tmp/org-habit-ng-mMrXHR/org-habit-ng-20260713.1625/
+    org-habit-ng.el -> org-habit-ng.el
+    dir -> dir
+    org-habit-ng.info -> org-habit-ng.info
+Created org-habit-ng-20260713.1625.tar containing:
+  org-habit-ng-20260713.1625/
+  org-habit-ng-20260713.1625/dir
+  org-habit-ng-20260713.1625/org-habit-ng-pkg.el
+  org-habit-ng-20260713.1625/org-habit-ng.el
+  org-habit-ng-20260713.1625/org-habit-ng.info
+Built org-habit-ng in 6.929s, finished at 2026-10-08T11:30:44+0000

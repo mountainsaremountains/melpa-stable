@@ -1,0 +1,20 @@
+
+ • Building package adoc-mode
+From https://github.com/bbatsov/adoc-mode
+Updating /mnt/store/melpa/working/adoc-mode/
+Checking out 674b4255f7eaf712e222d6e8a24f1ae697149ea9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/adoc-mode/
+  to /tmp/adoc-mode-vBFJX0/adoc-mode-20261008.937/
+    adoc-asciidoctor.el -> adoc-asciidoctor.el
+    adoc-mode-image.el -> adoc-mode-image.el
+    adoc-mode-tempo.el -> adoc-mode-tempo.el
+    adoc-mode.el -> adoc-mode.el
+Created adoc-mode-20261008.937.tar containing:
+  adoc-mode-20261008.937/
+  adoc-mode-20261008.937/adoc-asciidoctor.el
+  adoc-mode-20261008.937/adoc-mode-image.el
+  adoc-mode-20261008.937/adoc-mode-pkg.el
+  adoc-mode-20261008.937/adoc-mode-tempo.el
+  adoc-mode-20261008.937/adoc-mode.el
+Built adoc-mode in 4.910s, finished at 2026-10-08T10:39:06+0000

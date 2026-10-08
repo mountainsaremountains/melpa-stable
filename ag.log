@@ -1,0 +1,14 @@
+
+ • Building package ag
+From https://github.com/Wilfred/ag.el
+Updating /mnt/store/melpa/working/ag/
+Checking out ed7e32064f92f1315cecbfc43f120bbc7508672c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ag/
+  to /tmp/ag-ATHE2o/ag-20201031.2202/
+    ag.el -> ag.el
+Created ag-20201031.2202.tar containing:
+  ag-20201031.2202/
+  ag-20201031.2202/ag-pkg.el
+  ag-20201031.2202/ag.el
+Built ag in 2.771s, finished at 2026-10-08T10:39:10+0000

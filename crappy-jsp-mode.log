@@ -1,0 +1,14 @@
+
+ • Building package crappy-jsp-mode
+From https://github.com/magnars/crappy-jsp-mode
+Updating /mnt/store/melpa/working/crappy-jsp-mode/
+Checking out 6c45ab92b452411cc0fab9bcee2f456276b4fc40
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/crappy-jsp-mode/
+  to /tmp/crappy-jsp-mode-AAKtMx/crappy-jsp-mode-20140311.931/
+    crappy-jsp-mode.el -> crappy-jsp-mode.el
+Created crappy-jsp-mode-20140311.931.tar containing:
+  crappy-jsp-mode-20140311.931/
+  crappy-jsp-mode-20140311.931/crappy-jsp-mode-pkg.el
+  crappy-jsp-mode-20140311.931/crappy-jsp-mode.el
+Built crappy-jsp-mode in 2.762s, finished at 2026-10-08T10:49:30+0000

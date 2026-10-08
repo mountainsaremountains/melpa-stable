@@ -1,0 +1,14 @@
+
+ • Building package flycheck-relint
+From https://github.com/purcell/flycheck-relint
+Updating /mnt/store/melpa/working/flycheck-relint/
+Checking out 88da7151b1781ec950eb9ec0b2ad32b90dae7427
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-relint/
+  to /tmp/flycheck-relint-j15D80/flycheck-relint-20240910.1036/
+    flycheck-relint.el -> flycheck-relint.el
+Created flycheck-relint-20240910.1036.tar containing:
+  flycheck-relint-20240910.1036/
+  flycheck-relint-20240910.1036/flycheck-relint-pkg.el
+  flycheck-relint-20240910.1036/flycheck-relint.el
+Built flycheck-relint in 3.068s, finished at 2026-10-08T11:03:02+0000

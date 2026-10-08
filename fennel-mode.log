@@ -1,0 +1,24 @@
+
+ • Building package fennel-mode
+From https://git.sr.ht/~technomancy/fennel-mode
+Updating /mnt/store/melpa/working/fennel-mode/
+Checking out 2cf12616455d5b042cca8394f3ceb70b138e3043
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/fennel-mode/
+  to /tmp/fennel-mode-rDStED/fennel-mode-20260726.2034/
+    antifennel.el -> antifennel.el
+    fennel-ls-flymake.el -> fennel-ls-flymake.el
+    fennel-mode.el -> fennel-mode.el
+    fennel-proto-repl.el -> fennel-proto-repl.el
+    fennel-scratch.el -> fennel-scratch.el
+    ob-fennel.el -> ob-fennel.el
+Created fennel-mode-20260726.2034.tar containing:
+  fennel-mode-20260726.2034/
+  fennel-mode-20260726.2034/antifennel.el
+  fennel-mode-20260726.2034/fennel-ls-flymake.el
+  fennel-mode-20260726.2034/fennel-mode-pkg.el
+  fennel-mode-20260726.2034/fennel-mode.el
+  fennel-mode-20260726.2034/fennel-proto-repl.el
+  fennel-mode-20260726.2034/fennel-scratch.el
+  fennel-mode-20260726.2034/ob-fennel.el
+Built fennel-mode in 3.992s, finished at 2026-10-08T11:01:17+0000

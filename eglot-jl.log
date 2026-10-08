@@ -1,0 +1,20 @@
+
+ • Building package eglot-jl
+From https://github.com/non-Jedi/eglot-jl
+Updating /mnt/store/melpa/working/eglot-jl/
+Checking out ebe4358b48827a85dd4c714bcc3db11842aa6c3c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eglot-jl/
+  to /tmp/eglot-jl-j1QDOh/eglot-jl-20260705.2320/
+    eglot-jl.el -> eglot-jl.el
+    eglot-jl.jl -> eglot-jl.jl
+    Manifest.toml -> Manifest.toml
+    Project.toml -> Project.toml
+Created eglot-jl-20260705.2320.tar containing:
+  eglot-jl-20260705.2320/
+  eglot-jl-20260705.2320/Manifest.toml
+  eglot-jl-20260705.2320/Project.toml
+  eglot-jl-20260705.2320/eglot-jl-pkg.el
+  eglot-jl-20260705.2320/eglot-jl.el
+  eglot-jl-20260705.2320/eglot-jl.jl
+Built eglot-jl in 3.459s, finished at 2026-10-08T10:55:23+0000

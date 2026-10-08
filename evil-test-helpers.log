@@ -1,0 +1,14 @@
+
+ • Building package evil-test-helpers
+From https://github.com/emacs-evil/evil
+Updating /mnt/store/melpa/working/evil-test-helpers/
+Checking out 4beec94d14fc4180c41314edff997dbb9c422a23
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/evil-test-helpers/
+  to /tmp/evil-test-helpers-bLD6HK/evil-test-helpers-20230820.2246/
+    evil-test-helpers.el -> evil-test-helpers.el
+Created evil-test-helpers-20230820.2246.tar containing:
+  evil-test-helpers-20230820.2246/
+  evil-test-helpers-20230820.2246/evil-test-helpers-pkg.el
+  evil-test-helpers-20230820.2246/evil-test-helpers.el
+Built evil-test-helpers in 4.202s, finished at 2026-10-08T11:00:14+0000

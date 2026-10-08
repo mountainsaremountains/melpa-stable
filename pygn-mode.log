@@ -1,0 +1,38 @@
+
+ • Building package pygn-mode
+From https://github.com/dwcoates/pygn-mode
+Updating /mnt/store/melpa/working/pygn-mode/
+Checking out 6eed5ea66d37ae25c4db98ca21b164a98234b59e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pygn-mode/
+  to /tmp/pygn-mode-iuYJmQ/pygn-mode-20260605.1055/
+    pygn-mode.el -> pygn-mode.el
+    pygn_server.py -> pygn_server.py
+    lib => lib
+Created pygn-mode-20260605.1055.tar containing:
+  pygn-mode-20260605.1055/
+  pygn-mode-20260605.1055/lib/
+  pygn-mode-20260605.1055/lib/python/
+  pygn-mode-20260605.1055/lib/python/site-packages/
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/INSTALLER
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/LICENSE.txt
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/METADATA
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/RECORD
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/REQUESTED
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/WHEEL
+  pygn-mode-20260605.1055/lib/python/site-packages/chess-1.11.1.dist-info/top_level.txt
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/__init__.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/engine.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/gaviota.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/pgn.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/polyglot.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/py.typed
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/svg.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/syzygy.py
+  pygn-mode-20260605.1055/lib/python/site-packages/chess/variant.py
+  pygn-mode-20260605.1055/pygn-mode-pkg.el
+  pygn-mode-20260605.1055/pygn-mode.el
+  pygn-mode-20260605.1055/pygn_server.py
+Built pygn-mode in 3.747s, finished at 2026-10-08T11:39:42+0000

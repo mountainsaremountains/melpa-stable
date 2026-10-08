@@ -1,0 +1,18 @@
+
+ • Building package uiua-mode
+From https://github.com/crmsnbleyd/uiua-mode
+Updating /mnt/store/melpa/working/uiua-mode/
+Checking out 4194e877aef707f8475c3632390179b03571d091
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/uiua-mode/
+  to /tmp/uiua-mode-Fv0CRW/uiua-mode-20260618.822/
+    uiua-input-gen.el -> uiua-input-gen.el
+    uiua-input.el -> uiua-input.el
+    uiua-mode.el -> uiua-mode.el
+Created uiua-mode-20260618.822.tar containing:
+  uiua-mode-20260618.822/
+  uiua-mode-20260618.822/uiua-input-gen.el
+  uiua-mode-20260618.822/uiua-input.el
+  uiua-mode-20260618.822/uiua-mode-pkg.el
+  uiua-mode-20260618.822/uiua-mode.el
+Built uiua-mode in 3.259s, finished at 2026-10-08T11:52:57+0000

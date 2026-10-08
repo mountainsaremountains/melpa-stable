@@ -1,0 +1,14 @@
+
+ • Building package grapnel
+From https://github.com/leathekd/grapnel
+Updating /mnt/store/melpa/working/grapnel/
+Checking out 7387234eb3f0285a490fddb1e06a4bf029719fb7
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/grapnel/
+  to /tmp/grapnel-C4miwP/grapnel-20131001.1534/
+    grapnel.el -> grapnel.el
+Created grapnel-20131001.1534.tar containing:
+  grapnel-20131001.1534/
+  grapnel-20131001.1534/grapnel-pkg.el
+  grapnel-20131001.1534/grapnel.el
+Built grapnel in 3.057s, finished at 2026-10-08T11:08:16+0000

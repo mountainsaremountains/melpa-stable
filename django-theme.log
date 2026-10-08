@@ -1,0 +1,14 @@
+
+ • Building package django-theme
+From https://github.com/andrzejsliwa/django-theme.el
+Updating /mnt/store/melpa/working/django-theme/
+Checking out 86c8142b3eb1addd94a43aa6f1d98dab06401af0
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/django-theme/
+  to /tmp/django-theme-F0TbeY/django-theme-20131022.902/
+    django-theme.el -> django-theme.el
+Created django-theme-20131022.902.tar containing:
+  django-theme-20131022.902/
+  django-theme-20131022.902/django-theme-pkg.el
+  django-theme-20131022.902/django-theme.el
+Built django-theme in 2.698s, finished at 2026-10-08T10:53:31+0000

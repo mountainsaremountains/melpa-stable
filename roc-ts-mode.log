@@ -1,0 +1,20 @@
+
+ • Building package roc-ts-mode
+From https://gitlab.com/tad-lispy/roc-ts-mode
+Updating /mnt/store/melpa/working/roc-ts-mode/
+Checking out 00aa6d23192a85c4f8e2905c1aa526fefec51f20
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/roc-ts-mode/
+  to /tmp/roc-ts-mode-QiXiOz/roc-ts-mode-20260206.908/
+    roc-ts-cli.el -> roc-ts-cli.el
+    roc-ts-mode.el -> roc-ts-mode.el
+    roc-ts-repl.el -> roc-ts-repl.el
+    roc-ts-start.el -> roc-ts-start.el
+Created roc-ts-mode-20260206.908.tar containing:
+  roc-ts-mode-20260206.908/
+  roc-ts-mode-20260206.908/roc-ts-cli.el
+  roc-ts-mode-20260206.908/roc-ts-mode-pkg.el
+  roc-ts-mode-20260206.908/roc-ts-mode.el
+  roc-ts-mode-20260206.908/roc-ts-repl.el
+  roc-ts-mode-20260206.908/roc-ts-start.el
+Built roc-ts-mode in 4.105s, finished at 2026-10-08T11:42:14+0000

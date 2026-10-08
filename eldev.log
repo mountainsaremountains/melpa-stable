@@ -1,0 +1,39 @@
+
+ • Building package eldev
+From https://github.com/emacs-eldev/eldev
+Updating /mnt/store/melpa/working/eldev/
+Checking out 129d26489b1749839b203ac40ae3cc609c737036
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eldev/
+  to /tmp/eldev-S0FRXa/eldev-20260829.1605/
+    eldev-build.el -> eldev-build.el
+    eldev-buttercup.el -> eldev-buttercup.el
+    eldev-doctest.el -> eldev-doctest.el
+    eldev-doctor.el -> eldev-doctor.el
+    eldev-ecukes.el -> eldev-ecukes.el
+    eldev-ert.el -> eldev-ert.el
+    eldev-plugins.el -> eldev-plugins.el
+    eldev-util.el -> eldev-util.el
+    eldev-vc.el -> eldev-vc.el
+    eldev.el -> eldev.el
+    bin/eldev -> bin/eldev
+    bin/eldev.bat -> bin/eldev.bat
+    bin/eldev.ps1 -> bin/eldev.ps1
+Created eldev-20260829.1605.tar containing:
+  eldev-20260829.1605/
+  eldev-20260829.1605/bin/
+  eldev-20260829.1605/bin/eldev
+  eldev-20260829.1605/bin/eldev.bat
+  eldev-20260829.1605/bin/eldev.ps1
+  eldev-20260829.1605/eldev-build.el
+  eldev-20260829.1605/eldev-buttercup.el
+  eldev-20260829.1605/eldev-doctest.el
+  eldev-20260829.1605/eldev-doctor.el
+  eldev-20260829.1605/eldev-ecukes.el
+  eldev-20260829.1605/eldev-ert.el
+  eldev-20260829.1605/eldev-pkg.el
+  eldev-20260829.1605/eldev-plugins.el
+  eldev-20260829.1605/eldev-util.el
+  eldev-20260829.1605/eldev-vc.el
+  eldev-20260829.1605/eldev.el
+Built eldev in 3.636s, finished at 2026-10-08T10:55:53+0000

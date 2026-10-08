@@ -1,0 +1,14 @@
+
+ • Building package cloak-mode
+From https://github.com/erickgnavar/cloak-mode
+Updating /mnt/store/melpa/working/cloak-mode/
+Checking out ba182aafebe901aeb33f879058381866d0076186
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cloak-mode/
+  to /tmp/cloak-mode-ZD1CeP/cloak-mode-20260309.1455/
+    cloak-mode.el -> cloak-mode.el
+Created cloak-mode-20260309.1455.tar containing:
+  cloak-mode-20260309.1455/
+  cloak-mode-20260309.1455/cloak-mode-pkg.el
+  cloak-mode-20260309.1455/cloak-mode.el
+Built cloak-mode in 3.118s, finished at 2026-10-08T10:46:34+0000

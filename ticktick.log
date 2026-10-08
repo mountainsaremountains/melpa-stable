@@ -1,0 +1,14 @@
+
+ • Building package ticktick
+From https://github.com/polhuang/ticktick.el
+Updating /mnt/store/melpa/working/ticktick/
+Checking out b9b6319464bd63c43c5edab1d72e73eea4234093
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ticktick/
+  to /tmp/ticktick-FsCa5g/ticktick-20260117.1242/
+    ticktick.el -> ticktick.el
+Created ticktick-20260117.1242.tar containing:
+  ticktick-20260117.1242/
+  ticktick-20260117.1242/ticktick-pkg.el
+  ticktick-20260117.1242/ticktick.el
+Built ticktick in 3.152s, finished at 2026-10-08T11:50:17+0000

@@ -1,0 +1,14 @@
+
+ • Building package cyphejor
+From https://github.com/mrkkrp/cyphejor
+Updating /mnt/store/melpa/working/cyphejor/
+Checking out d18322bb02686aaf6f0da63debcec8e66523d65d
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/cyphejor/
+  to /tmp/cyphejor-jsuXgM/cyphejor-20260802.938/
+    cyphejor.el -> cyphejor.el
+Created cyphejor-20260802.938.tar containing:
+  cyphejor-20260802.938/
+  cyphejor-20260802.938/cyphejor-pkg.el
+  cyphejor-20260802.938/cyphejor.el
+Built cyphejor in 3.337s, finished at 2026-10-08T10:50:11+0000

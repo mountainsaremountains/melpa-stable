@@ -1,0 +1,14 @@
+
+ • Building package anti-zenburn-theme
+From https://github.com/m00natic/anti-zenburn-theme
+Updating /mnt/store/melpa/working/anti-zenburn-theme/
+Checking out dbafbaa86be67c1d409873f57a5c0bbe1e7ca158
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/anti-zenburn-theme/
+  to /tmp/anti-zenburn-theme-50X8ov/anti-zenburn-theme-20180712.1838/
+    anti-zenburn-theme.el -> anti-zenburn-theme.el
+Created anti-zenburn-theme-20180712.1838.tar containing:
+  anti-zenburn-theme-20180712.1838/
+  anti-zenburn-theme-20180712.1838/anti-zenburn-theme-pkg.el
+  anti-zenburn-theme-20180712.1838/anti-zenburn-theme.el
+Built anti-zenburn-theme in 3.168s, finished at 2026-10-08T10:40:11+0000

@@ -1,0 +1,14 @@
+
+ • Building package eldoc-overlay
+From https://repo.or.cz/eldoc-overlay.git
+Updating /mnt/store/melpa/working/eldoc-overlay/
+Checking out 14a9e141918c2e18a107920e8631e622c580b3ef
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eldoc-overlay/
+  to /tmp/eldoc-overlay-JxV9gg/eldoc-overlay-20230406.959/
+    eldoc-overlay.el -> eldoc-overlay.el
+Created eldoc-overlay-20230406.959.tar containing:
+  eldoc-overlay-20230406.959/
+  eldoc-overlay-20230406.959/eldoc-overlay-pkg.el
+  eldoc-overlay-20230406.959/eldoc-overlay.el
+Built eldoc-overlay in 15.969s, finished at 2026-10-08T10:56:10+0000

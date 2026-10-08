@@ -1,0 +1,14 @@
+
+ • Building package flycheck-d-unittest
+From https://github.com/flycheck/flycheck-d-unittest
+Updating /mnt/store/melpa/working/flycheck-d-unittest/
+Checking out 4ebaabedfd52d63d7e4f62c8dce279eaef635e45
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-d-unittest/
+  to /tmp/flycheck-d-unittest-fFwNL3/flycheck-d-unittest-20260810.759/
+    flycheck-d-unittest.el -> flycheck-d-unittest.el
+Created flycheck-d-unittest-20260810.759.tar containing:
+  flycheck-d-unittest-20260810.759/
+  flycheck-d-unittest-20260810.759/flycheck-d-unittest-pkg.el
+  flycheck-d-unittest-20260810.759/flycheck-d-unittest.el
+Built flycheck-d-unittest in 2.884s, finished at 2026-10-08T11:02:19+0000

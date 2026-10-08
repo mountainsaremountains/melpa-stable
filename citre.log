@@ -1,0 +1,44 @@
+
+ • Building package citre
+From https://github.com/universal-ctags/citre
+Updating /mnt/store/melpa/working/citre/
+Checking out be0d9c6dc9b1ac67d76fc7ed315f2369d5c3bde8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/citre/
+  to /tmp/citre-P3PfwN/citre-20260530.602/
+    citre-backend-interface.el -> citre-backend-interface.el
+    citre-common-tag.el -> citre-common-tag.el
+    citre-common-util.el -> citre-common-util.el
+    citre-config.el -> citre-config.el
+    citre-ctags.el -> citre-ctags.el
+    citre-global.el -> citre-global.el
+    citre-lang-c.el -> citre-lang-c.el
+    citre-lang-fileref.el -> citre-lang-fileref.el
+    citre-lang-verilog.el -> citre-lang-verilog.el
+    citre-readtags-tables.el -> citre-readtags-tables.el
+    citre-readtags.el -> citre-readtags.el
+    citre-tags.el -> citre-tags.el
+    citre-ui-jump.el -> citre-ui-jump.el
+    citre-ui-peek.el -> citre-ui-peek.el
+    citre-xref-adapter.el -> citre-xref-adapter.el
+    citre.el -> citre.el
+Created citre-20260530.602.tar containing:
+  citre-20260530.602/
+  citre-20260530.602/citre-backend-interface.el
+  citre-20260530.602/citre-common-tag.el
+  citre-20260530.602/citre-common-util.el
+  citre-20260530.602/citre-config.el
+  citre-20260530.602/citre-ctags.el
+  citre-20260530.602/citre-global.el
+  citre-20260530.602/citre-lang-c.el
+  citre-20260530.602/citre-lang-fileref.el
+  citre-20260530.602/citre-lang-verilog.el
+  citre-20260530.602/citre-pkg.el
+  citre-20260530.602/citre-readtags-tables.el
+  citre-20260530.602/citre-readtags.el
+  citre-20260530.602/citre-tags.el
+  citre-20260530.602/citre-ui-jump.el
+  citre-20260530.602/citre-ui-peek.el
+  citre-20260530.602/citre-xref-adapter.el
+  citre-20260530.602/citre.el
+Built citre in 3.706s, finished at 2026-10-08T10:46:11+0000

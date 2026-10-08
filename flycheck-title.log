@@ -1,0 +1,14 @@
+
+ • Building package flycheck-title
+From https://github.com/Wilfred/flycheck-title
+Updating /mnt/store/melpa/working/flycheck-title/
+Checking out 74e4375f372f7b9ce0fdfa34dc74a048376679ae
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-title/
+  to /tmp/flycheck-title-ih3UOX/flycheck-title-20210321.558/
+    flycheck-title.el -> flycheck-title.el
+Created flycheck-title-20210321.558.tar containing:
+  flycheck-title-20210321.558/
+  flycheck-title-20210321.558/flycheck-title-pkg.el
+  flycheck-title-20210321.558/flycheck-title.el
+Built flycheck-title in 2.701s, finished at 2026-10-08T11:03:10+0000

@@ -1,0 +1,35 @@
+
+ • Building package ekg
+From https://github.com/ahyatt/ekg
+Updating /mnt/store/melpa/working/ekg/
+Checking out d9a22b88f3c0d7f3b6d7295bab0449288d24d13c
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ekg/
+  to /tmp/ekg-HnbnZM/ekg-20260930.1704/
+  ! doc/doclicense.texi -> doclicense.texi
+  ! doc/ekg.texi -> ekg.texi
+    ekg.el -> ekg.el
+    ekg-embedding.el -> ekg-embedding.el
+    ekg-llm.el -> ekg-llm.el
+    ekg-auto-save.el -> ekg-auto-save.el
+    ekg-org-roam.el -> ekg-org-roam.el
+    ekg-org.el -> ekg-org.el
+    ekg-apple-notes.el -> ekg-apple-notes.el
+    ekg-logseq.el -> ekg-logseq.el
+Generating doclicense.info
+Generating ekg.info
+Created ekg-20260930.1704.tar containing:
+  ekg-20260930.1704/
+  ekg-20260930.1704/dir
+  ekg-20260930.1704/doclicense.info
+  ekg-20260930.1704/ekg-apple-notes.el
+  ekg-20260930.1704/ekg-auto-save.el
+  ekg-20260930.1704/ekg-embedding.el
+  ekg-20260930.1704/ekg-llm.el
+  ekg-20260930.1704/ekg-logseq.el
+  ekg-20260930.1704/ekg-org-roam.el
+  ekg-20260930.1704/ekg-org.el
+  ekg-20260930.1704/ekg-pkg.el
+  ekg-20260930.1704/ekg.el
+  ekg-20260930.1704/ekg.info
+Built ekg in 8.399s, finished at 2026-10-08T10:55:38+0000

@@ -1,0 +1,35 @@
+
+ • Building package elfeed
+From https://github.com/emacs-elfeed/elfeed
+Updating /mnt/store/melpa/working/elfeed/
+Checking out f69b4da9b89be04e3b5bd0fecac77a48d914e64c
+Warning: elfeed :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elfeed/
+  to /tmp/elfeed-963dSD/elfeed-20260929.831/
+    elfeed-csv.el -> elfeed-csv.el
+    elfeed-curl.el -> elfeed-curl.el
+    elfeed-db.el -> elfeed-db.el
+    elfeed-lib.el -> elfeed-lib.el
+    elfeed-link.el -> elfeed-link.el
+    elfeed-log.el -> elfeed-log.el
+    elfeed-search.el -> elfeed-search.el
+    elfeed-show.el -> elfeed-show.el
+    elfeed-tree.el -> elfeed-tree.el
+    elfeed.el -> elfeed.el
+    xml-query.el -> xml-query.el
+Created elfeed-20260929.831.tar containing:
+  elfeed-20260929.831/
+  elfeed-20260929.831/elfeed-csv.el
+  elfeed-20260929.831/elfeed-curl.el
+  elfeed-20260929.831/elfeed-db.el
+  elfeed-20260929.831/elfeed-lib.el
+  elfeed-20260929.831/elfeed-link.el
+  elfeed-20260929.831/elfeed-log.el
+  elfeed-20260929.831/elfeed-pkg.el
+  elfeed-20260929.831/elfeed-search.el
+  elfeed-20260929.831/elfeed-show.el
+  elfeed-20260929.831/elfeed-tree.el
+  elfeed-20260929.831/elfeed.el
+  elfeed-20260929.831/xml-query.el
+Built elfeed in 3.277s, finished at 2026-10-08T10:56:04+0000

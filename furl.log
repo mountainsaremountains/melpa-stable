@@ -1,0 +1,14 @@
+
+ • Building package furl
+From https://github.com/nex3/furl-el
+Updating /mnt/store/melpa/working/furl/
+Checking out 014438271e0ef27333dfcd599cb247f12a20d870
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/furl/
+  to /tmp/furl-S0M7cW/furl-20150509.316/
+    furl.el -> furl.el
+Created furl-20150509.316.tar containing:
+  furl-20150509.316/
+  furl-20150509.316/furl-pkg.el
+  furl-20150509.316/furl.el
+Built furl in 2.778s, finished at 2026-10-08T11:05:27+0000

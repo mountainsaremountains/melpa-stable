@@ -1,0 +1,14 @@
+
+ • Building package async-await
+From https://github.com/chuntaro/emacs-async-await
+Updating /mnt/store/melpa/working/async-await/
+Checking out e0d15e8057ed7520100bc50c5552278292ebcb07
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/async-await/
+  to /tmp/async-await-SfzWXq/async-await-20220827.437/
+    async-await.el -> async-await.el
+Created async-await-20220827.437.tar containing:
+  async-await-20220827.437/
+  async-await-20220827.437/async-await-pkg.el
+  async-await-20220827.437/async-await.el
+Built async-await in 2.669s, finished at 2026-10-08T10:40:44+0000

@@ -1,0 +1,14 @@
+
+ • Building package bitlbee
+From https://github.com/pjones/bitlbee-el
+Updating /mnt/store/melpa/working/bitlbee/
+Checking out f3342da46b0864ae8db4e82b553d9e617b090534
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bitlbee/
+  to /tmp/bitlbee-2du3HF/bitlbee-20151203.0/
+  ! lisp/bitlbee.el -> bitlbee.el
+Created bitlbee-20151203.0.tar containing:
+  bitlbee-20151203.0/
+  bitlbee-20151203.0/bitlbee-pkg.el
+  bitlbee-20151203.0/bitlbee.el
+Built bitlbee in 2.560s, finished at 2026-10-08T10:42:42+0000

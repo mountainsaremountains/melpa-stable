@@ -1,0 +1,14 @@
+
+ • Building package build-helper
+From https://github.com/afonso360/build-helper
+Updating /mnt/store/melpa/working/build-helper/
+Checking out d1962858734253eca791721ccf62d1c4a10719f5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/build-helper/
+  to /tmp/build-helper-l3TjRh/build-helper-20161009.1755/
+    build-helper.el -> build-helper.el
+Created build-helper-20161009.1755.tar containing:
+  build-helper-20161009.1755/
+  build-helper-20161009.1755/build-helper-pkg.el
+  build-helper-20161009.1755/build-helper.el
+Built build-helper in 4.593s, finished at 2026-10-08T10:43:44+0000

@@ -1,0 +1,14 @@
+
+ • Building package flymake-gradle
+From https://github.com/jojojames/flymake-gradle
+Updating /mnt/store/melpa/working/flymake-gradle/
+Checking out dbedd29b78d4828ef57d4de20867be5df3eaab99
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flymake-gradle/
+  to /tmp/flymake-gradle-YSyfnY/flymake-gradle-20190315.233/
+    flymake-gradle.el -> flymake-gradle.el
+Created flymake-gradle-20190315.233.tar containing:
+  flymake-gradle-20190315.233/
+  flymake-gradle-20190315.233/flymake-gradle-pkg.el
+  flymake-gradle-20190315.233/flymake-gradle.el
+Built flymake-gradle in 2.789s, finished at 2026-10-08T11:03:28+0000

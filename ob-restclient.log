@@ -1,0 +1,14 @@
+
+ • Building package ob-restclient
+From https://github.com/alf/ob-restclient.el
+Updating /mnt/store/melpa/working/ob-restclient/
+Checking out 94dd9cd98ff50717135ed5089afb378616faf11a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-restclient/
+  to /tmp/ob-restclient-Ov0ggx/ob-restclient-20250806.2153/
+    ob-restclient.el -> ob-restclient.el
+Created ob-restclient-20250806.2153.tar containing:
+  ob-restclient-20250806.2153/
+  ob-restclient-20250806.2153/ob-restclient-pkg.el
+  ob-restclient-20250806.2153/ob-restclient.el
+Built ob-restclient in 2.877s, finished at 2026-10-08T11:28:40+0000

@@ -1,0 +1,26 @@
+
+ • Building package languagetool
+From https://github.com/PillFall/languagetool.el
+Updating /mnt/store/melpa/working/languagetool/
+Checking out 4be8f9e6da54867b03b26135008be91b0e7da675
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/languagetool/
+  to /tmp/languagetool-VRKi95/languagetool-20260911.854/
+    languagetool-console.el -> languagetool-console.el
+    languagetool-core.el -> languagetool-core.el
+    languagetool-correction.el -> languagetool-correction.el
+    languagetool-issue.el -> languagetool-issue.el
+    languagetool-java.el -> languagetool-java.el
+    languagetool-server.el -> languagetool-server.el
+    languagetool.el -> languagetool.el
+Created languagetool-20260911.854.tar containing:
+  languagetool-20260911.854/
+  languagetool-20260911.854/languagetool-console.el
+  languagetool-20260911.854/languagetool-core.el
+  languagetool-20260911.854/languagetool-correction.el
+  languagetool-20260911.854/languagetool-issue.el
+  languagetool-20260911.854/languagetool-java.el
+  languagetool-20260911.854/languagetool-pkg.el
+  languagetool-20260911.854/languagetool-server.el
+  languagetool-20260911.854/languagetool.el
+Built languagetool in 6.067s, finished at 2026-10-08T11:18:38+0000

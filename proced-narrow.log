@@ -1,0 +1,14 @@
+
+ • Building package proced-narrow
+From https://github.com/travisjeffery/proced-narrow
+Updating /mnt/store/melpa/working/proced-narrow/
+Checking out 0e2a4dfb072eb0369d0020b429e820ae620d325e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/proced-narrow/
+  to /tmp/proced-narrow-H1k6lI/proced-narrow-20190911.1818/
+    proced-narrow.el -> proced-narrow.el
+Created proced-narrow-20190911.1818.tar containing:
+  proced-narrow-20190911.1818/
+  proced-narrow-20190911.1818/proced-narrow-pkg.el
+  proced-narrow-20190911.1818/proced-narrow.el
+Built proced-narrow in 4.651s, finished at 2026-10-08T11:38:06+0000

@@ -1,0 +1,18 @@
+
+ • Building package switch-window
+From https://github.com/dimitri/switch-window
+Updating /mnt/store/melpa/working/switch-window/
+Checking out 1ccbfa53df499cb31d5ebbe21306cdcc6b06c135
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/switch-window/
+  to /tmp/switch-window-WisaSP/switch-window-20260316.257/
+    switch-window-asciiart.el -> switch-window-asciiart.el
+    switch-window-mvborder.el -> switch-window-mvborder.el
+    switch-window.el -> switch-window.el
+Created switch-window-20260316.257.tar containing:
+  switch-window-20260316.257/
+  switch-window-20260316.257/switch-window-asciiart.el
+  switch-window-20260316.257/switch-window-mvborder.el
+  switch-window-20260316.257/switch-window-pkg.el
+  switch-window-20260316.257/switch-window.el
+Built switch-window in 3.658s, finished at 2026-10-08T11:48:46+0000

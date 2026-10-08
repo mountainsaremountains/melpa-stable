@@ -1,0 +1,14 @@
+
+ • Building package coffee-mode
+From https://github.com/defunkt/coffee-mode
+Updating /mnt/store/melpa/working/coffee-mode/
+Checking out 35a41c7d8233eac0b267d9593e67fb8b6235e134
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/coffee-mode/
+  to /tmp/coffee-mode-sldUr3/coffee-mode-20200315.1133/
+    coffee-mode.el -> coffee-mode.el
+Created coffee-mode-20200315.1133.tar containing:
+  coffee-mode-20200315.1133/
+  coffee-mode-20200315.1133/coffee-mode-pkg.el
+  coffee-mode-20200315.1133/coffee-mode.el
+Built coffee-mode in 3.172s, finished at 2026-10-08T10:47:03+0000

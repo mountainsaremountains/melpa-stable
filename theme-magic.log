@@ -1,0 +1,17 @@
+
+ • Building package theme-magic
+From https://github.com/jcaw/theme-magic
+Updating /mnt/store/melpa/working/theme-magic/
+Checking out 844c4311bd26ebafd4b6a1d72ddcc65d87f074e3
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/theme-magic/
+  to /tmp/theme-magic-YDOgfZ/theme-magic-20190711.2034/
+    theme-magic.el -> theme-magic.el
+    python => python
+Created theme-magic-20190711.2034.tar containing:
+  theme-magic-20190711.2034/
+  theme-magic-20190711.2034/python/
+  theme-magic-20190711.2034/python/wal_change_colors.py
+  theme-magic-20190711.2034/theme-magic-pkg.el
+  theme-magic-20190711.2034/theme-magic.el
+Built theme-magic in 3.284s, finished at 2026-10-08T11:50:10+0000

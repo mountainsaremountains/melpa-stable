@@ -1,0 +1,14 @@
+
+ • Building package clang-format-lite
+From https://github.com/arteen1000/clang-format-lite
+Updating /mnt/store/melpa/working/clang-format-lite/
+Checking out 46681aada7f93170a7e073332a43f8b19ee7b4c5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/clang-format-lite/
+  to /tmp/clang-format-lite-aie9dR/clang-format-lite-20250509.246/
+    clang-format-lite.el -> clang-format-lite.el
+Created clang-format-lite-20250509.246.tar containing:
+  clang-format-lite-20250509.246/
+  clang-format-lite-20250509.246/clang-format-lite-pkg.el
+  clang-format-lite-20250509.246/clang-format-lite.el
+Built clang-format-lite in 3.158s, finished at 2026-10-08T10:46:15+0000

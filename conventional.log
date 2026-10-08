@@ -1,0 +1,20 @@
+
+ • Building package conventional
+From https://github.com/KeyWeeUsr/conventional
+Updating /mnt/store/melpa/working/conventional/
+Checking out d4172953ddb8239108014ee82164892f08371b3b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/conventional/
+  to /tmp/conventional-Oq0Ya9/conventional-20250630.600/
+    conventional-comments.el -> conventional-comments.el
+    conventional-commits.el -> conventional-commits.el
+    conventional-custom.el -> conventional-custom.el
+    conventional.el -> conventional.el
+Created conventional-20250630.600.tar containing:
+  conventional-20250630.600/
+  conventional-20250630.600/conventional-comments.el
+  conventional-20250630.600/conventional-commits.el
+  conventional-20250630.600/conventional-custom.el
+  conventional-20250630.600/conventional-pkg.el
+  conventional-20250630.600/conventional.el
+Built conventional in 2.741s, finished at 2026-10-08T10:48:53+0000

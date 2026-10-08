@@ -1,0 +1,14 @@
+
+ • Building package gotest-ts
+From https://github.com/chmouel/gotest-ts.el
+Updating /mnt/store/melpa/working/gotest-ts/
+Checking out b12e08d925bab705792f14b29acdca9af550d9a8
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gotest-ts/
+  to /tmp/gotest-ts-7XILxw/gotest-ts-20260127.1547/
+    gotest-ts.el -> gotest-ts.el
+Created gotest-ts-20260127.1547.tar containing:
+  gotest-ts-20260127.1547/
+  gotest-ts-20260127.1547/gotest-ts-pkg.el
+  gotest-ts-20260127.1547/gotest-ts.el
+Built gotest-ts in 2.327s, finished at 2026-05-23T17:34:51+0000

@@ -1,0 +1,33 @@
+
+ • Building package gpt
+From https://github.com/stuhlmueller/gpt.el
+Updating /mnt/store/melpa/working/gpt/
+Checking out 9d4752674e6cbf57aee0bc013d99b4c8652e9f60
+Warning: gpt :files spec is equivalent to the default
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gpt/
+  to /tmp/gpt-aIDYx7/gpt-20260207.633/
+    gpt-anthropic.el -> gpt-anthropic.el
+    gpt-api.el -> gpt-api.el
+    gpt-backend.el -> gpt-backend.el
+    gpt-core.el -> gpt-core.el
+    gpt-google.el -> gpt-google.el
+    gpt-http.el -> gpt-http.el
+    gpt-mode.el -> gpt-mode.el
+    gpt-openai.el -> gpt-openai.el
+    gpt-ui.el -> gpt-ui.el
+    gpt.el -> gpt.el
+Created gpt-20260207.633.tar containing:
+  gpt-20260207.633/
+  gpt-20260207.633/gpt-anthropic.el
+  gpt-20260207.633/gpt-api.el
+  gpt-20260207.633/gpt-backend.el
+  gpt-20260207.633/gpt-core.el
+  gpt-20260207.633/gpt-google.el
+  gpt-20260207.633/gpt-http.el
+  gpt-20260207.633/gpt-mode.el
+  gpt-20260207.633/gpt-openai.el
+  gpt-20260207.633/gpt-pkg.el
+  gpt-20260207.633/gpt-ui.el
+  gpt-20260207.633/gpt.el
+Built gpt in 3.608s, finished at 2026-10-08T11:07:56+0000

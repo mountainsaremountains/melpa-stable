@@ -1,0 +1,16 @@
+
+ • Building package f3
+From https://github.com/cosmicexplorer/f3
+Updating /mnt/store/melpa/working/f3/
+Checking out 000009ce4adf7a57eae80512f29c4ec2a1391ce5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/f3/
+  to /tmp/f3-dzvOa9/f3-20180130.1158/
+    f3.el -> f3.el
+    update-commentary.el -> update-commentary.el
+Created f3-20180130.1158.tar containing:
+  f3-20180130.1158/
+  f3-20180130.1158/f3-pkg.el
+  f3-20180130.1158/f3.el
+  f3-20180130.1158/update-commentary.el
+Built f3 in 2.796s, finished at 2026-10-08T11:00:54+0000

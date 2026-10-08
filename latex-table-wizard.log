@@ -1,0 +1,18 @@
+
+ • Building package latex-table-wizard
+From https://github.com/enricoflor/latex-table-wizard
+Updating /mnt/store/melpa/working/latex-table-wizard/
+Checking out 7e30b492ec594e641727fb31d07291e767d0897a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/latex-table-wizard/
+  to /tmp/latex-table-wizard-TxWl0S/latex-table-wizard-20261007.1500/
+    latex-table-wizard.el -> latex-table-wizard.el
+    latex-table-wizard.texi -> latex-table-wizard.texi
+Generating latex-table-wizard.info
+Created latex-table-wizard-20261007.1500.tar containing:
+  latex-table-wizard-20261007.1500/
+  latex-table-wizard-20261007.1500/dir
+  latex-table-wizard-20261007.1500/latex-table-wizard-pkg.el
+  latex-table-wizard-20261007.1500/latex-table-wizard.el
+  latex-table-wizard-20261007.1500/latex-table-wizard.info
+Built latex-table-wizard in 6.101s, finished at 2026-10-08T11:18:49+0000

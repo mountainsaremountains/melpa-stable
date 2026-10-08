@@ -1,0 +1,18 @@
+
+ • Building package aqui
+From https://github.com/kickingvegas/aqui
+Updating /mnt/store/melpa/working/aqui/
+Checking out c8966ed2571ffae1099cc119bceccb8df586dbb2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/aqui/
+  to /tmp/aqui-yfJv17/aqui-20260927.1838/
+  ! lisp/aqui.el -> aqui.el
+  ! docs/aqui.texi -> aqui.texi
+Generating aqui.info
+Created aqui-20260927.1838.tar containing:
+  aqui-20260927.1838/
+  aqui-20260927.1838/aqui-pkg.el
+  aqui-20260927.1838/aqui.el
+  aqui-20260927.1838/aqui.info
+  aqui-20260927.1838/dir
+Built aqui in 5.074s, finished at 2026-10-08T10:40:26+0000

@@ -1,0 +1,14 @@
+
+ • Building package envrc
+From https://github.com/purcell/envrc
+Updating /mnt/store/melpa/working/envrc/
+Checking out ab2853255e376719778ff94d8b718a37cf3e719a
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/envrc/
+  to /tmp/envrc-FNBdQG/envrc-20261005.1129/
+    envrc.el -> envrc.el
+Created envrc-20261005.1129.tar containing:
+  envrc-20261005.1129/
+  envrc-20261005.1129/envrc-pkg.el
+  envrc-20261005.1129/envrc.el
+Built envrc in 4.735s, finished at 2026-10-08T10:57:46+0000

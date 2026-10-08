@@ -1,0 +1,14 @@
+
+ • Building package closql
+From https://github.com/magit/closql
+Updating /mnt/store/melpa/working/closql/
+Checking out 48955ae02cfc7dad93b6bdc9ffd8d4b760dfb62b
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/closql/
+  to /tmp/closql-fLvBFx/closql-20261001.1545/
+    closql.el -> closql.el
+Created closql-20261001.1545.tar containing:
+  closql-20261001.1545/
+  closql-20261001.1545/closql-pkg.el
+  closql-20261001.1545/closql.el
+Built closql in 2.982s, finished at 2026-10-08T10:46:41+0000

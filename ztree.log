@@ -1,0 +1,26 @@
+
+ • Building package ztree
+From https://codeberg.org/fourier/ztree
+Updating /mnt/store/melpa/working/ztree/
+Checking out 48f17807ac6c765a66cf29b2fcdd08f1aa7da7d6
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ztree/
+  to /tmp/ztree-iqwBuz/ztree-20260726.2324/
+    ztree-diff-model.el -> ztree-diff-model.el
+    ztree-diff.el -> ztree-diff.el
+    ztree-dir.el -> ztree-dir.el
+    ztree-protocol.el -> ztree-protocol.el
+    ztree-util.el -> ztree-util.el
+    ztree-view.el -> ztree-view.el
+    ztree.el -> ztree.el
+Created ztree-20260726.2324.tar containing:
+  ztree-20260726.2324/
+  ztree-20260726.2324/ztree-diff-model.el
+  ztree-20260726.2324/ztree-diff.el
+  ztree-20260726.2324/ztree-dir.el
+  ztree-20260726.2324/ztree-pkg.el
+  ztree-20260726.2324/ztree-protocol.el
+  ztree-20260726.2324/ztree-util.el
+  ztree-20260726.2324/ztree-view.el
+  ztree-20260726.2324/ztree.el
+Built ztree in 3.651s, finished at 2026-10-08T11:58:31+0000

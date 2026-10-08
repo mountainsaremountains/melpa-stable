@@ -1,0 +1,14 @@
+
+ • Building package earthfile-mode
+From https://github.com/earthly/earthly-emacs
+Updating /mnt/store/melpa/working/earthfile-mode/
+Checking out 3029e5ab06171ca5947041e95053561e10e5ba41
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/earthfile-mode/
+  to /tmp/earthfile-mode-59Wn4H/earthfile-mode-20230809.2250/
+    earthfile-mode.el -> earthfile-mode.el
+Created earthfile-mode-20230809.2250.tar containing:
+  earthfile-mode-20230809.2250/
+  earthfile-mode-20230809.2250/earthfile-mode-pkg.el
+  earthfile-mode-20230809.2250/earthfile-mode.el
+Built earthfile-mode in 2.821s, finished at 2026-10-08T10:54:40+0000

@@ -1,0 +1,16 @@
+
+ • Building package ob-mermaid
+From https://github.com/arnm/ob-mermaid
+Updating /mnt/store/melpa/working/ob-mermaid/
+Checking out 30c2da02e3d24dbec0d004d3c6dfe7b381500b05
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/ob-mermaid/
+  to /tmp/ob-mermaid-SfRlKk/ob-mermaid-20260323.559/
+    ob-mermaid.el -> ob-mermaid.el
+    test-init.el -> test-init.el
+Created ob-mermaid-20260323.559.tar containing:
+  ob-mermaid-20260323.559/
+  ob-mermaid-20260323.559/ob-mermaid-pkg.el
+  ob-mermaid-20260323.559/ob-mermaid.el
+  ob-mermaid-20260323.559/test-init.el
+Built ob-mermaid in 2.890s, finished at 2026-10-08T11:28:34+0000

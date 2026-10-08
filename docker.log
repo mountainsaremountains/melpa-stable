@@ -1,0 +1,36 @@
+
+ • Building package docker
+From https://github.com/Silex/docker.el
+Updating /mnt/store/melpa/working/docker/
+Checking out 08b9ae67f01431b3b07e7181388a08f3faba6824
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/docker/
+  to /tmp/docker-xg3Y0G/docker-20261001.727/
+    docker-compose.el -> docker-compose.el
+    docker-container.el -> docker-container.el
+    docker-context.el -> docker-context.el
+    docker-core.el -> docker-core.el
+    docker-faces.el -> docker-faces.el
+    docker-group.el -> docker-group.el
+    docker-image.el -> docker-image.el
+    docker-network.el -> docker-network.el
+    docker-process.el -> docker-process.el
+    docker-utils.el -> docker-utils.el
+    docker-volume.el -> docker-volume.el
+    docker.el -> docker.el
+Created docker-20261001.727.tar containing:
+  docker-20261001.727/
+  docker-20261001.727/docker-compose.el
+  docker-20261001.727/docker-container.el
+  docker-20261001.727/docker-context.el
+  docker-20261001.727/docker-core.el
+  docker-20261001.727/docker-faces.el
+  docker-20261001.727/docker-group.el
+  docker-20261001.727/docker-image.el
+  docker-20261001.727/docker-network.el
+  docker-20261001.727/docker-pkg.el
+  docker-20261001.727/docker-process.el
+  docker-20261001.727/docker-utils.el
+  docker-20261001.727/docker-volume.el
+  docker-20261001.727/docker.el
+Built docker in 3.791s, finished at 2026-10-08T10:53:40+0000

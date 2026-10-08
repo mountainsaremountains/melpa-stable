@@ -1,0 +1,28 @@
+
+ • Building package git-overleaf
+From https://github.com/Jamie-Cui/git-overleaf.el
+Updating /mnt/store/melpa/working/git-overleaf/
+Checking out fd95a80bd2c15c9c4aa189b257654be02d041c7e
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/git-overleaf/
+  to /tmp/git-overleaf-avytXQ/git-overleaf-20260830.2356/
+    git-overleaf-auth.el -> git-overleaf-auth.el
+    git-overleaf-core.el -> git-overleaf-core.el
+    git-overleaf-firefox.el -> git-overleaf-firefox.el
+    git-overleaf-http.el -> git-overleaf-http.el
+    git-overleaf-log.el -> git-overleaf-log.el
+    git-overleaf-magit.el -> git-overleaf-magit.el
+    git-overleaf-sync.el -> git-overleaf-sync.el
+    git-overleaf.el -> git-overleaf.el
+Created git-overleaf-20260830.2356.tar containing:
+  git-overleaf-20260830.2356/
+  git-overleaf-20260830.2356/git-overleaf-auth.el
+  git-overleaf-20260830.2356/git-overleaf-core.el
+  git-overleaf-20260830.2356/git-overleaf-firefox.el
+  git-overleaf-20260830.2356/git-overleaf-http.el
+  git-overleaf-20260830.2356/git-overleaf-log.el
+  git-overleaf-20260830.2356/git-overleaf-magit.el
+  git-overleaf-20260830.2356/git-overleaf-pkg.el
+  git-overleaf-20260830.2356/git-overleaf-sync.el
+  git-overleaf-20260830.2356/git-overleaf.el
+Built git-overleaf in 3.066s, finished at 2026-10-08T11:06:32+0000

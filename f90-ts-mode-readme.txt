@@ -1,0 +1,99 @@
+f90-ts-mode is a major mode for editing Fortran 90/2003 (and newer) source
+files, based on Emacs's built-in tree-sitter support (requires Emacs 29+)
+
+Changelog (recent):
+[10-2026]
+  - Transient menu restructured and decomposed.
+  - Support for hideshow and outline added.
+
+[09-2026]
+  - `f90-ts-mode.el' decomposed into several smaller packages.  Experimental
+    `f90-ts-nav' (tree in fortran menu and tree view in side panel) has been
+    made optional and requires a separate use-package to load it,
+    see `README.md'.
+  - `f90-ts-indent-delete-trailing-whitespace' added to automatically delete
+    trailing whitespace after indentation operation.
+  - Font locking of interface name in deferred procedure declaration fixed.
+  - Trimming of trailing whitespace characters in thing-end-of-X navigation
+    added.
+  - Support for Emacs 29 + tree-sitter 0.20.x added (tested with 29.1, 29.3
+    and tree-sitter 0.20.8).
+  - Fontification of error nodes fixed if line limitting is enabled.
+  - Some issues in comment-region operations fixed (preserve indentation,
+    preserve trailing whitespace where possible, keep existing alignment
+    with keep options, do not operate outside of region boundaries, add
+    missing function `f90-ts-indent-region').
+  - Indentation after uncommenting lines in comment-region operation on
+    commented lines of code containing leading ampersand or statement label
+    fixed.
+  - Missing option `keep-or-continued-line' added to
+    `f90-ts--indent-options-alist' for indentation selection options.
+  - Syntax highlighting, indentation and break/join/fill for string literals
+    improved.  This requires a proposed (but not yet merged) tree-sitter
+    language grammar extension.  See README.md for more details.
+  - Testing with Emacs 31.1 and tree-sitter 0.26 added.
+
+[08-2026]
+  - `f90-ts-shift-line-break' as combined break/join function added.
+  - Defcustom `f90-ts-font-lock-error` replaced by
+    `f90-ts-font-lock-error-show'.  Errors are now always fontified by
+    `f90-ts-font-lock-error-face'.  The new defcustom
+    `f90-ts-font-lock-error-show' can be used to turn ERROR node
+    highlighting on and off, or the number of lines to be highlighted for
+    each ERROR node.
+  - Jump-to-rightmost-position (within fill-column) to the interactive fill
+    operation added.
+  - Mark region operations fixed: always consider trimmed region of nodes.
+    Some nodes like a whole "subroutine..end subroutine" block contains a
+    trailing newline, which should not be considered.  Not consequently
+    trimming all spans broke some mark region operations.
+  - About, README and MANUAL entries in the fortran and transient popup menu
+    to view information about the mode added.
+  - Additional font-locking for error regions added.  This can be customized
+    by `f90-ts-font-lock-error' and `f90-ts-font-lock-error-face'.
+  - Smart end completion of coarray "change team ... end team" blocks fixed.
+    It was wrongly assumed that the end statement is "end change team".
+
+Features:
+  - Almost all statements up to F2023
+  - Syntax highlighting, including syntactically incorrect code
+  - Indentation of lines, regions, multiline statements and structure blocks
+  - Alignment for multiline statements with rotation and other options
+  - Smart end completion
+  - Configurable leading ampersand and statement label positions
+  - Breaking and joining of continued lines
+  - Fill and rebalance operations for lines or regions (with rightmost
+    breakpoint selection or interactive break and join session)
+  - Region selection based on tree-sitter nodes
+  - (Un)commenting regions with configurable prefixes and indentation rules
+  - Special comments like doc strings and separators
+    (syntax highlighting and indentation options)
+  - Keyword highlighting in comments (like TODO, Remark etc.)
+  - OpenMP and preprocessor directives
+  - Coarray keywords and statements
+  - Imenu and a Fortran menu in the menu bar
+  - Navigation (defun, things, Xref, side panel tree)
+  - Hideshow and outline support (support for external treesit-fold is pending)
+
+Features can be found by the fortran menu or a transient popup bound
+to the key C-c C-f.
+
+Installation requires the tree-sitter Fortran grammar, which can be found at
+  https://github.com/stadelmanma/tree-sitter-fortran
+
+Basic setup with use-package:
+
+  (use-package f90-ts-mode
+    :mode ("\\.f90\\'" . f90-ts-mode))
+
+See the README and MANUAL at https://github.com/mscfd/emacs-f90-ts-mode
+for full documentation on options, keybindings, etc.
+
+Bugs and features:
+  https://github.com/mscfd/emacs-f90-ts-mode/issues
+
+Notes:
+- Emacs 31 supports 0.26, and the mode runs in both configurations.
+- Emacs 30.x must be linked against tree-sitter 0.25.x at runtime.
+- Emacs 29 support has been tested with treesitter 0.20.8.
+For details see MANUAL at https://github.com/mscfd/emacs-f90-ts-mode

@@ -1,0 +1,14 @@
+
+ • Building package auto-pause
+From https://github.com/lujun9972/auto-pause
+Updating /mnt/store/melpa/working/auto-pause/
+Checking out a4d778de774ca3895542cb559a953e0d98657338
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/auto-pause/
+  to /tmp/auto-pause-RRd856/auto-pause-20160426.1216/
+    auto-pause.el -> auto-pause.el
+Created auto-pause-20160426.1216.tar containing:
+  auto-pause-20160426.1216/
+  auto-pause-20160426.1216/auto-pause-pkg.el
+  auto-pause-20160426.1216/auto-pause.el
+Built auto-pause in 2.776s, finished at 2026-10-08T10:41:17+0000

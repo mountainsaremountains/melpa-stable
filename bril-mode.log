@@ -1,0 +1,14 @@
+
+ • Building package bril-mode
+From https://github.com/nverno/bril-mode
+Updating /mnt/store/melpa/working/bril-mode/
+Checking out da61316385e31973c462a1e8a3213327b34df3ff
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bril-mode/
+  to /tmp/bril-mode-l4C22h/bril-mode-20240315.1157/
+    bril-mode.el -> bril-mode.el
+Created bril-mode-20240315.1157.tar containing:
+  bril-mode-20240315.1157/
+  bril-mode-20240315.1157/bril-mode-pkg.el
+  bril-mode-20240315.1157/bril-mode.el
+Built bril-mode in 2.522s, finished at 2026-10-08T10:43:19+0000

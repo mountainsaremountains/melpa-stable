@@ -1,0 +1,18 @@
+
+ • Building package rbtagger
+From https://github.com/thiagoa/rbtagger
+Updating /mnt/store/melpa/working/rbtagger/
+Checking out 650c428ef145ce697f02ef12cfadd9deb82b856f
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/rbtagger/
+  to /tmp/rbtagger-HlqYfk/rbtagger-20251024.1551/
+    rbtagger.el -> rbtagger.el
+    bin => bin
+Created rbtagger-20251024.1551.tar containing:
+  rbtagger-20251024.1551/
+  rbtagger-20251024.1551/bin/
+  rbtagger-20251024.1551/bin/ruby_index_tags
+  rbtagger-20251024.1551/bin/ruby_index_tags_docker
+  rbtagger-20251024.1551/rbtagger-pkg.el
+  rbtagger-20251024.1551/rbtagger.el
+Built rbtagger in 3.148s, finished at 2026-10-08T11:40:42+0000

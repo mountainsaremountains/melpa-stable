@@ -1,0 +1,14 @@
+
+ • Building package egison-mode
+From https://github.com/egison/egison
+Updating /mnt/store/melpa/working/egison-mode/
+Checking out cbd50c069e9b0791268a2a6bf136ea17f7f995fb
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/egison-mode/
+  to /tmp/egison-mode-wKeUFz/egison-mode-20260720.1006/
+  ! emacs/egison-mode.el -> egison-mode.el
+Created egison-mode-20260720.1006.tar containing:
+  egison-mode-20260720.1006/
+  egison-mode-20260720.1006/egison-mode-pkg.el
+  egison-mode-20260720.1006/egison-mode.el
+Built egison-mode in 5.290s, finished at 2026-10-08T10:55:22+0000

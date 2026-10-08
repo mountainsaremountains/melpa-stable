@@ -1,0 +1,30 @@
+
+ • Building package company-forge
+From https://github.com/pkryger/company-forge.el
+Updating /mnt/store/melpa/working/company-forge/
+Checking out e8329706023daac8fa047623cf87979f5d4b9f12
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/company-forge/
+  to /tmp/company-forge-zvHly6/company-forge-20260408.1038/
+    company-forge.el -> company-forge.el
+    icons => icons
+Created company-forge-20260408.1038.tar containing:
+  company-forge-20260408.1038/
+  company-forge-20260408.1038/company-forge-pkg.el
+  company-forge-20260408.1038/company-forge.el
+  company-forge-20260408.1038/icons/
+  company-forge-20260408.1038/icons/LICENSE.txt
+  company-forge-20260408.1038/icons/comment-discussion-16.svg
+  company-forge-20260408.1038/icons/discussion-closed-16.svg
+  company-forge-20260408.1038/icons/discussion-duplicate-16.svg
+  company-forge-20260408.1038/icons/discussion-outdated-16.svg
+  company-forge-20260408.1038/icons/git-merge-16.svg
+  company-forge-20260408.1038/icons/git-pull-request-16.svg
+  company-forge-20260408.1038/icons/git-pull-request-closed-16.svg
+  company-forge-20260408.1038/icons/git-pull-request-draft-16.svg
+  company-forge-20260408.1038/icons/issue-closed-16.svg
+  company-forge-20260408.1038/icons/issue-draft-16.svg
+  company-forge-20260408.1038/icons/issue-opened-16.svg
+  company-forge-20260408.1038/icons/people-16.svg
+  company-forge-20260408.1038/icons/person-16.svg
+Built company-forge in 2.890s, finished at 2026-10-08T10:47:37+0000

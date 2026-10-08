@@ -1,0 +1,14 @@
+
+ • Building package pcache
+From https://github.com/sigma/pcache
+Updating /mnt/store/melpa/working/pcache/
+Checking out 17d785afa4532043afa8b2dc9ae3d9733528e758
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/pcache/
+  to /tmp/pcache-UPQq37/pcache-20260728.1657/
+    pcache.el -> pcache.el
+Created pcache-20260728.1657.tar containing:
+  pcache-20260728.1657/
+  pcache-20260728.1657/pcache-pkg.el
+  pcache-20260728.1657/pcache.el
+Built pcache in 2.972s, finished at 2026-10-08T11:35:15+0000

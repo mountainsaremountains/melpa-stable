@@ -1,0 +1,74 @@
+
+ • Building package gnosis
+From https://git.thanosapollo.org/emacs-gnosis
+Updating /mnt/store/melpa/working/gnosis/
+Checking out 5f030c9ff27187a5c1aa7131b9cc0719bbd73852
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gnosis/
+  to /tmp/gnosis-67vdgI/gnosis-20260924.630/
+  ! lisp/gnosis-agent-content.el -> gnosis-agent-content.el
+  ! lisp/gnosis-agent-eval-hermes.el -> gnosis-agent-eval-hermes.el
+  ! lisp/gnosis-agent-eval.el -> gnosis-agent-eval.el
+  ! lisp/gnosis-agent.el -> gnosis-agent.el
+  ! lisp/gnosis-anki.el -> gnosis-anki.el
+  ! lisp/gnosis-answer.el -> gnosis-answer.el
+  ! lisp/gnosis-assets.el -> gnosis-assets.el
+  ! lisp/gnosis-backup.el -> gnosis-backup.el
+  ! lisp/gnosis-cloze.el -> gnosis-cloze.el
+  ! lisp/gnosis-dashboard.el -> gnosis-dashboard.el
+  ! lisp/gnosis-db.el -> gnosis-db.el
+  ! lisp/gnosis-export-import.el -> gnosis-export-import.el
+  ! lisp/gnosis-fsrs.el -> gnosis-fsrs.el
+  ! lisp/gnosis-image.el -> gnosis-image.el
+  ! lisp/gnosis-journal.el -> gnosis-journal.el
+  ! lisp/gnosis-lecture.el -> gnosis-lecture.el
+  ! lisp/gnosis-links.el -> gnosis-links.el
+  ! lisp/gnosis-logical-day.el -> gnosis-logical-day.el
+  ! lisp/gnosis-model.el -> gnosis-model.el
+  ! lisp/gnosis-monkeytype.el -> gnosis-monkeytype.el
+  ! lisp/gnosis-nodes.el -> gnosis-nodes.el
+  ! lisp/gnosis-org.el -> gnosis-org.el
+  ! lisp/gnosis-review.el -> gnosis-review.el
+  ! lisp/gnosis-scheduler.el -> gnosis-scheduler.el
+  ! lisp/gnosis-sqlite.el -> gnosis-sqlite.el
+  ! lisp/gnosis-study.el -> gnosis-study.el
+  ! lisp/gnosis-tags.el -> gnosis-tags.el
+  ! lisp/gnosis-tl.el -> gnosis-tl.el
+  ! lisp/gnosis-utils.el -> gnosis-utils.el
+  ! lisp/gnosis-vc.el -> gnosis-vc.el
+  ! lisp/gnosis.el -> gnosis.el
+Created gnosis-20260924.630.tar containing:
+  gnosis-20260924.630/
+  gnosis-20260924.630/gnosis-agent-content.el
+  gnosis-20260924.630/gnosis-agent-eval-hermes.el
+  gnosis-20260924.630/gnosis-agent-eval.el
+  gnosis-20260924.630/gnosis-agent.el
+  gnosis-20260924.630/gnosis-anki.el
+  gnosis-20260924.630/gnosis-answer.el
+  gnosis-20260924.630/gnosis-assets.el
+  gnosis-20260924.630/gnosis-backup.el
+  gnosis-20260924.630/gnosis-cloze.el
+  gnosis-20260924.630/gnosis-dashboard.el
+  gnosis-20260924.630/gnosis-db.el
+  gnosis-20260924.630/gnosis-export-import.el
+  gnosis-20260924.630/gnosis-fsrs.el
+  gnosis-20260924.630/gnosis-image.el
+  gnosis-20260924.630/gnosis-journal.el
+  gnosis-20260924.630/gnosis-lecture.el
+  gnosis-20260924.630/gnosis-links.el
+  gnosis-20260924.630/gnosis-logical-day.el
+  gnosis-20260924.630/gnosis-model.el
+  gnosis-20260924.630/gnosis-monkeytype.el
+  gnosis-20260924.630/gnosis-nodes.el
+  gnosis-20260924.630/gnosis-org.el
+  gnosis-20260924.630/gnosis-pkg.el
+  gnosis-20260924.630/gnosis-review.el
+  gnosis-20260924.630/gnosis-scheduler.el
+  gnosis-20260924.630/gnosis-sqlite.el
+  gnosis-20260924.630/gnosis-study.el
+  gnosis-20260924.630/gnosis-tags.el
+  gnosis-20260924.630/gnosis-tl.el
+  gnosis-20260924.630/gnosis-utils.el
+  gnosis-20260924.630/gnosis-vc.el
+  gnosis-20260924.630/gnosis.el
+Built gnosis in 5.657s, finished at 2026-10-08T11:07:05+0000

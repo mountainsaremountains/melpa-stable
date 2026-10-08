@@ -1,0 +1,56 @@
+
+ • Building package eca
+From https://github.com/editor-code-assistant/eca-emacs
+Updating /mnt/store/melpa/working/eca/
+Checking out d8093beaf356056592e5deff013849296dfa5eb1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eca/
+  to /tmp/eca-a4sFgq/eca-20261007.1657/
+    eca-api.el -> eca-api.el
+    eca-chat-compose.el -> eca-chat-compose.el
+    eca-chat-context.el -> eca-chat-context.el
+    eca-chat-expandable.el -> eca-chat-expandable.el
+    eca-chat-image.el -> eca-chat-image.el
+    eca-chat-inline.el -> eca-chat-inline.el
+    eca-chat.el -> eca-chat.el
+    eca-completion.el -> eca-completion.el
+    eca-config.el -> eca-config.el
+    eca-diff.el -> eca-diff.el
+    eca-doom.el -> eca-doom.el
+    eca-editor.el -> eca-editor.el
+    eca-jobs.el -> eca-jobs.el
+    eca-mcp.el -> eca-mcp.el
+    eca-process.el -> eca-process.el
+    eca-providers.el -> eca-providers.el
+    eca-rewrite.el -> eca-rewrite.el
+    eca-settings.el -> eca-settings.el
+    eca-table.el -> eca-table.el
+    eca-util.el -> eca-util.el
+    eca-workspaces.el -> eca-workspaces.el
+    eca.el -> eca.el
+Created eca-20261007.1657.tar containing:
+  eca-20261007.1657/
+  eca-20261007.1657/eca-api.el
+  eca-20261007.1657/eca-chat-compose.el
+  eca-20261007.1657/eca-chat-context.el
+  eca-20261007.1657/eca-chat-expandable.el
+  eca-20261007.1657/eca-chat-image.el
+  eca-20261007.1657/eca-chat-inline.el
+  eca-20261007.1657/eca-chat.el
+  eca-20261007.1657/eca-completion.el
+  eca-20261007.1657/eca-config.el
+  eca-20261007.1657/eca-diff.el
+  eca-20261007.1657/eca-doom.el
+  eca-20261007.1657/eca-editor.el
+  eca-20261007.1657/eca-jobs.el
+  eca-20261007.1657/eca-mcp.el
+  eca-20261007.1657/eca-pkg.el
+  eca-20261007.1657/eca-process.el
+  eca-20261007.1657/eca-providers.el
+  eca-20261007.1657/eca-rewrite.el
+  eca-20261007.1657/eca-settings.el
+  eca-20261007.1657/eca-table.el
+  eca-20261007.1657/eca-util.el
+  eca-20261007.1657/eca-workspaces.el
+  eca-20261007.1657/eca.el
+Built eca in 4.996s, finished at 2026-10-08T10:54:57+0000

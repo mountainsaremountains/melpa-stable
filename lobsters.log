@@ -1,0 +1,20 @@
+
+ • Building package lobsters
+From https://github.com/tanrax/lobsters.el
+Updating /mnt/store/melpa/working/lobsters/
+Checking out 41ca67e5827793e91834bf03cdefab581783c3d5
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/lobsters/
+  to /tmp/lobsters-EaYuuI/lobsters-20260623.735/
+    lobsters-feed.el -> lobsters-feed.el
+    lobsters-ui.el -> lobsters-ui.el
+    lobsters-variables.el -> lobsters-variables.el
+    lobsters.el -> lobsters.el
+Created lobsters-20260623.735.tar containing:
+  lobsters-20260623.735/
+  lobsters-20260623.735/lobsters-feed.el
+  lobsters-20260623.735/lobsters-pkg.el
+  lobsters-20260623.735/lobsters-ui.el
+  lobsters-20260623.735/lobsters-variables.el
+  lobsters-20260623.735/lobsters.el
+Built lobsters in 3.612s, finished at 2026-10-08T11:20:13+0000

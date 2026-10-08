@@ -1,0 +1,18 @@
+
+ • Building package emojify
+From https://github.com/iqbalansari/emacs-emojify
+Updating /mnt/store/melpa/working/emojify/
+Checking out cfa00865388809363df3f884b4dd554a5d44f835
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/emojify/
+  to /tmp/emojify-jn21vh/emojify-20210108.1111/
+    emojify.el -> emojify.el
+    data => data
+Created emojify-20210108.1111.tar containing:
+  emojify-20210108.1111/
+  emojify-20210108.1111/data/
+  emojify-20210108.1111/data/emoji-sets.json
+  emojify-20210108.1111/data/emoji.json
+  emojify-20210108.1111/emojify-pkg.el
+  emojify-20210108.1111/emojify.el
+Built emojify in 5.540s, finished at 2026-10-08T10:57:28+0000

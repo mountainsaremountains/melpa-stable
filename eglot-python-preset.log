@@ -1,0 +1,17 @@
+
+ • Building package eglot-python-preset
+From https://github.com/mwolson/eglot-python-preset
+Updating /mnt/store/melpa/working/eglot-python-preset/
+Checking out 719b3aa8fd47aec6c1c3094e2468f41b9d588b09
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/eglot-python-preset/
+  to /tmp/eglot-python-preset-zCZtd9/eglot-python-preset-20260617.148/
+    eglot-python-preset.el -> eglot-python-preset.el
+    templates/rass-preset.tpl.py -> templates/rass-preset.tpl.py
+Created eglot-python-preset-20260617.148.tar containing:
+  eglot-python-preset-20260617.148/
+  eglot-python-preset-20260617.148/eglot-python-preset-pkg.el
+  eglot-python-preset-20260617.148/eglot-python-preset.el
+  eglot-python-preset-20260617.148/templates/
+  eglot-python-preset-20260617.148/templates/rass-preset.tpl.py
+Built eglot-python-preset in 3.216s, finished at 2026-10-08T10:55:24+0000

@@ -1,0 +1,14 @@
+
+ • Building package google-c-style
+From https://github.com/google/styleguide
+Updating /mnt/store/melpa/working/google-c-style/
+Checking out af78b49ac4fef8083094d5105f72528ee7d09073
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/google-c-style/
+  to /tmp/google-c-style-zboMhG/google-c-style-20220210.1659/
+    google-c-style.el -> google-c-style.el
+Created google-c-style-20220210.1659.tar containing:
+  google-c-style-20220210.1659/
+  google-c-style-20220210.1659/google-c-style-pkg.el
+  google-c-style-20220210.1659/google-c-style.el
+Built google-c-style in 3.034s, finished at 2026-10-08T11:07:42+0000

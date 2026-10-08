@@ -1,0 +1,45 @@
+
+ • Building package liberime
+From https://github.com/emacs-rime/liberime
+Updating /mnt/store/melpa/working/liberime/
+Checking out 61997ed192afa3a107c4cfe70c28f145e7368388
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/liberime/
+  to /tmp/liberime-7tKIpO/liberime-20260923.938/
+    liberime.el -> liberime.el
+    src => src
+    emacs-module => emacs-module
+    LICENSE -> LICENSE
+    Makefile -> Makefile
+    README.org -> README.org
+Created liberime-20260923.938.tar containing:
+  liberime-20260923.938/
+  liberime-20260923.938/LICENSE
+  liberime-20260923.938/Makefile
+  liberime-20260923.938/README.org
+  liberime-20260923.938/emacs-module/
+  liberime-20260923.938/emacs-module/26/
+  liberime-20260923.938/emacs-module/26/emacs-module.h
+  liberime-20260923.938/emacs-module/27/
+  liberime-20260923.938/emacs-module/27/emacs-module.h
+  liberime-20260923.938/emacs-module/28/
+  liberime-20260923.938/emacs-module/28/emacs-module.h
+  liberime-20260923.938/emacs-module/29/
+  liberime-20260923.938/emacs-module/29/emacs-module.h
+  liberime-20260923.938/emacs-module/30/
+  liberime-20260923.938/emacs-module/30/emacs-module.h
+  liberime-20260923.938/emacs-module/31/
+  liberime-20260923.938/emacs-module/31/emacs-module.h
+  liberime-20260923.938/emacs-module/32/
+  liberime-20260923.938/emacs-module/32/emacs-module.h
+  liberime-20260923.938/liberime-pkg.el
+  liberime-20260923.938/liberime.el
+  liberime-20260923.938/src/
+  liberime-20260923.938/src/init.c
+  liberime-20260923.938/src/interface.c
+  liberime-20260923.938/src/interface.h
+  liberime-20260923.938/src/key_table.c
+  liberime-20260923.938/src/key_table.h
+  liberime-20260923.938/src/liberime-core.c
+  liberime-20260923.938/src/liberime-core.h
+Built liberime in 4.056s, finished at 2026-10-08T11:19:25+0000

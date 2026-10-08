@@ -1,0 +1,18 @@
+
+ • Building package acp
+From https://github.com/xenodium/acp.el
+Updating /mnt/store/melpa/working/acp/
+Checking out 242cef63d76cc1073485847f67a21f6d8406d158
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/acp/
+  to /tmp/acp-4I6nqf/acp-20260914.1318/
+    acp-fakes.el -> acp-fakes.el
+    acp-traffic.el -> acp-traffic.el
+    acp.el -> acp.el
+Created acp-20260914.1318.tar containing:
+  acp-20260914.1318/
+  acp-20260914.1318/acp-fakes.el
+  acp-20260914.1318/acp-pkg.el
+  acp-20260914.1318/acp-traffic.el
+  acp-20260914.1318/acp.el
+Built acp in 3.239s, finished at 2026-10-08T10:38:58+0000

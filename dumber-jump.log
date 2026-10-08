@@ -1,0 +1,14 @@
+
+ • Building package dumber-jump
+From https://github.com/zenspider/dumber-jump
+Updating /mnt/store/melpa/working/dumber-jump/
+Checking out 65684e70c0349709fb745df5f4993425e0d571b2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dumber-jump/
+  to /tmp/dumber-jump-Bob106/dumber-jump-20260722.720/
+    dumber-jump.el -> dumber-jump.el
+Created dumber-jump-20260722.720.tar containing:
+  dumber-jump-20260722.720/
+  dumber-jump-20260722.720/dumber-jump-pkg.el
+  dumber-jump-20260722.720/dumber-jump.el
+Built dumber-jump in 3.144s, finished at 2026-10-08T10:54:19+0000

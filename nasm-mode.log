@@ -1,0 +1,16 @@
+
+ • Building package nasm-mode
+From https://github.com/skeeto/nasm-mode
+Updating /mnt/store/melpa/working/nasm-mode/
+Checking out fab76d8e092419c341b6240fcc7123975db177e1
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/nasm-mode/
+  to /tmp/nasm-mode-grD2DW/nasm-mode-20260509.953/
+    nasm-mode.el -> nasm-mode.el
+    nasmtok.el -> nasmtok.el
+Created nasm-mode-20260509.953.tar containing:
+  nasm-mode-20260509.953/
+  nasm-mode-20260509.953/nasm-mode-pkg.el
+  nasm-mode-20260509.953/nasm-mode.el
+  nasm-mode-20260509.953/nasmtok.el
+Built nasm-mode in 3.332s, finished at 2026-10-08T11:26:28+0000

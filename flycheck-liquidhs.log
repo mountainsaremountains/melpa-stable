@@ -1,0 +1,14 @@
+
+ • Building package flycheck-liquidhs
+From https://github.com/ucsd-progsys/flycheck-liquidhs.el
+Updating /mnt/store/melpa/working/flycheck-liquidhs/
+Checking out c27252ac24d77f4b6eec76a4ba9cd61761a3fba9
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-liquidhs/
+  to /tmp/flycheck-liquidhs-gbgURm/flycheck-liquidhs-20170412.2326/
+    flycheck-liquidhs.el -> flycheck-liquidhs.el
+Created flycheck-liquidhs-20170412.2326.tar containing:
+  flycheck-liquidhs-20170412.2326/
+  flycheck-liquidhs-20170412.2326/flycheck-liquidhs-pkg.el
+  flycheck-liquidhs-20170412.2326/flycheck-liquidhs.el
+Built flycheck-liquidhs in 2.707s, finished at 2026-10-08T11:02:47+0000

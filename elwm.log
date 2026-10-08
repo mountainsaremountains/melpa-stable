@@ -1,0 +1,14 @@
+
+ • Building package elwm
+From https://github.com/Fuco1/elwm
+Updating /mnt/store/melpa/working/elwm/
+Checking out c33b183f006ad476c3a44dab316f580f8b369930
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/elwm/
+  to /tmp/elwm-rnk65g/elwm-20150817.1007/
+    elwm.el -> elwm.el
+Created elwm-20150817.1007.tar containing:
+  elwm-20150817.1007/
+  elwm-20150817.1007/elwm-pkg.el
+  elwm-20150817.1007/elwm.el
+Built elwm in 2.464s, finished at 2026-10-08T10:56:51+0000

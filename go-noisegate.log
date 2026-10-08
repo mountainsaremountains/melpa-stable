@@ -1,0 +1,14 @@
+
+ • Building package go-noisegate
+From https://github.com/go-noisegate/go-noisegate.el
+Updating /mnt/store/melpa/working/go-noisegate/
+Checking out 825d1fb05ec329f938c4c5bed23592f54d326f80
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/go-noisegate/
+  to /tmp/go-noisegate-NcP3V4/go-noisegate-20200502.703/
+    go-noisegate.el -> go-noisegate.el
+Created go-noisegate-20200502.703.tar containing:
+  go-noisegate-20200502.703/
+  go-noisegate-20200502.703/go-noisegate-pkg.el
+  go-noisegate-20200502.703/go-noisegate.el
+Built go-noisegate in 2.853s, finished at 2026-10-08T11:07:25+0000

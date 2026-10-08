@@ -1,0 +1,21 @@
+
+ • Building package triode
+From https://github.com/kickingvegas/triode
+Updating /mnt/store/melpa/working/triode/
+Checking out 1c8af892bd8ba477fccd281271a9bbaee9f606ec
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/triode/
+  to /tmp/triode-2p9EU5/triode-20261005.339/
+  ! lisp/triode.el -> triode.el
+  ! docs/triode.texi -> triode.texi
+  ! docs/images => images
+Generating triode.info
+Created triode-20261005.339.tar containing:
+  triode-20261005.339/
+  triode-20261005.339/dir
+  triode-20261005.339/images/
+  triode-20261005.339/images/triode-tmenu.png
+  triode-20261005.339/triode-pkg.el
+  triode-20261005.339/triode.el
+  triode-20261005.339/triode.info
+Built triode in 8.414s, finished at 2026-10-08T11:52:13+0000

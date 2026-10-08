@@ -1,0 +1,14 @@
+
+ • Building package dw
+From https://github.com/integral-dw/dw-passphrase-generator
+Updating /mnt/store/melpa/working/dw/
+Checking out 61c5718ba64ace4c9e29de18aa2690ecc3f0f258
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/dw/
+  to /tmp/dw-UXW8Qb/dw-20210331.2311/
+    dw.el -> dw.el
+Created dw-20210331.2311.tar containing:
+  dw-20210331.2311/
+  dw-20210331.2311/dw-pkg.el
+  dw-20210331.2311/dw.el
+Built dw in 3.591s, finished at 2026-10-08T10:54:25+0000

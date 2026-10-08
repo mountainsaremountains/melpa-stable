@@ -1,0 +1,18 @@
+
+ • Building package soccer
+From https://github.com/md-arif-shaikh/soccer
+Updating /mnt/store/melpa/working/soccer/
+Checking out 55fa7c959cd51fb05fd1a65ce7ba24de8113caad
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/soccer/
+  to /tmp/soccer-uXcpUz/soccer-20260823.615/
+    soccer-leagues.el -> soccer-leagues.el
+    soccer-source.el -> soccer-source.el
+    soccer.el -> soccer.el
+Created soccer-20260823.615.tar containing:
+  soccer-20260823.615/
+  soccer-20260823.615/soccer-leagues.el
+  soccer-20260823.615/soccer-pkg.el
+  soccer-20260823.615/soccer-source.el
+  soccer-20260823.615/soccer.el
+Built soccer in 3.605s, finished at 2026-10-08T11:46:46+0000

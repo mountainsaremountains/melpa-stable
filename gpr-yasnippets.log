@@ -1,0 +1,24 @@
+
+ • Building package gpr-yasnippets
+From https://github.com/brownts/gpr-yasnippets
+Updating /mnt/store/melpa/working/gpr-yasnippets/
+Checking out d66ea90e8e45f6d0c3bd62185967c26190117296
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/gpr-yasnippets/
+  to /tmp/gpr-yasnippets-vEc2ZZ/gpr-yasnippets-20230516.627/
+    gpr-yasnippets.el -> gpr-yasnippets.el
+    snippets => snippets
+Created gpr-yasnippets-20230516.627.tar containing:
+  gpr-yasnippets-20230516.627/
+  gpr-yasnippets-20230516.627/gpr-yasnippets-pkg.el
+  gpr-yasnippets-20230516.627/gpr-yasnippets.el
+  gpr-yasnippets-20230516.627/snippets/
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/case_construction
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/case_item
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/case_item-others
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/package_declaration
+  gpr-yasnippets-20230516.627/snippets/gpr-mode/project_declaration
+  gpr-yasnippets-20230516.627/snippets/gpr-ts-mode/
+  gpr-yasnippets-20230516.627/snippets/gpr-ts-mode/.yas-parents
+Built gpr-yasnippets in 2.887s, finished at 2026-10-08T11:07:54+0000

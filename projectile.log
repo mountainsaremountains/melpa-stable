@@ -1,0 +1,16 @@
+
+ • Building package projectile
+From https://github.com/bbatsov/projectile
+Updating /mnt/store/melpa/working/projectile/
+Checking out 74a84324b08531ece6ae79d84e981dbe13d9ec81
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/projectile/
+  to /tmp/projectile-DEv6sX/projectile-20260930.434/
+    projectile-consult.el -> projectile-consult.el
+    projectile.el -> projectile.el
+Created projectile-20260930.434.tar containing:
+  projectile-20260930.434/
+  projectile-20260930.434/projectile-consult.el
+  projectile-20260930.434/projectile-pkg.el
+  projectile-20260930.434/projectile.el
+Built projectile in 9.348s, finished at 2026-10-08T11:38:34+0000

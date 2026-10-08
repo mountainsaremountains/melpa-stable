@@ -1,0 +1,14 @@
+
+ • Building package auth-source-kwallet
+From https://github.com/vaartis/auth-source-kwallet
+Updating /mnt/store/melpa/working/auth-source-kwallet/
+Checking out 1e1bff2403966c3a0683ee65fb28cb8d8ff2c389
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/auth-source-kwallet/
+  to /tmp/auth-source-kwallet-s3DB6C/auth-source-kwallet-20250419.1330/
+    auth-source-kwallet.el -> auth-source-kwallet.el
+Created auth-source-kwallet-20250419.1330.tar containing:
+  auth-source-kwallet-20250419.1330/
+  auth-source-kwallet-20250419.1330/auth-source-kwallet-pkg.el
+  auth-source-kwallet-20250419.1330/auth-source-kwallet.el
+Built auth-source-kwallet in 2.990s, finished at 2026-10-08T10:41:00+0000

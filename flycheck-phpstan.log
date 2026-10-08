@@ -1,0 +1,14 @@
+
+ • Building package flycheck-phpstan
+From https://github.com/emacs-php/phpstan.el
+Updating /mnt/store/melpa/working/flycheck-phpstan/
+Checking out 00942a5d5b28560bd08f7355d131074772bb7a01
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/flycheck-phpstan/
+  to /tmp/flycheck-phpstan-NB718k/flycheck-phpstan-20260717.1734/
+    flycheck-phpstan.el -> flycheck-phpstan.el
+Created flycheck-phpstan-20260717.1734.tar containing:
+  flycheck-phpstan-20260717.1734/
+  flycheck-phpstan-20260717.1734/flycheck-phpstan-pkg.el
+  flycheck-phpstan-20260717.1734/flycheck-phpstan.el
+Built flycheck-phpstan in 3.025s, finished at 2026-10-08T11:02:53+0000

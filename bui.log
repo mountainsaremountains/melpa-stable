@@ -1,0 +1,28 @@
+
+ • Building package bui
+From https://github.com/alezost/bui.el
+Updating /mnt/store/melpa/working/bui/
+Checking out 4319e1bf3ff94ff0568eed280ac1f980a4b68679
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/bui/
+  to /tmp/bui-o1AZ3n/bui-20260502.730/
+    bui-button.el -> bui-button.el
+    bui-core.el -> bui-core.el
+    bui-entry.el -> bui-entry.el
+    bui-history.el -> bui-history.el
+    bui-info.el -> bui-info.el
+    bui-list.el -> bui-list.el
+    bui-utils.el -> bui-utils.el
+    bui.el -> bui.el
+Created bui-20260502.730.tar containing:
+  bui-20260502.730/
+  bui-20260502.730/bui-button.el
+  bui-20260502.730/bui-core.el
+  bui-20260502.730/bui-entry.el
+  bui-20260502.730/bui-history.el
+  bui-20260502.730/bui-info.el
+  bui-20260502.730/bui-list.el
+  bui-20260502.730/bui-pkg.el
+  bui-20260502.730/bui-utils.el
+  bui-20260502.730/bui.el
+Built bui in 5.204s, finished at 2026-10-08T10:43:44+0000

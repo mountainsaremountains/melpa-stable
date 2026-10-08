@@ -1,0 +1,14 @@
+
+ • Building package consult-eglot
+From https://github.com/mohkale/consult-eglot
+Updating /mnt/store/melpa/working/consult-eglot/
+Checking out 3e4d9a40911b897c0a2c5d20199d0f7c30bfc1c2
+Copying files (->) and directories (=>)
+  from /mnt/store/melpa/working/consult-eglot/
+  to /tmp/consult-eglot-IuE5um/consult-eglot-20260613.1443/
+    consult-eglot.el -> consult-eglot.el
+Created consult-eglot-20260613.1443.tar containing:
+  consult-eglot-20260613.1443/
+  consult-eglot-20260613.1443/consult-eglot-pkg.el
+  consult-eglot-20260613.1443/consult-eglot.el
+Built consult-eglot in 2.907s, finished at 2026-10-08T10:48:27+0000
